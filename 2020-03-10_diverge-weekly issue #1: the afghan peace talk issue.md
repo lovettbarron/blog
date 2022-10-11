@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #1: The Afghan Peace Talk Issue"
 date: "2020-03-10"
 slug: "diverge-weekly issue #1: the afghan peace talk issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png"
+thumbnail: "/assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png"
 description: ""
 ---
 
@@ -24,7 +24,7 @@ That’s it for this week. As always, I’d encourage you to subscribe if you ha
 
 ## Security Blanket
 
-![](./assets/63a2720be55566b9404bf30c7bcf9add91e2c329-1098x732.jpg)
+![](/assets/63a2720be55566b9404bf30c7bcf9add91e2c329-1098x732.jpg)
 
 [**Google denies link to China’s military over touch-screen tools that may help PLA pilots**](https://www.scmp.com/news/china/science/article/3017141/google-denies-link-chinas-military-over-touch-screen-tools-may)
 

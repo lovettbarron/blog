@@ -4,7 +4,7 @@ title: "Building Co-operative Design Briefs"
 date: "2018-04-13"
 slug: "building-co-operative design briefs"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg"
+thumbnail: "/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg"
 description: ""
 ---
 
@@ -18,7 +18,7 @@ But most briefs fail to provide design teams with an adequate structure for movi
 * Help the client better articulate their goals  
 
 
-![](./assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg)
+![](/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg)
 
 ## **Structure**
 
@@ -42,7 +42,7 @@ A strong design process as much about creating the right environment for great w
 
 The room should have whiteboards and ideally walls that can hold up postit notes or butcher paper for pinning. Pre-seed some buckets for people to fill with post-its and notes. Some examples might include:
 
-![](./assets/ca98be98715c403766d0eef1b917a00564770049-714x342.png)
+![](/assets/ca98be98715c403766d0eef1b917a00564770049-714x342.png)
 
 
 
@@ -61,11 +61,11 @@ Human activity starts from a place of beliefs about a problem or opportunity, an
 There’s a number of facilitation tools you can apply in this section. A solid go-to is the Ad-Lib approach:  
 
 
-![](./assets/4243378559a428d45f97ae8f8a770d3997d4aefb-936x282.png)
+![](/assets/4243378559a428d45f97ae8f8a770d3997d4aefb-936x282.png)
 
 Alternatively, a “spectrum” of Obvious to Far Out hypotheses can be a fun activity for users
 
-![](./assets/38e706a21ede135dea5bccb149d6a2eaadd4532a-966x416.png)
+![](/assets/38e706a21ede135dea5bccb149d6a2eaadd4532a-966x416.png)
 
 ##   
 **3: The Project Goal**
@@ -76,7 +76,7 @@ Once again, an ad-lib approach when facilitating this section can be effective f
 
 
 
-![](./assets/816f923f65580de7a8ff28c28aab42e22791bc58-1188x212.png)
+![](/assets/816f923f65580de7a8ff28c28aab42e22791bc58-1188x212.png)
 
 After filling these buckets with content from the team and voting on them, you should be able to form a sentence:
 
@@ -88,7 +88,7 @@ Once you’ve decided on your Project Goal, it’s time to revisit your stakehol
 
 
 
-![](./assets/ad8251dbc068c25c9a71407f3ba13686ebd7e9b6-792x612.png)
+![](/assets/ad8251dbc068c25c9a71407f3ba13686ebd7e9b6-792x612.png)
 
 Make sure to revisit the constraints. Maybe one of them is no longer a hard constraint, but is instead has become flexible or a guideline. Perhaps the previous deadlines weren’t as important now that the Project Goal has been more effectively articulated.
 

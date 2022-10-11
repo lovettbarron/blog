@@ -4,7 +4,7 @@ title: "Learning with Pressure, Time, and Surface Area"
 date: "2021-10-20"
 slug: "learning-with pressure, time, and surface area"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png"
+thumbnail: "/assets/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png"
 description: ""
 ---
 
@@ -27,7 +27,7 @@ The thing that I’ve really learned here is that an enduring form of learning �
 
 
 
-![](./assets/3748399ba5635611bebd0b2acbb90d1e67fa0c68-690x491.png)
+![](/assets/3748399ba5635611bebd0b2acbb90d1e67fa0c68-690x491.png)
 
   
 
@@ -36,7 +36,7 @@ First, **learning under pressure** is what most of us experience when we’re do
 
 
 
-![](./assets/f5e2a62305c194f2727c8482fa32a73cd693d747-750x500.png)
+![](/assets/f5e2a62305c194f2727c8482fa32a73cd693d747-750x500.png)
 
   
 
@@ -51,7 +51,7 @@ Learning over time works so well because we learn from failure. We fret over our
   
 
 
-![](./assets/f1c9a1a1fbb663a24bea49b4591ddccda3ecaddb-3000x1688.png)
+![](/assets/f1c9a1a1fbb663a24bea49b4591ddccda3ecaddb-3000x1688.png)
 
 Finally, there’s what I tend to think of as **learning via “surface area.”** This is a kind of passive but protracted information absorption that educates, interests, and changes us over time. Spend an extended period of time in nature, or the city, or a company, and you’ll develop a sensitivity to the spaces you’re inhabiting. These passive forms of learning are critical for navigating and inhabiting the systems that have formed around us and are very, very difficult to teach. It’s a type of learning that comes from inhabiting a space over time. This is different (though overlapping) from the time-based mode, in that the time-based version is often somewhat guided by goal and intent, whereas this surface area model is primarily passive in nature. It’s the situation where you take a job to improve your engineering skills, and accidentally end up learning a lot about managing people. It’s the expectation that no matter how good you are, you won’t be effective in a new job for months (if not years) because it takes that long to build muscle memory for the institution.
 
@@ -68,7 +68,7 @@ In principle, you can also use this to your advantage. If you’re interested in
   
 
 
-![](./assets/0ea32cd30b43938845c107d0db8e9eac29120b72-768x512.png)
+![](/assets/0ea32cd30b43938845c107d0db8e9eac29120b72-768x512.png)
 
 Naturally, **these different modes of learning work best in an ensemble.** I’ve mentioned different ways they overlap naturally, but when it comes to planning your own or another’s learning journey, how would you best combine these modes to facilitate your learning outcome?
 

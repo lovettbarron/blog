@@ -4,7 +4,7 @@ title: "Designing trust relationships in research with Knowsi"
 date: "2020-10-09"
 slug: "designing-trust relationships in research with knowsi"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png"
+thumbnail: "/assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png"
 description: ""
 ---
 
@@ -32,7 +32,7 @@ In a webinar I gave last week, [Designing Trust Relationships in Research](https
 
 In the past, a research project was often defined linearly.
 
-![](./assets/31bcf1d1c0a718db0c6b02b9a16db3b78ae46ed2-570x124.png)
+![](/assets/31bcf1d1c0a718db0c6b02b9a16db3b78ae46ed2-570x124.png)
 
 
 
@@ -40,7 +40,7 @@ But with the advent of the GDPR and a more aggressive focus on protecting the pr
 
 
 
-![](./assets/a1dd05550ad45d681970beb3c2e8ef7a0239e995-570x313.png)
+![](/assets/a1dd05550ad45d681970beb3c2e8ef7a0239e995-570x313.png)
 
 ### THE PARTICIPANT EXPERIENCE
 
@@ -50,7 +50,7 @@ Participants don’t have insight into the research per se, but rather the major
 
 
 
-![](./assets/ceff46733d26c87aaeb59cc5263ba3135d0c0ce8-570x398.png)
+![](/assets/ceff46733d26c87aaeb59cc5263ba3135d0c0ce8-570x398.png)
 
 This management of trust cascades into a fairly substantial amount of effort and energy asked of the participants — a tax on energy for their involvement.
 
@@ -58,7 +58,7 @@ By applying a service design and design thinking approach to the participant exp
 
 
 
-![](./assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png)
+![](/assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png)
 
 ### 
 
@@ -78,7 +78,7 @@ Of course, [Knowsi](https://knowsi.com/) makes that a lot easier for you.
 
 
 
-![](./assets/84aceec7e46f36d5f5379b3c49edc67d98d81dc2-570x380.png)
+![](/assets/84aceec7e46f36d5f5379b3c49edc67d98d81dc2-570x380.png)
 
 Over the next few weeks, SAGE Ocean and I will be publishing some of the specific ways that we can design around this, some of which we reviewed in my webinar.
 

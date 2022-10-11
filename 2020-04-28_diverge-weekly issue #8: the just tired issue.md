@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #8: The Just Tired Issue"
 date: "2020-04-28"
 slug: "diverge-weekly issue #8: the just tired issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png"
+thumbnail: "/assets/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png"
 description: ""
 ---
 
@@ -14,7 +14,7 @@ For those of us in countries with a nominal “flattened” curve, it feels like
 
 
 
-![](./assets/a254673bd0cf6c730e318103e21e42ff0a8a5d8a-1180x786.jpg)
+![](/assets/a254673bd0cf6c730e318103e21e42ff0a8a5d8a-1180x786.jpg)
 
 The [impact of uncertainty on stress](https://www.theatlantic.com/health/archive/2015/03/%0Ahow-uncertainty-fuels-anxiety/388066/) is something that is often obvious and widely acknowledged, but still insidious. We might dismiss a friend’s inquiry into our well being with a “Things are good” or “I’m fine” not because we feel that way, but simply because it’s the ingrained default. The construct of normalcy around us — whatever that normal might be — drives our behaviours until those norms are no longer load-bearing.
 
@@ -22,7 +22,7 @@ I think we’re hitting that point where the erosion of localized norms is begin
 
 
 
-![](./assets/15af66b910ad83ba9f2112ba343078f245489b6c-1180x786.jpg)
+![](/assets/15af66b910ad83ba9f2112ba343078f245489b6c-1180x786.jpg)
 
 Instead of other humans, we are engaged in a species-wide war of friction against a virus. Covid-19 is a particularly friction-producing bastard. Its slow incubation timed and high infection rate allowed it to slip past our virological Maginot line, and emergency measures have been the result. By staying home and keeping physically distant, we’re doing something to balance those scales: the virus can’t spread what it can’t reach, and even if it does, it can’t spread far within an isolated household. This creates friction for the virus and we’re starting to see the results — [Angela Merkel’s explanation of the effect of friction on the virus’ spread](https://www.vox.com/2020/4/17/%0A21225916/coronavirus-in-germany-angela-merkel-lifting-lockdown) being perhaps the best framing of the impact that we can have.
 
@@ -34,7 +34,7 @@ The human impact of the Syrian civil war and our current battle with covid-19 ca
 
 
 
-![](./assets/d8e290861a9392f971a761d15b07b72159647cbd-1180x786.jpg)
+![](/assets/d8e290861a9392f971a761d15b07b72159647cbd-1180x786.jpg)
 
 The friends I met in the park had shared how they’d taught themselves to make bagels, how they were looking after a sick friend from a distance, and how they’d rediscovered their PlayStation. Anecdotally, everyone seems to be making sourdough — the shortage of dry yeast in grocery stories spurring folk to discover that yeast that is constantly floating around us. In the book [Wild Ones](https://amzn.to/2Sgs8Rr), Jon Mooallem explores the idea of shifting baselines relative to generational norm-setting — what we understand as “normal” isn’t the normal for our children or those geographically dispersed. But what we’re experiencing now is this shift at a much more dramatic speed.
 
@@ -44,7 +44,7 @@ Writing this newsletter each week has — for me — been a bit like that act of
 
 ## Security Blanket
 
-![](./assets/f560e7fecd4bcf9aed4b51335e99be01a0544ce1-1180x663.jpg)
+![](/assets/f560e7fecd4bcf9aed4b51335e99be01a0544ce1-1180x663.jpg)
 
 [**Foreign Policy: The Next Pandemic Might Not Be Natural**](https://foreignpolicy.com/2020/04/20/coronavirus-pandemic-bioterrorism-preparedness/)
 

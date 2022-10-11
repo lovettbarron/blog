@@ -4,7 +4,7 @@ title: "On Remote Work and the Coronavirus"
 date: "2020-03-06"
 slug: "on-remote work and the coronavirus"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg"
+thumbnail: "/assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg"
 description: ""
 ---
 
@@ -14,7 +14,7 @@ Many of you will think “I can’t do that.” Many of you might be right, sinc
 
 
 
-![](./assets/9e2f148cb1ca3cfcdc2ec65c1b7b1e1fa387ae37-600x356.jpg)
+![](/assets/9e2f148cb1ca3cfcdc2ec65c1b7b1e1fa387ae37-600x356.jpg)
 
 I’ve been working mostly remotely since mid 2017, when I realized with a bit of a shock that the fellowship I had accepted was for a remote team. Turns out it works out well, but oh my god, was the learning curve painful. Currently, I work mostly remotely as a product manager, a job that I would not have guessed would fit that mode.
 
@@ -40,7 +40,7 @@ In this case, the communication is focused, high quality, but also flexible enou
 
 
 
-![](./assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg)
+![](/assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg)
 
 Me casually on my way to the officeOnce you get used to working remotely and find your stride, it can be very, very easy to suddenly wake up on the other side of the day with a brilliantly demolished to-do list, but no clothes and a hole where lunch was supposed to be.
 
@@ -54,7 +54,7 @@ Some folk use things like Pomodoro or “stand up” reminders to keep themselve
 
 
 
-![](./assets/619d1136cb7ae36ce3e7478d0281bb97212b4f0c-1180x488.png)
+![](/assets/619d1136cb7ae36ce3e7478d0281bb97212b4f0c-1180x488.png)
 
 Things slip. It’s just how it goes. With every decision, and action, a little bit of error is introduced into the system. With each subsequent action, a little bit more error is introduced, and over time, these errors compound and you’re not where you thought you were.
 
@@ -76,4 +76,4 @@ Also wash your goddamn hands.
 
 
 
-![](./assets/cb0c693685826df5a996175ca092a0235dbd8620-500x231.gif)
+![](/assets/cb0c693685826df5a996175ca092a0235dbd8620-500x231.gif)

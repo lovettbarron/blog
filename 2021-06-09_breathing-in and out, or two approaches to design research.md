@@ -4,7 +4,7 @@ title: "Breathing In and Out, or Two Approaches to Design Research"
 date: "2021-06-09"
 slug: "breathing-in and out, or two approaches to design research"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg"
+thumbnail: "/assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg"
 description: ""
 ---
 
@@ -36,7 +36,7 @@ If we’re stepping into the unknown, then we want to take a **GENERATIVE** rese
 
 
 
-![](./assets/0208934790e4c3af50b5de001d08077dfddd2b5b-1000x667.jpg)
+![](/assets/0208934790e4c3af50b5de001d08077dfddd2b5b-1000x667.jpg)
 
 We don’t yet have a solution, but rather the idea that there might be an opportunity for our expertise in an adjacent space. A question like **‘How do people structure their time”** opens up the opportunity to stumble upon new knowledge.
 
@@ -58,7 +58,7 @@ But what if we think we know something but need to make sure? This is where **EV
 
 
 
-![](./assets/20d7d1e881ccd5b29c7100a5a27534e1233cf2d8-4000x2671.jpg)
+![](/assets/20d7d1e881ccd5b29c7100a5a27534e1233cf2d8-4000x2671.jpg)
 
 
 
@@ -90,6 +90,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 
 
-![](./assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](/assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on [**Medium**](https://medium.com/knowsi/breathing-in-and-out-or-two-approaches-to-design-research-f26e05b0b4a7)._

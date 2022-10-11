@@ -4,7 +4,7 @@ title: "Functional Immersion"
 date: "2021-08-22"
 slug: "functional-immersion"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg"
+thumbnail: "/assets/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg"
 description: ""
 ---
 
@@ -35,7 +35,7 @@ What I’m curious about is what we might get if we had “functional” immersi
 
 
 
-![](./assets/c8bf5c8211630d53ce8e215e2b74abf61340889b-850x293.png)
+![](/assets/c8bf5c8211630d53ce8e215e2b74abf61340889b-850x293.png)
 
   
 
@@ -82,7 +82,7 @@ With this accessibility and overall smooth platform experience, suddenly a lot o
 
 
 
-![](./assets/74732a3e1fa94a9ea806f677ff2e632a78f4a83c-850x575.png)
+![](/assets/74732a3e1fa94a9ea806f677ff2e632a78f4a83c-850x575.png)
 
   
 
@@ -130,7 +130,7 @@ In this case, Metalnwood showed an example of using a phone as a “button box�
 
 
 
-![](./assets/db1ed5f54c125975eec967ef14da4c6d1a840d91-1202x672.png)
+![](/assets/db1ed5f54c125975eec967ef14da4c6d1a840d91-1202x672.png)
 
 While VR is finding a lot of its purchase in the gaming space (and this demo doesn’t deviate from that mold), we start to see some interesting possibilities when passthru cameras and virtual mirrors to real objects become more tangible. The Facebook demo situates the user at their desk with a laptop in front of them, and so provides a certain amount of analog between your situated and virtual experience. It does this via that passthru functionality mentioned before ([good explainer here](https://www.roadtovr.com/valve-index-passthrough-camera-room-view-3d/)).
 
@@ -147,7 +147,7 @@ What if we had peripherals meant to be interacted with in both virtual and physi
   
 
 
-![](./assets/28fa888d31310326ce53afaa9cc1dd43bff50d7b-965x555.jpg)
+![](/assets/28fa888d31310326ce53afaa9cc1dd43bff50d7b-965x555.jpg)
 
   
 
@@ -161,7 +161,7 @@ What else might such an interface provide? There’s some interesting clues out 
 
 
 
-![](./assets/03098166d49681b7f4d21cf36feb0d600fefc804-600x300.jpg)
+![](/assets/03098166d49681b7f4d21cf36feb0d600fefc804-600x300.jpg)
 
   
 
@@ -170,7 +170,7 @@ The puzzles in Half Life Alyx also present an interesting option, encouraging th
 
 
 
-![](./assets/24a8be6e826f89df0615f98d318a09ea46a294f4-1393x813.jpg)
+![](/assets/24a8be6e826f89df0615f98d318a09ea46a294f4-1393x813.jpg)
 
   
 
@@ -180,7 +180,7 @@ Other alternatives might be, say, a chording-style key controller like the Razer
   
 
 
-![](./assets/795a3b401a13cfdbc4ae1cfae0d8450e38f72f83-350x350.jpg)
+![](/assets/795a3b401a13cfdbc4ae1cfae0d8450e38f72f83-350x350.jpg)
 
   
 
@@ -192,7 +192,7 @@ Or, my personal favourite prototype and something I’m almost too scared to try
 
 
 
-![](./assets/495a44502287e35ebdb184cfb6c0141670acb84e-1136x568.png)
+![](/assets/495a44502287e35ebdb184cfb6c0141670acb84e-1136x568.png)
 
   
 
@@ -202,7 +202,7 @@ It’s pretty easy to imagine such a controller (perhaps merged with a 6dof spac
   
 
 
-![](./assets/75d11fc34e633eb40b0b734df0e770c913438aa9-3036x2144.jpg)
+![](/assets/75d11fc34e633eb40b0b734df0e770c913438aa9-3036x2144.jpg)
 
   
 

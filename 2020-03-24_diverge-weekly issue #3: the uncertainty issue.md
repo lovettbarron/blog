@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #3: The Uncertainty Issue"
 date: "2020-03-24"
 slug: "diverge-weekly issue #3: the uncertainty issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg"
+thumbnail: "/assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg"
 description: ""
 ---
 
@@ -30,7 +30,7 @@ But these decisions and actions have a vital influence on our future and the out
 
 
 
-![](./assets/d6002187139aebae1ee9dc809213a5e65e7916a2-1180x1062.png)
+![](/assets/d6002187139aebae1ee9dc809213a5e65e7916a2-1180x1062.png)
 
 If we’re looking at the longer tail of this crisis, apprehension, mitigation, and ignorance might not be all that different in terms of collective outcomes, but they ARE decisions that we make. This pandemic is a collective action problem: individual actions might offset or buffer one from the worst (or in the case of the spring breakers, drastically increase their own and others’ risk), the aggregate outcome is still likely to be the same. But then the question is, at what scale?
 
@@ -50,7 +50,7 @@ On that note, my wife and I [created a very bleak, no-fun game to try and predic
 
 ## Security Blanket
 
-![](./assets/36fd0fcfbbf7f6b64f7064c2207abdf86d0e6241-550x305.jpg)
+![](/assets/36fd0fcfbbf7f6b64f7064c2207abdf86d0e6241-550x305.jpg)
 
 [**How Coronavirus Scammers Hide On Facebook And YouTube**](https://www.bellingcat.com/news/rest-of-world/2020/03/19/how-coronavirus-scammers-hide-on-facebook-and-youtube/)
 

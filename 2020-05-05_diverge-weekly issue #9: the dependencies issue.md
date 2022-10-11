@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #9: The Dependencies Issue"
 date: "2020-05-05"
 slug: "diverge-weekly issue #9: the dependencies issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg"
+thumbnail: "/assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg"
 description: ""
 ---
 
@@ -14,7 +14,7 @@ The pattern of my day-to-day life is mostly contingent. It rests on the physical
 
 
 
-![](./assets/9aba682bedfafedee8345c053ef49a4bfb16c96c-1180x786.jpg)
+![](/assets/9aba682bedfafedee8345c053ef49a4bfb16c96c-1180x786.jpg)
 
 Over the past months, those dependencies have started to show their cracks. I recently had my Gore-Tex jacket fail, and so the weird properties of Gore-Tex have been on my mind.
 
@@ -24,7 +24,7 @@ But it’s also a fragile fabric. After only a few wears, the body’s oils and 
 
 Taken together, Gore-Tex is a pretty complex material that relies on and leverages multiple systems to perform its function of keeping its wearer dry, INCLUDING the labour and consciousness of its wearer. Failing to wash the jacket, or to properly care for its DWR coating leads to a systemic failure and a wet inhabitant.
 
-![](./assets/4bf307d5bf990cd9149be30538c777b32ce2e086-1180x786.jpg)
+![](/assets/4bf307d5bf990cd9149be30538c777b32ce2e086-1180x786.jpg)
 
 The past few months have taught me about the fragility and interdependence of so many of our systems — especially those systems that underpin our own identities. Part of my identity is being a bit frenetic — constantly reading, writing, making, exploring. Not necessarily anything good, or particularly long-lasting (my short-lived foray into woodworking being an example of this), but it’s part of who I am.
 
@@ -32,7 +32,7 @@ However, the liberty to be that frenetic comes with an absurd web of dependencie
 
 When the coronavirus hit and things shut down, it was like that taped seam ripped or the DWR failed: the bubble built around me wetted through and suddenly the contingent identity was compromised. For me, the dependence on childcare and absolutely catastrophic impact of working full time while caring for a one-year-old was my untaped seam. The fatigue and stress undermined everything else. With daycares now open, I think about this weakness every single day.
 
-![](./assets/e644d6b6af96005145c48d1043e7fcdfaa3ca832-1180x786.jpg)
+![](/assets/e644d6b6af96005145c48d1043e7fcdfaa3ca832-1180x786.jpg)
 
   
 In many ways though, I like having these dependencies. I love what I do (whatever it is that I do), and am massively grateful for the repeated opportunities to do it (whatever that might be). Having someone to thank, to be connected with, and to follow the trail of their experiences as well — these are wonderful things. As is having someone else think about where I get my water 99.9% of the time. Human and physical infrastructure facilitates that opportunity. But the current global crisis — in its utterly tragic and freakishly muted way — is surfacing the stories of where those dependencies suddenly end. [When we played our catastrophe forecasting game](https://andrewlb.com/covid-anxiety/) last month, it also gave my wife and I the chance to game out how that disappearance of resources and infrastructure might transform our own lives.
@@ -43,7 +43,7 @@ Stockpiles that lend resilience might be an appropriate amount of food, a medica
 
 Of course, all of the above is itself contingent. A meaningful relationship with your doctor is unlikely to develop if a single medical professional is covering an impossibly large community. [Contractual relationships like employment are difficult to navigate when power asymmetries undermine one's options](https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon). Liquid assets can scarcely be accumulated without a market that values your labour, or fails to compensate you fairly for it.
 
-![](./assets/435b680d2fd36462a1f93879b17f736b64d69590-1180x786.jpg)
+![](/assets/435b680d2fd36462a1f93879b17f736b64d69590-1180x786.jpg)
 
 A Gore-Tex jacket properly cared for will last you a long time. But getting that jacket in the first place —with the protection it affords and the opportunity to care for it— is a lucky and privileged thing. I do think about the weakness that the coronavirus exposed daily, but I also think about the strengths and imbalance that it surfaced. After all, a failing motor that sputters to a halt still takes you a bit further down the road through simple momentum. And so I think we’ll see that the catastrophic failure of a business will still facilitate opportunities and networks that can cushion its beneficiaries from absolute destitution. Hopefully too, a tragically undermined social safety net in the US will still provide citizens with a small economic buffer — [even if it comes with the mad king’s signature](https://www.nytimes.com/2020/04/14/us/politics/stimulus-check-trump-signature.html). If nothing else, this crisis has taught us that having access to and wearing the right protective gear saves lives.
 
@@ -53,7 +53,7 @@ So I’ll continue to build dependencies even with their fragility: My life has 
 
 ## Security Blanket
 
-![](./assets/4b78e5b258f5ff8f9f3b4894d2ca2488d24b37de-1044x698.png)
+![](/assets/4b78e5b258f5ff8f9f3b4894d2ca2488d24b37de-1044x698.png)
 
 [**Making Sure Peace Isn’t a Casualty of COVID-19 in Fragile States**](https://www.worldpoliticsreview.com/articles/28734/making-sure-peace-isn-t-a-casualty-of-covid-19-in-fragile-states)
 

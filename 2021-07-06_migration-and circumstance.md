@@ -4,7 +4,7 @@ title: "Migration and Circumstance"
 date: "2021-07-06"
 slug: "migration-and circumstance"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png"
+thumbnail: "/assets/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png"
 description: ""
 ---
 
@@ -28,7 +28,7 @@ I left Toronto in 2013 to move to San Francisco, after having a move to New York
   
 
 
-![](./assets/47deba4eedcd6604ec99770825b99786723542d4-800x600.png)
+![](/assets/47deba4eedcd6604ec99770825b99786723542d4-800x600.png)
 
 Currently, I live in Copenhagen with my wife, son, and two pets. We’ve pretty regularly moved cities every 2-3 years since 2013. Our dog, a greyhound, joined us in Washington DC. Our son joined us here in Copenhagen. I don’t know if this city hopping will continue (pretty sure it will tbh), but as I’ve been thinking about it, that idea that migration in my (admittedly hyper privileged) context is city-focused, instead of nation-focused, is pretty interesting to me. I still always say “I’m from Toronto” before catching myself.
 
@@ -47,7 +47,7 @@ For others (like myself), I’m still trying to decide what’s going on. Unlike
 
 When I was living in Toronto, the idea of moving to another city felt somehow crazy. When I was living in San Francisco, the idea of living outside of the US or Canada felt crazy (having dual citizenship between Canada and the US). But when I moved to DC, something about the nature of that city and the people I was surrounded by made the idea of living internationally seem somehow obvious. Some of that was wrapped up in people’s economic and educational backgrounds; or folks who served in the military, or in diplomatic contexts; but broadly hearing people’s stories and lives outside of the comfort of “being a citizen” made for an expansion of my own view on this. But the way everyone spoke of those experiences differed considerably.
 
-![](./assets/7c00bd2d458012c68a9c5e3e86afc403effa93bd-800x600.png)
+![](/assets/7c00bd2d458012c68a9c5e3e86afc403effa93bd-800x600.png)
 
   
 
@@ -77,7 +77,7 @@ Anyway. I’m finding myself thinking about the city vs state dynamic a lot. Par
   
 
 
-![](./assets/b0bfd57ffeae1fa2a9dba06878308521b6bf5025-2000x1000.png)
+![](/assets/b0bfd57ffeae1fa2a9dba06878308521b6bf5025-2000x1000.png)
 
 Still not quite sure what to do about this, but it has helped my thinking on the “What’s Next” question. Still not sure what that is, but this framing has helped shift the discussion around where, how, and why we move for my family and I. And if that’s our disposition, then understanding that is at least helpful.
 

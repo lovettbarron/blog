@@ -4,7 +4,7 @@ title: "Planning your Design Research Trip"
 date: "2019-05-13"
 slug: "planning-your design research trip"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg"
+thumbnail: "/assets/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg"
 description: ""
 ---
 
@@ -36,7 +36,7 @@ Usually this is a Google calendar or a foam core board covered in post-it notes.
 
 
 
-![](./assets/60486a55113ef18b7db3e4a42ae5194a4da83084-640x640.jpg)
+![](/assets/60486a55113ef18b7db3e4a42ae5194a4da83084-640x640.jpg)
 
 
 
@@ -50,7 +50,7 @@ If you’re doing remote research, then you work within the realities of what yo
 
 
 
-![](./assets/3dc904707e960da74d0d662aad43639772103033-1362x828.png)
+![](/assets/3dc904707e960da74d0d662aad43639772103033-1362x828.png)
 
 ### **The Interview Schedule**
 
@@ -61,7 +61,7 @@ Here’s an example of what an interview exploring a new feature or design might
   
 
 
-![](./assets/fcbe3262eb7090725a303b0ba537bfd02a11b9ff-1372x1194.png)
+![](/assets/fcbe3262eb7090725a303b0ba537bfd02a11b9ff-1372x1194.png)
 
 ## **Loose Tolerances**
 
@@ -85,6 +85,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 
 
-![](./assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](/assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on **[Medium](https://medium.com/knowsi/planning-your-design-research-trip-5eef90710026).**_

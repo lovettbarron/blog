@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #2: The Global Pandemic Issue"
 date: "2020-03-17"
 slug: "diverge-weekly issue #2: the global pandemic issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg"
+thumbnail: "/assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg"
 description: ""
 ---
 
@@ -34,7 +34,7 @@ Be safe and be generous. Finally, look after yourself now, because like everyone
 
 ## Security Blanket
 
-![](./assets/63a170eb9964bdad3bc841c542edbd5dc543237b-1180x787.jpg)
+![](/assets/63a170eb9964bdad3bc841c542edbd5dc543237b-1180x787.jpg)
 
 [**Islamic State Advice on Coronavirus Pandemic**](http://www.aymennjawad.org/2020/03/islamic-state-advice-on-coronavirus-pandemic)
 

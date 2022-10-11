@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #5: The First Reflection Issue"
 date: "2020-04-07"
 slug: "diverge-weekly issue #5: the first reflection issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg"
+thumbnail: "/assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg"
 description: ""
 ---
 
@@ -54,7 +54,7 @@ As always, please subscribe to and share Diverge Weekly if you haven’t, and [s
 
 ## Security Blanket
 
-![](./assets/116caf18ccff8b3b9045d4226e27c8d89518219d-512x342.jpg)
+![](/assets/116caf18ccff8b3b9045d4226e27c8d89518219d-512x342.jpg)
 
 [**US cast as culprit in global scrum over coronavirus supplies**](https://www.politico.eu/article/coronavirus-united-states-cast-as-culprit-in-global-scrum-over-supplies/)
 

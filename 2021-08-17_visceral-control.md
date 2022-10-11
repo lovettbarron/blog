@@ -4,7 +4,7 @@ title: "Visceral Control"
 date: "2021-08-17"
 slug: "visceral-control"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/d92a382f0b66b270885d202cf34fe5bf43ed1e90-950x500.png"
+thumbnail: "/assets/d92a382f0b66b270885d202cf34fe5bf43ed1e90-950x500.png"
 description: ""
 ---
 
@@ -23,7 +23,7 @@ But that changed. Before long, I’d learned to shift through the audible and ha
   
 
 
-![](./assets/6f308b89c6a0ed75c188e2668614f12e50e01ceb-2448x2448.jpg)
+![](/assets/6f308b89c6a0ed75c188e2668614f12e50e01ceb-2448x2448.jpg)
 
   
 
@@ -43,7 +43,7 @@ There’s a lot of different kinds of simulation — with “training for real t
 
 
 
-![](./assets/479f0d5cc511570b98c5e4e6000d8c1bd9b3daa3-2660x2128.png)
+![](/assets/479f0d5cc511570b98c5e4e6000d8c1bd9b3daa3-2660x2128.png)
 
   
 
@@ -52,7 +52,7 @@ Or US Navy pilots going through G-force training ([also wtf](https://www.youtube
 
 
 
-![](./assets/79aad6f2856bf8383ef680be5db87fff77eff361-480x360.jpg)
+![](/assets/79aad6f2856bf8383ef680be5db87fff77eff361-480x360.jpg)
 
   
 
@@ -66,13 +66,13 @@ On the arcade end of the spectrum, this feels a bit like driving an automatic ca
 
 
 
-![](./assets/ec40ea9e3503e7c803d55ff888aed459d3bd1445-978x1050.jpg)
+![](/assets/ec40ea9e3503e7c803d55ff888aed459d3bd1445-978x1050.jpg)
 
 The problem is you can’t really do the “close to real” end of the spectrum with our standard peripherals. A mouse has two axes of control we call X and Y, which we use to control a cursor on a flat plane. Conversely, a plane has multiple axes of control: Pitch (elevator, or the Y axis of the stick ), roll (ailerons, or the X axis of the stick), and yaw (rudder, which needs something like a twist stick or actual pedals to control). Then you get into issues of controlling trust, etc. And then each of those axes isn’t just on or off —but rather needs to be represented across a wide set of numbers between its minimum and maximum extensions.
 
 
 
-![](./assets/6db3ad76f2d47323f5eaba94fb9f18852fad6a8a-2508x1558.png)
+![](/assets/6db3ad76f2d47323f5eaba94fb9f18852fad6a8a-2508x1558.png)
 
 You can’t do this effectively on a computer without the actual peripherals of control — the joystick, the rudder, the throttle. etc. Far from just breaking the sense of immersion, what you end up simulating if you try to control that is not an experience, but just the flight model itself: what does the plane do given these conditions? We can, in theory anyway, simulate that 99.9999whatever% in the computer. But with a VR headset, a HOTAS (hands-on throttle and stick), and a rudder set up, I suddenly have multiple axes of control: 2 via joystick, 1 via throttle, 1 via rudder, and at least 3 via the VR headset tracking. Which still only takes us 80, 90% of the way there.
 
@@ -89,7 +89,7 @@ I don’t think that’s a problem.
 
 
 
-![](./assets/bf8b72f1bdf9226a91605fc02850e332a547d9b3-512x341.jpg)
+![](/assets/bf8b72f1bdf9226a91605fc02850e332a547d9b3-512x341.jpg)
 
   
 
@@ -101,7 +101,7 @@ What’s interesting is that when we start to break these layers of control and 
 
 
 
-![](./assets/9e7a691dbb9dd0e821e9b3a956e073dd266b2c60-1600x1067.jpg)
+![](/assets/9e7a691dbb9dd0e821e9b3a956e073dd266b2c60-1600x1067.jpg)
 
 What if I had a trackball set up? The trackball gives me two axes of control, but those axes of control are determined by velocity. I spin the trackball in different directions and the velocity of that movement is translated into control signals. In this scenario, I might be able to control the gantry incredibly effectively — looping it towards its target quickly before slowing it to a more precise stop. It’s almost like spinning a globe and settling on the spot that you aspire to go.
 
@@ -115,7 +115,7 @@ Or, I could use a mouse: it also gives me two axes of control, but that control 
 
 
 
-![](./assets/5fac4b50c47eacda15c977b5d1b765d14af6016d-800x416.jpg)
+![](/assets/5fac4b50c47eacda15c977b5d1b765d14af6016d-800x416.jpg)
 
   
 
@@ -137,7 +137,7 @@ But lacking that need, how else might a car be controlled such that it's appropr
 
 
 
-![](./assets/7815b75b53b1c15b54ee8617593606aa168e7b63-640x481.webp)
+![](/assets/7815b75b53b1c15b54ee8617593606aa168e7b63-640x481.webp)
 
   
 
@@ -154,7 +154,7 @@ It all comes down to a pretty interesting question though: what’s the interact
 
 
 
-![](./assets/7c9535bec378053235888c98950d7fb360ccf31d-400x377.jpg)
+![](/assets/7c9535bec378053235888c98950d7fb360ccf31d-400x377.jpg)
 
   
 

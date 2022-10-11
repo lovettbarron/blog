@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #7: The Gradual Opening Issue"
 date: "2020-04-21"
 slug: "diverge-weekly issue #7: the gradual opening issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/fa767ee6850cafdf3f81431fe11ba34a811ce75a-1180x1184.png"
+thumbnail: "/assets/fa767ee6850cafdf3f81431fe11ba34a811ce75a-1180x1184.png"
 description: ""
 ---
 
@@ -14,7 +14,7 @@ When he left, he wasn’t yet able to stand on his feet. He was just starting to
 
 
 
-![](./assets/03d44af7eb749ee28d18119904f09f7cd6294a2d-1180x786.jpg)
+![](/assets/03d44af7eb749ee28d18119904f09f7cd6294a2d-1180x786.jpg)
 
 Navigating the past weeks and months has been confusing as the coronavirus has made its way around the world and into our lives. At the end of January, I ordered some masks for the family just in case and at the time worried that they’d only get used the next time we had to paint something. This past week, my wife and I have been quietly obsessing over whether sending him back to daycare was the right call — knowing that the health outcomes of our decision wouldn’t reach us for days or weeks.
 
@@ -22,7 +22,7 @@ So much of the work of design is around navigating unknowns, which I’ve writte
 
 
 
-![](./assets/20958ed62466d780885d1de0b7e060206cda97e9-1180x786.jpg)
+![](/assets/20958ed62466d780885d1de0b7e060206cda97e9-1180x786.jpg)
 
 In Copenhagen, the unknowns are being navigated in several ways. People are out. They’ve active and enjoying public space where they can find them. They’re keeping their distance. This photo perfectly captured the “vibe” of a weekend in Copenhagen: Small groups keeping their distance. Masks are still unusual: I wear mine in the market and it clearly surprised people. And the daycares are opening. I navigate these unknowns in a way that is informed by what I see in Asia, and what North America and Europe are only now coming to understand.
 
@@ -30,7 +30,7 @@ Looking at the [Danish government’s decision to open daycares](https://www.the
 
 
 
-![](./assets/31517f39677519070f73a5efab57a78ce5330b41-1180x786.jpg)
+![](/assets/31517f39677519070f73a5efab57a78ce5330b41-1180x786.jpg)
 
 So we’ll see over the next bit. I know many of you reading this are in Canada and the US, and things are [pretty scary](https://ourworldindata.org/grapher/total-cases-covid-19?stackMode=relative&time=2020-02-14..&country=DEU+ITA+DNK+CAN+USA). We’ll see whether what we built holds. In the end, design is in large part about making decisions based on what we’ve learned and committing them to form. It’s not faith, but it might be a particular kind of localized [interpolation](https://en.wikipedia.org/wiki/Interpolation) of what we’ve come to know (or believe) over the true unknowns that still exist within our scope of design. Of course, our methods of interpolation can skew that result [pretty wildly](https://matplotlib.org/1.5.3/examples/images_contours_and_fields/interpolation_methods.html).
 
@@ -42,7 +42,7 @@ Thanks as always for reading this. I tried a bit of a different format this time
 
 ## Security Blanket
 
-![](./assets/312f37cf391a337a6cdce680c266392090dd00b1-1180x663.jpg)
+![](/assets/312f37cf391a337a6cdce680c266392090dd00b1-1180x663.jpg)
 
 [**Why China is Developing Military Vessels at the Center of its Coronavirus Outbreak**](https://www.voanews.com/science-health/coronavirus-outbreak/why-china-developing-military-vessels-center-its-coronavirus)
 

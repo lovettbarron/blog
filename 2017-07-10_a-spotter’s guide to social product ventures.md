@@ -4,7 +4,7 @@ title: "A Spotter’s Guide to Social Product Ventures"
 date: "2017-07-10"
 slug: "a-spotter’s guide to social product ventures"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/c5be1d903e6e21db480a648bbbb7db5451460f72-1280x960.jpg"
+thumbnail: "/assets/c5be1d903e6e21db480a648bbbb7db5451460f72-1280x960.jpg"
 description: ""
 ---
 
@@ -14,7 +14,7 @@ Social Product Ventures exist across a continuum of potential organizational str
 
 
 
-![](./assets/2b8b2b17de1977e1eac4b2016c1497e3830edf8c-842x595.jpg)
+![](/assets/2b8b2b17de1977e1eac4b2016c1497e3830edf8c-842x595.jpg)
 
 This guide came from my experience using the [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas). The canvas is a tool created by Alex Osterwalder et al. to prototype and explore business models in a rapid fire and concise way. The idea for the spotter’s guide wasn’t as a prototyping tool, but as a tool for classification and understanding. At IDEO, we worked with so many different kinds of businesses and business models, that our head would spin. The Business Model Canvas became an invaluable “Sanity Check” tool, especially when something was unfamiliar or sounded too good to be true. The Business Model Canvas helped us break down what we were seeing, and reveal the familiar and unfamiliar for what it was.
 

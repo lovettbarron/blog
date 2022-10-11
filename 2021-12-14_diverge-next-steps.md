@@ -4,7 +4,7 @@ title: "Next Steps for Diverge"
 date: "2021-12-14"
 slug: "diverge-next-steps"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/fd7cfe519d25111a3e8c6ea8273d11b2e862d566-4032x3024.jpg"
+thumbnail: "/assets/fd7cfe519d25111a3e8c6ea8273d11b2e862d566-4032x3024.jpg"
 description: ""
 ---
 

@@ -4,7 +4,7 @@ title: "Reconstructive Design Process"
 date: "2021-04-25"
 slug: "reconstructive-design process"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png"
+thumbnail: "/assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png"
 description: ""
 ---
 
@@ -12,7 +12,7 @@ I love Rick Owens’ runway shows. They’re a consistent (and he is remarkably 
 
 
 
-![](./assets/637d3398841e314a3ab3d013dcb18e0f9a19fca7-1600x2400.jpg)
+![](/assets/637d3398841e314a3ab3d013dcb18e0f9a19fca7-1600x2400.jpg)
 
 
 
@@ -30,7 +30,7 @@ A toile is a mockup of a garment made in cheap cotton fabrics, called muslin or 
 
 
 
-![](./assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png)
+![](/assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png)
 
 By working in this way (and Rick isn’t unique here), he is actively weaving the trajectory of his previous work into the demand for something new, with an upcoming collection. A silhouette might become accentuated or diminished through paneling; or a shoulder made more extreme or muted when unpicked on a toile — all incrementally moving towards the output that is ultimately communicated through polished forms and the communication medium of runways and lookbooks.
 
@@ -43,7 +43,7 @@ At its simplest, design is a perfusion of inputs into a process that results in 
 
 
 
-![](./assets/12c704a82eff6f81d5040c9986de11b7ba181351-850x461.png)
+![](/assets/12c704a82eff6f81d5040c9986de11b7ba181351-850x461.png)
 
 
 
@@ -58,7 +58,7 @@ Boyd’s model does an interesting job of balancing between the introspective an
 
 
 
-![](./assets/1a2384c4fb04c3f8ab1fc05f28187c36351e43bc-1600x2400.jpg)
+![](/assets/1a2384c4fb04c3f8ab1fc05f28187c36351e43bc-1600x2400.jpg)
 
 Rick Owens' work is incredibly emotional and physical. It’s intuitively and perhaps natively evocative of fantasy, sensuality, violence, and a kind of fragile calm that initially belies the intellectual underpinning of his approach. But that only makes sense as a tension, if we believe that the reflexive and intuitive is in contrast to a more intellectual stance, instead of complementary to it.
 
@@ -71,7 +71,7 @@ One of the things that Rick Owens’ work has taught me so far, is that the crit
 
 
 
-![](./assets/1c6a9101363d618fb84f9cb192c68e0cbe1a2e66-1800x1800.jpg)
+![](/assets/1c6a9101363d618fb84f9cb192c68e0cbe1a2e66-1800x1800.jpg)
 
 
 

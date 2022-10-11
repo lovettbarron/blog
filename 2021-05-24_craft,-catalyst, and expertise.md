@@ -4,7 +4,7 @@ title: "Craft, Catalyst, and Expertise"
 date: "2021-05-24"
 slug: "craft,-catalyst, and expertise"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/f306d3c3dea980e9a7481a35ca9bd2aae250693c-1280x720.png"
+thumbnail: "/assets/f306d3c3dea980e9a7481a35ca9bd2aae250693c-1280x720.png"
 description: ""
 ---
 
@@ -17,7 +17,7 @@ First, we don’t always get strong external signals about the complexity of a d
 
 
 
-![](./assets/7c161786916626ee7cb21cec2f59ce990cf61a6c-550x382.png)
+![](/assets/7c161786916626ee7cb21cec2f59ce990cf61a6c-550x382.png)
 
   
 
@@ -32,7 +32,7 @@ And yet we also can’t trust internal signals within a discipline as a good bar
   
 
 
-![](./assets/b7af3d7d642835e635c1db6c71959296512612eb-4000x2666.png)
+![](/assets/b7af3d7d642835e635c1db6c71959296512612eb-4000x2666.png)
 
 Part of the problem is that the true complexity of a discipline is not the skillset per se — but rather what that skillset can unlock. I’ve met a ton of folk who entered into user experience design as their early field — only to have a deep curiosity in security, accessibility, privacy, and social justice EMERGE from their immersion in that craft. In these cases, their core skills within that discipline may vary, but the expertise that discipline served to unlock is unique and potentially highly valued. This gets to the question of who determines what expertise means relative to a given discipline — and who gets to determine when someone gets access?
 
@@ -59,7 +59,7 @@ This gets us to a question that I’ll leave open: what is the value of a discip
   
 
 
-![](./assets/028a9071808dedb07e2d9013bf16ce7e819d44dc-600x402.png)
+![](/assets/028a9071808dedb07e2d9013bf16ce7e819d44dc-600x402.png)
 
 For my part, I’d rather see more skills in design than less, because there is a natural limiting mechanism. After all, the “gate” to being a designer is being able to make a thing — the craft component to it. The systems orientation is something that is either emergent from that craft, or dispositional to the practitioner. As for accessing other disciplines — ultimately this comes in a co-creative way too. The trust you build with colleagues in other disciplines becomes the groundwork for interpreting the skills of others down the road. Good experience with one type of person in another discipline leads to an affinity for that same type of person for future collaboration. This can lead to homogeneity in hiring ([the classic “cultural fit” problem](https://hbr.org/2018/01/how-to-hire)), and ultimately work that lacks relevance or does harm. But engaging with your own discipline critically — and applying that same critical lens to the skills of others — can maybe mitigate the worst of that.
 

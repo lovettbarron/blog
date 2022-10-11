@@ -4,7 +4,7 @@ title: "Legibility in Design"
 date: "2021-05-09"
 slug: "legibility-in design"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/f3927a0562cab57533dda5b6a9a9682c64e6e073-850x499.png"
+thumbnail: "/assets/f3927a0562cab57533dda5b6a9a9682c64e6e073-850x499.png"
 description: ""
 ---
 
@@ -27,7 +27,7 @@ First, on process, this statement reflects a comfort in their own skin that is n
 
 
 
-![](./assets/575f5db03bc9c32ac7cff457b31a03533b71652b-1002x539.png)
+![](/assets/575f5db03bc9c32ac7cff457b31a03533b71652b-1002x539.png)
 
   
 
@@ -44,7 +44,7 @@ That design process is in one moment foreseen and unpredictable in the next, is 
 
 
 
-![](./assets/9550669d74424dda1f8bcc10ede4664dca55174c-920x1156.webp)
+![](/assets/9550669d74424dda1f8bcc10ede4664dca55174c-920x1156.webp)
 
   
 

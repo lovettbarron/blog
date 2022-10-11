@@ -4,7 +4,7 @@ title: "HMW How Might We?"
 date: "2018-05-15"
 slug: "hmw-how might we?"
 author: "Andrew Lovett-Barron"
-thumbnail: "./assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png"
+thumbnail: "/assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png"
 description: ""
 ---
 
@@ -40,7 +40,7 @@ So, that has two parts:
 
 
 
-![](./assets/047067af69d7391f9654dc1e00986e84e3673d7c-456x150.png)
+![](/assets/047067af69d7391f9654dc1e00986e84e3673d7c-456x150.png)
 
   
 **2: Creating HMW statements**
@@ -50,7 +50,7 @@ Creating the HMW statement is tied to how you break down the brief. Reduce Digit
   
 
 
-![](./assets/48c1440fad78fd3ab8eed4593581072352d1fcf6-699x720.png)
+![](/assets/48c1440fad78fd3ab8eed4593581072352d1fcf6-699x720.png)
 
 Consider your timing — you might want to vote at this stage, and only pick a few HMWs to focus on.
 
@@ -60,7 +60,7 @@ This isn’t usually necessary for experienced design teams, but it’s a good w
 
 
 
-![](./assets/f568f68b627859473b1a4fa7c4ed5a0cc565ab6a-702x549.png)
+![](/assets/f568f68b627859473b1a4fa7c4ed5a0cc565ab6a-702x549.png)
 
 Repeat this step for each of the main HMWs you’ve selected.
 
@@ -72,7 +72,7 @@ Then set a time limit and possibly a goal. 5 minutes and 5 ideas is usually easy
 
 
 
-![](./assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png)
+![](/assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png)
 
 After 5 minutes, ask everyone to go around and put their sketches up on the board, describing them as they go. Ask others to sketch new ideas or changes as they are inspired by what they see. Spend a few minutes talking about the ideas after everyone has had their turn.
 
@@ -109,4 +109,4 @@ Collecting the right consent from participants, scheduling, and organizing the m
 _Note: Thanks to_ [_Ayla Newhouse_](https://medium.com/u/d3670aea1173?source=post_page-----c04423a4437d--------------------------------) _for co-developing this tool for a workshop we taught together._
 
 _This article was originally published on [**Medium**](https://medium.com/knowsi/hmw-how-might-we-c04423a4437d)._
-[**Medium**](https://medium.com/knowsi/hmw-how-might-we-c04423a4437d)._
+**Medium**](https://medium.com/knowsi/hmw-how-might-we-c04423a4437d)._
