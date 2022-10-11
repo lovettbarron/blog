@@ -5,7 +5,7 @@ title: "Renewing Spaces"
 date: "2021-11-16",
 slug: "renewing-spaces",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png".
+thumbnail: "./assets/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png".
 description: ""
 ---
 
@@ -105,7 +105,7 @@ I’m a very firm believer in rapid, bordering on frantic iteration with the bel
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/4e97abc2c8342ee0f7b63320e6cb92b4dd12ef10-739x546.png)
+![](./assets/4e97abc2c8342ee0f7b63320e6cb92b4dd12ef10-739x546.png)
 
   
 

@@ -5,7 +5,7 @@ title: "A More Intentional Wardrobe"
 date: "2020-01-19",
 slug: "a-more intentional wardrobe",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/428e54b341e263ac3d2ddf8448455e8410b2856b-1176x1424.png".
+thumbnail: "./assets/428e54b341e263ac3d2ddf8448455e8410b2856b-1176x1424.png".
 description: ""
 ---
 
@@ -21,7 +21,7 @@ The digital closet is a trope that I’ve seen quite a bit from the tangible int
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/fef95b056e742a031524b621d0b25195e2e89c45-500x281.gif)
+![](./assets/fef95b056e742a031524b621d0b25195e2e89c45-500x281.gif)
 
 Elsewhere in my life, I’d been using different tools that “automated” the creative and planning side of personal fitness. Strava and TrainingPeaks both have scaling training plans that tie into your phone and your Garmin, effectually offloading the responsibility to plan and personalize. But I’ve come to believe this was creating an intellectual weakness in how I approached maintaining the body. When a training plan ended, or if I got knocked off it somehow by work, a cold, or travel, the return to that curated path felt unnatural. Despite the exhaustive metrics surrounding me, I didn’t know how I got there, so I didn’t know how (or why) to continue.
 
@@ -29,7 +29,7 @@ More recently, I’ve been using plans from the MT Institute, which just come as
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/a8e47e8a7e87c759d6e30a46f260e2cc2f2a5f62-225x400.jpg)
+![](./assets/a8e47e8a7e87c759d6e30a46f260e2cc2f2a5f62-225x400.jpg)
 
 The MT Institute App
 
@@ -79,7 +79,7 @@ So I set out to implement it.
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d621e88d8675917fb85a34a74328db2af7d4136a-2792x1800.png)
+![](./assets/d621e88d8675917fb85a34a74328db2af7d4136a-2792x1800.png)
 
 Spreadsheet of Clothes
 
@@ -89,7 +89,7 @@ This was the project of an afternoon, quietly accomplished during my son’s nap
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/755c01091bc05cc6609161263b2a484be961b414-2880x1800.png)
+![](./assets/755c01091bc05cc6609161263b2a484be961b414-2880x1800.png)
 
 Too Many Jackets
 
@@ -99,7 +99,7 @@ Too Many Jackets
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/27498cadfe42178e7f8179f500d9b2b7058871d5-928x1366.png)
+![](./assets/27498cadfe42178e7f8179f500d9b2b7058871d5-928x1366.png)
 
 Model of an Outfit
 
@@ -109,7 +109,7 @@ Then, when browsing, I can view the individual outfits with a description and a 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9cf386ffbd6b6974b36caf09b0dd66a98ff38b6b-704x590.png)
+![](./assets/9cf386ffbd6b6974b36caf09b0dd66a98ff38b6b-704x590.png)
 
 Thumbnail of an Outfit
 
@@ -123,7 +123,7 @@ The manual way to do this is to create a view for a table, and then filter accor
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e854e76d3ec1ec518a6ee591ef7d84c9ea9517e1-2190x1402.png)
+![](./assets/e854e76d3ec1ec518a6ee591ef7d84c9ea9517e1-2190x1402.png)
 
 A Single Outfit
 
@@ -133,7 +133,7 @@ A Single Outfit
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d76436e8d38eec95adbb2a4a890efe6a6a2313ea-1632x1664.png)
+![](./assets/d76436e8d38eec95adbb2a4a890efe6a6a2313ea-1632x1664.png)
 
 Filter View
 
@@ -143,13 +143,13 @@ Calendaring is usable but a bit inefficient. This is an example of the past few 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/5cef8b0954bcb30674abf9cdd83957b9a7e2f8ea-2128x1040.png)
+![](./assets/5cef8b0954bcb30674abf9cdd83957b9a7e2f8ea-2128x1040.png)
 
 What was useful (again, an API would be better) was filtering calendars by day, and then adding the view inline as shown below. This allows a trivial dashboard to be created, though again, it’s not particularly useful without a way to dig into the relations. The other frustrating piece is that these views seem to “reset” depending on other navigation you do within the database.
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9e8caeba720c5c81c323c03b2dc8240872b7e343-2880x1642.png)
+![](./assets/9e8caeba720c5c81c323c03b2dc8240872b7e343-2880x1642.png)
 
 Dashboard View
 

@@ -5,7 +5,7 @@ title: "Diverge Weekly Issue #13: The Endemic Issue"
 date: "2020-06-03",
 slug: "diverge-weekly issue #13: the endemic issue",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg".
+thumbnail: "./assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg".
 description: ""
 ---
 
@@ -15,7 +15,7 @@ On February 23rd, Ahmaud Arbery was chased down while he was on a jog by vigilan
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/4dbabf3793d4aa40bdbd763f40ca24ec65f596e6-1180x786.jpg)
+![](./assets/4dbabf3793d4aa40bdbd763f40ca24ec65f596e6-1180x786.jpg)
 
 On March 13th, Breonna Taylor, an EMT in Kentucky, [was shot eight times in her home after police entered on a “no-knock” warrant](https://www.vox.com/2020/5/13/21257457/breonna-taylor-louisville-shooting-ahmaud-arbery-justiceforbr). As the police did not identify themselves, Breonna’s boyfriend Kenneth Walker thought they were experiencing a home invasion and attempted to defend himself and Breonna. Gun ownership is widespread and legalized in the US, and Kenneth fired at the legs of one of the officers, not knowing it was the police. Breonna Taylor was killed by indiscriminate return fire. Kenneth’s call to emergency services stated “I don’t know what happened … somebody kicked in the door and shot my girlfriend.” Shortly after, he was arrested by the police for assault. The individual the police were searching for [was already in police custody](https://eu.usatoday.com/story/news/nation/2020/05/13/breonna-taylor-not-target-louisville-police-investigation-when-shot/5181690002/) when the police invaded Taylor and Walker’s home.
 
@@ -25,7 +25,7 @@ Finally, on the same day in Minneapolis, a white police officer had his knee on 
 
 In the week since George Floyd was murdered, protests have started and escalated [across the United States](https://www.bbc.com/news/world-us-canada-52872401) and [around the world](https://www.npr.org/2020/05/31/866428272/george-floyd-reverberates-globally-thousands-protest-in-germany-u-k-canada). For example, in Copenhagen, [2000 people marched on Sunday](https://www.thelocal.dk/20200531/over-1000-protest-in-denmark-over-the-death-of-black-american-george-floyd) in front of the US embassy, a sign of support and outrage against a system that the United States has —unfortunately — come to stand for: white supremacy.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/143a841e7abb9e2300ae65f4e5c5a12181df876a-1180x786.jpg)
+![](./assets/143a841e7abb9e2300ae65f4e5c5a12181df876a-1180x786.jpg)
 
   
 I write a lot about systems in this newsletter, and how systems come to be influenced, leveraged, and undermined. I believe that the real intersection between design, politics, and international relations is around this capacity to not DESIGN systems (which is hubristic and insane), but rather influence and navigate systems (which we can do both intuitively and intentionally). [Trevor Noah articulated the flashpoint of the past month brilliantly](https://www.youtube.com/watch?v=v4amCfVbA_c), starting with Amy Cooper. [“You have this woman who blatantly knew how to use the power of her whiteness to threaten the life of another man and his blackness.”](https://youtu.be/v4amCfVbA_c?t=214).
@@ -40,7 +40,7 @@ Currently, in America, people are on the streets questioning the very foundation
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/906df5a0131754ac5d89d247358d9e6c66271235-1180x1770.jpg)
+![](./assets/906df5a0131754ac5d89d247358d9e6c66271235-1180x1770.jpg)
 
 Systems of power and oppression are often parasitic to something more fundamental: powerful actors within those dominating systems irrevocably wrap themselves in the flag, for example. They will insist that to question it is to question other values, peoples, and histories. But it’s more complicated than that. America should be proud of its role in crushing fascism and the Nazis in World War II, while also being [ashamed that black American soldiers were lynched for walking with pride upon returning home from the war.](https://www.newyorker.com/news/news-desk/the-tragic-forgotten-history-of-black-military-veterans) Systemic ideals like checks and balances between the governing houses and the rule of law can be lauded for their intention, even if the result included the perpetuation of Jim Crow laws in the South for most of the 20th century, and a de facto or [new Jim Crow](https://amzn.to/2XvMDN0) system through mass incarceration of black Americans.
 
@@ -50,7 +50,7 @@ Anyway. Something has to change. America as a concept and as a country will not 
 
 ## Security Blanket
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1f61aad452abb5427a579b081f74648318dbf911-1180x1007.jpg)
+![](./assets/1f61aad452abb5427a579b081f74648318dbf911-1180x1007.jpg)
 
 [**When Jim Crow Reigned Amid the Rubble of Nazi Germany**](https://www.nytimes.com/2020/02/19/magazine/blacks-wwii-racism-germany.html)
 

@@ -5,7 +5,7 @@ title: "The Problem with Validity"
 date: "2021-03-15",
 slug: "validity-problem",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png".
+thumbnail: "./assets/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png".
 description: ""
 ---
 
@@ -26,7 +26,7 @@ This is often what we talk about when we talk about validity — the degree to w
 
 ## **The Utility of Theory**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/ac9a324f63e6c97dcfea793a2de8d4f9f560f7bd-800x533.png)
+![](./assets/ac9a324f63e6c97dcfea793a2de8d4f9f560f7bd-800x533.png)
 
   
 
@@ -68,7 +68,7 @@ Post-modernist qualitative research then situates the researcher as observing an
 
 ## **Why Protection**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d78c0253e78fb0abd7b61c50dee0672d54859ab6-4050x2700.png)
+![](./assets/d78c0253e78fb0abd7b61c50dee0672d54859ab6-4050x2700.png)
 
   
 

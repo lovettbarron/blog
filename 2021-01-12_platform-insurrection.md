@@ -5,7 +5,7 @@ title: "Platform Insurrection"
 date: "2021-01-12",
 slug: "platform-insurrection",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg".
+thumbnail: "./assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg".
 description: ""
 ---
 
@@ -18,7 +18,7 @@ Power manifests in numerous ways, but there are a few mechanisms that stand out 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/893aa61619841565b6a023760c4871286be74f4b-1100x619.png)
+![](./assets/893aa61619841565b6a023760c4871286be74f4b-1100x619.png)
 
 We all know charismatic people. People who draw attention, prestige, and support — but also mold themselves to the constraints that maintaining that attention, prestige, and support demand. It’s a power that manifests in strange ways: oratory can unlock it, beauty can facilitate it, passion can give rise to it. Some people just wield it naturally. But it is distinguished as a capacity to persuade in ways that other sources of power cannot, and can create a kind of internalized consent by those who become persuaded. And Trump is a savant when it comes to this form of power.
 
@@ -34,7 +34,7 @@ There’s a lot going on, but I’d argue there are two complementary systemic f
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9565af0848f4496527ad20e8cdec98fab54a07cb-2048x1366.png)
+![](./assets/9565af0848f4496527ad20e8cdec98fab54a07cb-2048x1366.png)
 
 
 
@@ -53,11 +53,11 @@ When supporters of the defeated president stormed the Capitol last Wednesday (I�
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/fe506b456bc4c5190f06f83d2c903ed968b97b3f-1024x536.jpg)
+![](./assets/fe506b456bc4c5190f06f83d2c903ed968b97b3f-1024x536.jpg)
 
 But social media platforms weren’t the only thing deterred. During the George Floyd protests only six months ago, National Guard units were deployed across numerous cities, including extensively within the District of Columbia. The now iconic comparative photo of a national guard unit standing on the steps of the Lincoln Memorial vs the chaos that befell the Capitol building two miles and six months later is poignant, not just for what it says about who force is levied against, but also what force-wielding institutions felt empowered to do.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg)
+![](./assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg)
 
   
 
@@ -77,7 +77,7 @@ So, ultimately Ashli Babbit died for nothing — a persuaded protestor in an alg
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/88d5343e2b9b93301b6f42977eba62e83e7459a0-466x463.png)
+![](./assets/88d5343e2b9b93301b6f42977eba62e83e7459a0-466x463.png)
 
 And it is nowhere near over. I suspect that this event, and social media platform’s unwillingness to moderate extremist content that falls in line with their home state’s leadership, might mean some serious regulatory changes are coming to these platforms — and I hope that’s a good thing. We still need to square how these platforms are both global and deeply, painfully domestic to America. [WhatsApp caused the emergence of mob violence in India](https://www.washingtonpost.com/politics/2020/02/21/how-misinformation-whatsapp-led-deathly-mob-lynching-india/), [a genocide was facilitated on Facebook](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html), and last Wednesday could have easily become a bloodbath thanks to Twitter and Facebook's inaction.
 

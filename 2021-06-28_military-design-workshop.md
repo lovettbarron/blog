@@ -5,7 +5,7 @@ title: "Designers in the Military"
 date: "2021-06-28",
 slug: "military-design-workshop",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png".
+thumbnail: "./assets/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png".
 description: ""
 ---
 
@@ -18,7 +18,7 @@ I’ve been slowly working my way through a masters program in security studies,
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/7548e0f3e8f5abcedd12a7f7d1a00820b20f38dd-850x558.png)
+![](./assets/7548e0f3e8f5abcedd12a7f7d1a00820b20f38dd-850x558.png)
 
 While I was drawing inspiration from the military strategy and theory realm to inform my thinking about design, however, there were a broad swath of military planners, strategists, and thinkers who were doing the same from my chosen discipline. A year or so ago, I attended a seminar at the University of Copenhagen on [design thinking and the military](https://cms.polsci.ku.dk/events/regaining-the-advantage-the-promises-of-design-and-innovation-methodologies-for-civil--military-organisations/), after being hilariously targeted by Instagram ads for the same. There, I met a professor at the Canadian Forces College, Dr. Philippe Beaulieu-Brossard, who turned out to be my neighbour, and we got to chatting. He then served to introduce me and graciously welcome me into a [community of military and design practitioners](https://aodnetwork.ca/) he was forming around this question of using design as a lever for reflexivity and foresight within the defence community.
 
@@ -32,7 +32,7 @@ I spent the past week participating in one of the key outcomes of Philippe’s t
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/52169f0fb36c1cd9f165f23f312adfb584cb8503-1360x1070.png)
+![](./assets/52169f0fb36c1cd9f165f23f312adfb584cb8503-1360x1070.png)
 
 The participants came from academic and defence institutions from across NATO and NATO strategic partners, and most of whom had some existing connection to — or at least disposition for — military design thinking. But only a handful of us were design practitioners in the traditional sense of using design to create objects and experiences — a game designer, a hacker/maker, and myself as a service designer and prototyper. I had some trepidation around this, since in general I tend to believe that without the making part, you’re not actually doing design. What I was dismissing with that criticism was that while most of the participants weren’t engaged in design in their day-to-day, they were perfectly willing to make things tangible with whatever they had access to.
 
@@ -53,7 +53,7 @@ Unfortunately, that latter point is likely one big failing — and I think is mo
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/cc15457ae67a826be6f11e2c45d2ad3d85401992-1304x836.png)
+![](./assets/cc15457ae67a826be6f11e2c45d2ad3d85401992-1304x836.png)
 
 We saw that result with some of the remote participants in the workshop on two levels — those who were paired as remote contributors to in-person teams, and an entirely remote team. For the mixed remote/in-person teams, the on-off cadence of participation made it difficult for those participants to get the whole picture, and as a result, ended up primarily adding value through “on-demand crits.” In the best scenarios, they helped us speed up our iterative cycles and get to results that we wouldn’t have seen without that on-demand external eye. In the worst cases, it actually served to disrupt the relatively tightly packed working sessions as we struggled with Discord and connections. But ultimately for each of the in-person teams (who, I’ll remind you, were packed full of senior NATO officers, academics, and strategists), we got to a prototype that one could understand, if not directly play.
 

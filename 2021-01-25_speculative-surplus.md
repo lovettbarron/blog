@@ -5,7 +5,7 @@ title: "Speculative Surplus"
 date: "2021-01-25",
 slug: "speculative-surplus",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/c225207548b1e3e251e4d7f307cce5057cfc31cd-1190x755.png".
+thumbnail: "./assets/c225207548b1e3e251e4d7f307cce5057cfc31cd-1190x755.png".
 description: ""
 ---
 
@@ -28,7 +28,7 @@ I’ve been wearing mostly military inspired clothes or actual military surplus 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/352d2078e86a82bff1751c195c960f52298c5e0e-604x359.jpg)
+![](./assets/352d2078e86a82bff1751c195c960f52298c5e0e-604x359.jpg)
 
 There’s a risk in dressing in such militarized styles though, or really any homogenized set of clothes: that one’s style will become a costume. Techwear — a style built around technical fabrics and functional apparel — is an example of this, with its merger of special forces and snowboarding. As an [Acronym](https://www.gq.com/story/errolson-hugh-acronym-profile) fan myself, the line between dressing as Mall Ninja Team 6 vs a well-considered streetwear outfit is narrow.
 
@@ -39,13 +39,13 @@ Done well, techwear is an elegant statement on what it means to be a city dwelle
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/136be2b0a241451dde96ce1b25c4649477ff92d1-768x960.jpg)
+![](./assets/136be2b0a241451dde96ce1b25c4649477ff92d1-768x960.jpg)
 
 
 
 This is not so great. I’d more readily frame this as maximalist cosplay with a fascistic bent.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/de4107f17ecba861399ecb29370adbb84bbc6c00-857x1020.jpg)
+![](./assets/de4107f17ecba861399ecb29370adbb84bbc6c00-857x1020.jpg)
 
   
 
@@ -64,7 +64,7 @@ Such fantasist apparel can often represent a kind of speculation about what diff
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0a04ca26c63ff253366ddaf67b80339701f43dd7-2000x1333.jpg)
+![](./assets/0a04ca26c63ff253366ddaf67b80339701f43dd7-2000x1333.jpg)
 
 Each of these timelines carries its own constraints though, which serve to construct and limit those worlds towards recognizable definition. The fact that a [techwear](https://www.esquire.com/style/mens-fashion/g31213240/best-techwear-brands/) fit is identifiable from a [gorpcore](https://www.reddit.com/r/malefashionadvice/comments/hr0lba/a_guide_to_gorpcore/) fit or a [normcore](https://www.highsnobiety.com/p/what-is-normcore/) fit is frankly incredible, even if that identification takes place within affinity groups familiar enough with the brands that demarcate these stylistic borders. Our capacity to construct taxonomies of style — and for individuals to both consciously and unconsciously adhere to those styles — is a remarkable quality in and of itself, and speaks to some deeper quality of the temporal and tribal core that dressing oneself represents.
 
@@ -96,7 +96,7 @@ My [intentional wardrobe](https://andrewlb.com/a-more-intentional-wardrobe/) exp
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f6e46b8f39687c8a86a5705305b9eab8d653bca5-2220x666.png)
+![](./assets/f6e46b8f39687c8a86a5705305b9eab8d653bca5-2220x666.png)
 
   
 
@@ -125,7 +125,7 @@ One of my favourite brands, Hamcus, is worth engaging with in this way. [I’ve 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/39711104fdec04cd08559b2b3deff6f9bf3b4391-910x806.jpg)
+![](./assets/39711104fdec04cd08559b2b3deff6f9bf3b4391-910x806.jpg)
 
 
 
@@ -148,7 +148,7 @@ In the drawdown to the Vietnam war, the pervasiveness of US Army and marine unif
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/8aa006e29e4cc8c4dbab998af2edb261ec71435b-1592x1250.jpg)
+![](./assets/8aa006e29e4cc8c4dbab998af2edb261ec71435b-1592x1250.jpg)
 
   
 
@@ -157,7 +157,7 @@ For my generation, the dominant wars have been in the Middle East, albeit in two
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/cba15c290b72e8b3719e57510c1e6485fbe3bb4e-1024x682.png)
+![](./assets/cba15c290b72e8b3719e57510c1e6485fbe3bb4e-1024x682.png)
 
 
 
@@ -170,7 +170,7 @@ Practical and modular, the costumes tell a story of colonizers dressing in a mor
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/bb23971a4ccde4ff5c6a790d4f7e9ffeb9d43898-800x1200.jpg)
+![](./assets/bb23971a4ccde4ff5c6a790d4f7e9ffeb9d43898-800x1200.jpg)
 
   
 The post-collapse, counter-surveillance styles of the Italian brand [GALL clothing](https://www.gallclothing.com/schism-ss21) is another good example of a militarized-aesthetic being coopted. Softening and maddening it. Shifting functionality into farce, while still providing utility and protection. If Gall becomes part of one's speculative surplus wardrobe, how does it co-exist alongside the irreverence of [Online Ceramics](https://online-ceramics.com/) or the domestic-utility, tactical-aesthetics of microbrands like [AMDUS Project](https://www.amdusproject.com/)? I’d rather live in a society where the voluminous pockets of the M65 held blunts, not bullets.
@@ -188,7 +188,7 @@ The post-collapse, counter-surveillance styles of the Italian brand [GALL clothi
 
 War is a habit humanity can’t seem to shake. So long as there’s a reason for conflict, militaries and their material secretions will continue to suffuse society and its stylistic sensibilities. The trick is to imagine something better with what we have. Can we think more like [Maharishi’s Hardy Blechman](https://www.endclothing.com/dk/features/the-culture-of-camouflage-with-maharishis-hardy-blechman) — tirelessly reconstructing and reimagining the conflict garments of the past into something softer, more critical, more peaceful?
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/a626f0ff4c0e82d36046ac5afb7dcc1bf816b5e1-1024x1024.png)
+![](./assets/a626f0ff4c0e82d36046ac5afb7dcc1bf816b5e1-1024x1024.png)
 
 Much beloved by security scholars and military theorists, [Carl von Clausewitz](https://en.wikipedia.org/wiki/Carl_von_Clausewitz) has a lot to say about conflict and its relationship to society. He argues that conflict exists within a cyclical relationship between the military, society, and government itself — leading to a decisive moment on the battlefield which defines victory or loss.
 

@@ -5,7 +5,7 @@ title: "Thinking through Research Automation"
 date: "2021-07-26",
 slug: "thinking-through-automation",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png".
+thumbnail: "./assets/807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png".
 description: ""
 ---
 
@@ -36,7 +36,7 @@ My goal with this post isn’t to teach you everything you need to know, but I a
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9f31f74b809d15f288fbe8f00bb96672769424ef-1080x1080.png)
+![](./assets/9f31f74b809d15f288fbe8f00bb96672769424ef-1080x1080.png)
 
 Most of us have a job to do which is — in reality — an amalgam of many smaller jobs, instincts, and competencies. As a designer, my jobs include **problem discovery** (facilitation, visualization, communication, stakeholder management), **simplifying problems** (project management, resourcing, scoping), **user research** (research design, survey design, recruiting, research admin, interviewing, transcription, synthesizing, communication, visualization, etc), and this is all before we get into the weeds of designing the thing through **concept development**, **iterative prototyping**, **refinement**, **validation**, **documentation**, and **stewardship**. Design is a particularly nebulous discipline, but I bet your work looks something similar. With so many jobs to do, it’s a wonder we get anything done at all. But then, we can always hire others to do some of that work.
 
@@ -75,7 +75,7 @@ When thinking about your own jobs, think about the work that you do every day, a
 
 ## **Signals and the Orchestra**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/422a97e11126cd33df2d8635a1f64288ba28350b-1024x681.png)
+![](./assets/422a97e11126cd33df2d8635a1f64288ba28350b-1024x681.png)
 
   
 

@@ -5,7 +5,7 @@ title: "Automating Research Recruiting"
 date: "2021-08-03",
 slug: "automating-research-recruiting",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png".
+thumbnail: "./assets/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png".
 description: ""
 ---
 
@@ -47,7 +47,7 @@ A step might look something like this:
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/86f749885fb392412fb30ea3a231cdbcc930a5dd-842x595.png)
+![](./assets/86f749885fb392412fb30ea3a231cdbcc930a5dd-842x595.png)
 
 Basically a point where an input is enters (data, interaction), is processed, and is then moved to another step (exported in some way. That individual process might have different features to it as well:
 
@@ -56,7 +56,7 @@ Basically a point where an input is enters (data, interaction), is processed, an
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/ff1fa37af2dd2611e56fe2adbec879203297d836-842x595.png)
+![](./assets/ff1fa37af2dd2611e56fe2adbec879203297d836-842x595.png)
 
 
 
@@ -64,7 +64,7 @@ If we were to break the above list down into a more linear process flow, we migh
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/7ec3520301ad343faafb4485829f84c7bb361aed-842x595.png)
+![](./assets/7ec3520301ad343faafb4485829f84c7bb361aed-842x595.png)
 
   
 
@@ -155,7 +155,7 @@ Looking at each of these tools and the role they play in input, storage, process
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/6675224de919cc18eef65195007b4f806f6df6f5-842x595.png)
+![](./assets/6675224de919cc18eef65195007b4f806f6df6f5-842x595.png)
 
   
 
@@ -192,7 +192,7 @@ When creating the screener, this can be done easily in airtable. Here, I would c
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/25b4968e992b5bf1b270b6bb4124b46166e02f91-1684x740.png)
+![](./assets/25b4968e992b5bf1b270b6bb4124b46166e02f91-1684x740.png)
 
 In the second grid view, add a filter (like above) that will only show those respondents that fit the criteria you’re looking for.
 
@@ -206,7 +206,7 @@ From here, we want to create a new spreadsheet which will be filled in as our sc
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f8227c912deebd4557a2b9c7eb0a1b4105786303-1684x1190.png)
+![](./assets/f8227c912deebd4557a2b9c7eb0a1b4105786303-1684x1190.png)
 
 Finally, from where, we can set up a new email to send out when records are “Created” in this participant table. This allows us to divide the records between consenting participants in the study, and our list of potential participants.
 
@@ -225,7 +225,7 @@ Scheduling can be both incredibly easy and incredibly hard. I’d suggest using 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e0e99173acf97a189bc70ccefc4fb9a96b6ee88e-842x595.png)
+![](./assets/e0e99173acf97a189bc70ccefc4fb9a96b6ee88e-842x595.png)
 
   
 
@@ -244,7 +244,7 @@ Consent forms, like scheduling, should be automated wherever possible using tool
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/3854b1dafe86f742480b54d278036c5b4d5f6c42-842x595.png)
+![](./assets/3854b1dafe86f742480b54d278036c5b4d5f6c42-842x595.png)
 
 This step can be pretty simple — just send the consent form via the initial email or when the participant has completed scheduling, and the researcher will get a notification on when the participant has signed the form.
 
@@ -260,7 +260,7 @@ Content-specific reminders can be sent out to participants who have stalled anyw
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/a858dfae43d9dd4e54e595c55073dd8975670eda-842x595.png)
+![](./assets/a858dfae43d9dd4e54e595c55073dd8975670eda-842x595.png)
 
 In zapier, you can set up zaps to do multiple checks on things — though I personally prefer to set up unique views in Airtable so that I can both visualize and automate that reminder process.
 
@@ -284,7 +284,7 @@ Finally, upon completion of the study, the gratuity can be (mostly) automated as
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/7b8de2f67abb1266ad23c21668edfa6c90d41501-842x595.png)
+![](./assets/7b8de2f67abb1266ad23c21668edfa6c90d41501-842x595.png)
 
   
 

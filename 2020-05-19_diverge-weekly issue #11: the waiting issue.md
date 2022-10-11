@@ -5,7 +5,7 @@ title: "Diverge Weekly Issue #11: The Waiting Issue"
 date: "2020-05-19",
 slug: "diverge-weekly issue #11: the waiting issue",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1e56af78b186eb719ff51ea816fb3f71c75af677-2500x1710.jpg".
+thumbnail: "./assets/1e56af78b186eb719ff51ea816fb3f71c75af677-2500x1710.jpg".
 description: ""
 ---
 
@@ -13,7 +13,7 @@ It’s been 70 days since my family and I hit “go” on our particular lockdow
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg)
+![](./assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg)
 
 A year and a half ago, I interviewed a number of people who worked with refugees and displaced peoples. One of these was Nick Hayes, who [wrote this article](https://www.theguardian.com/books/2016/mar/12/nick-hayes-graphic-artist-pictures-refugees-calais-camp-jungle?CMP=Share_iOSApp_Other) on his time volunteering at the Calais camps (colloquially known as The Jungle) in Normandy, France. Nick’s article comes to mind right now as I think about the cause and effect of anticipation.
 
@@ -23,7 +23,7 @@ We are all experiencing a different kind of waiting. Instead of transitioning be
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d6bb5c6fe027dba17ed0e6496ce76a9e41203ec5-2048x1365.jpg)
+![](./assets/d6bb5c6fe027dba17ed0e6496ce76a9e41203ec5-2048x1365.jpg)
 
 In Hyper Objects, Tim Morton describes a class of objects that are almost larger than we can understand, possessing a complexity that we can’t wrangle, aggregate, multidimensional, atemporal, etc. Climate change is one such example: a phenomenon that transcends time, space, and location yet is descending on us like a bomb (but we don’t know when). [Styrofoam is another](https://www.hcn.org/issues/47.1/introducing-the-idea-of-hyperobjects): physical, but lasting forever and accumulated beyond our control. Coronavirus is too, which [Morton pointed out on ](https://twitter.com/the_eco_thought/status/1234828156449759232?s=20)Twitter. In fact, one could argue that a pandemic as an abstract thing, and THIS pandemic are now independent — covid-19 having presented itself to society.
 
@@ -31,7 +31,7 @@ One quality of hyper objects is that they exert their own gravity: pulling other
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/088d10e9d664cee930bd7cdcce4511334f250c90-1365x2048.jpg)
+![](./assets/088d10e9d664cee930bd7cdcce4511334f250c90-1365x2048.jpg)
 
 I’ve personally found that projecting a degree of objectivity overtop of the current existential threat helps. Not because I can do anything about It with a capital I, but rather because those things that I can affect are often highlighted against its surface, and likewise pulled into its orbit. We’re all waiting to see what our new orbit will be.
 
@@ -41,7 +41,7 @@ _A quick request!_ There’s a lot more of you than there used to be, and I woul
 
 ## Security Blanket
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/46693a5139839bb4e020828529d3e505e6bb4a9a-1000x1284.jpg)
+![](./assets/46693a5139839bb4e020828529d3e505e6bb4a9a-1000x1284.jpg)
 
 [**Of Course the U.S. Military Has A White Supremacy Problem. It’s Baked In. - War on the Rocks**](https://warontherocks.com/2020/05/of-course-the-u-s-military-has-a-white-supremacy-problem-its-baked-in/)
 

@@ -5,7 +5,7 @@ title: "Diverge Weekly Issue #10: The Flattened Issue"
 date: "2020-05-12",
 slug: "diverge-weekly issue #10: the flattened issue",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/51d8deec008632ca1cc52368c7dcf306cddbd368-1922x1200.jpg".
+thumbnail: "./assets/51d8deec008632ca1cc52368c7dcf306cddbd368-1922x1200.jpg".
 description: ""
 ---
 
@@ -13,7 +13,7 @@ First, I want to share a point of gratitude. My small business, [Knowsi](https:/
 
 Anyway, onwards.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/74acf12f0f4bc499a4d1cb3549ba0e296c088dd7-2048x1365.jpg)
+![](./assets/74acf12f0f4bc499a4d1cb3549ba0e296c088dd7-2048x1365.jpg)
 
 There’s a certain flatness to things recently.
 
@@ -23,13 +23,13 @@ Decision making against the moving goalposts of economic and public health is at
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/cbe428c652e4ac7b73c09aa48b37ab0a5206650f-2048x1365.jpg)
+![](./assets/cbe428c652e4ac7b73c09aa48b37ab0a5206650f-2048x1365.jpg)
 
 The other part of this is the lens through which your particular perspective is consumed. My friend Scott Young [wrote a piece for the Canadian magazine Macleans on Sweden’s response to the Coronavirus](https://www.macleans.ca/news/world/lessons-from-kronavirus-is-swedens-anti-lockdown-approach-more-strategic-than-it-seems/) this week, and he makes the point “No one would predict the winner of the Stanley Cup on the basis of Game 1 in the first round, so why do so many feel comfortable excoriating Sweden so early in this pandemic?” This is a distinctly Canadian metaphor, but it’s on point. From my vantage point in Denmark, I’ve looked at Sweden’s response with shock and concern (especially with close friends in Stockholm and Malmö, Scott included). But I also got a haircut last week as Denmark opened, and I shared the [numb terror](https://andrewlb.com/diverge-weekly-issue-7-the-gradual-opening-issue/) associated with sending my son to daycare earlier this month. In Scott’s article, he acknowledges that the Swedish stance is perhaps reckless, but how wide or narrow a lens we take dramatically affects the returned image.
 
 A narrow [focal length](https://en.wikipedia.org/wiki/Focal_length) surfaces details further off and with greater specificity. It also might make different objects appear RELATIVELY closer than they actually are. Narrowing one's focus on a subject (to the exclusion of others) might pull a background object into the foreground as well, as tourists in Italy do as they use [forced perspective](https://en.wikipedia.org/wiki/Forced_perspective) to hold up the leaning tower of Pisa. The effect of this is to [distort the data](https://en.wikipedia.org/wiki/Perspective_distortion_(photography)#/media/File:Nybldgs.jpg) and force a differing interpretation of outcomes. The Bush administration fell victim to distortion by simplifying the complexity of Saddam’s regional defence, sectarian, and political posture in Iraq (and if this is of interest, honestly, read Kim Ghattas’ [Black Wave](https://www.amazon.com/dp/B07X4CK1FF). I’ve mentioned it a few times now, but it is brilliant). The inability to manage this unforeseen complexity, including [disbanding Saddam’s Republican Guard](https://www.theguardian.com/world/2003/may/23/iraq) and the guerrilla violence that followed, came in part from this narrowed scope. Of course, a wide lens can present its own problems. Too much information, ill-defined subjects, and distortion can leave the viewer unsure where to look and how to act. Same perspective, different lenses, different story, different strategy.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/638951d86f328661dfc4c3887569a0dbbcf0f395-1365x2048.jpg)
+![](./assets/638951d86f328661dfc4c3887569a0dbbcf0f395-1365x2048.jpg)
 
   
 So back to this flatness I’ve been wondering about.
@@ -40,7 +40,7 @@ I think most of us have taken a very narrow view to this pandemic, albeit from a
 
 ## Security Blanket
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0cc8d832404973ff52c53fb19a25d6889b3b3a52-553x369.jpg)
+![](./assets/0cc8d832404973ff52c53fb19a25d6889b3b3a52-553x369.jpg)
 
 [**The problem with militias in Somalia: Almost everyone wants them despite their dangers**](https://www.brookings.edu/research/the-problem-with-militias-in-somalia-almost-everyone-wants-them-despite-their-dangers/)
 

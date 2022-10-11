@@ -5,7 +5,7 @@ title: "The Anatomy of a Research Recruitment Email"
 date: "2021-03-22",
 slug: "the-anatomy of a research recruitment email",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d0162317432b517673548a4002138b1ce299c63c-1400x933.png".
+thumbnail: "./assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png".
 description: ""
 ---
 
@@ -15,7 +15,7 @@ Castiron Coffee is exploring how to use their waste coffee grinds in low-cost du
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/a6cd56b07dae944e544c72acc3c5238105a7c72b-1400x934.jpg)
+![](./assets/a6cd56b07dae944e544c72acc3c5238105a7c72b-1400x934.jpg)
 
 
 
@@ -75,7 +75,7 @@ Andrew and the Stupid Systems team
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d0162317432b517673548a4002138b1ce299c63c-1400x933.png)
+![](./assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png)
 
 
 
@@ -148,7 +148,7 @@ Personally, I use Calendly to manage many of my interviews: depending on the num
 ##   
 Requesting Consent
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/58a8ed4e2d82d4499340914aad56b19430b62850-1400x869.png)
+![](./assets/58a8ed4e2d82d4499340914aad56b19430b62850-1400x869.png)
 
 
 

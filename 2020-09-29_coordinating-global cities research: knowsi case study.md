@@ -5,7 +5,7 @@ title: "Coordinating global cities research: Knowsi case study"
 date: "2020-09-29",
 slug: "coordinating-global cities research: knowsi case study",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg".
+thumbnail: "./assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg".
 description: ""
 ---
 
@@ -23,7 +23,7 @@ The formality of research consent serves as a strong signal to your participants
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e94f212909f8e1a7d64eeeec57a44d971ff469a5-940x627.png)
+![](./assets/e94f212909f8e1a7d64eeeec57a44d971ff469a5-940x627.png)
 
 This is what John Lynch discovered when his company, [Context Studio](http://getincontext.ie/), worked with the [Open and Agile Smart Cities ](https://oascities.org/)network (OASC) to better understand the needs of the global member cities. Founded in 2015, OASC was built on the idea that interoperability in technology and policy was a fundamental gap in the smart cities market. The network structured itself to provide guidance as well as the sharing of best practices and mechanisms to address that need.
 
@@ -39,19 +39,19 @@ First, Knowsi provided a participant dashboard and accountability system for eac
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/63176c53376d27515906020246b30f510cf2fd51-940x705.png)
+![](./assets/63176c53376d27515906020246b30f510cf2fd51-940x705.png)
 
 Second, John was able to customize his consent forms to both the needs of Context Studio, for the research process, and those of OASC, his client By being descriptive and specific about what consent he needed from his participants, there weren’t any surprises and everyone was covered.
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d1cfac04efebe30f82c2f123664bed45be52805d-617x456.png)
+![](./assets/d1cfac04efebe30f82c2f123664bed45be52805d-617x456.png)
 
 Finally, as participants completed their consent forms, John was able to track where people were in the recruitment process in real team — getting updates directly to his dashboard as the consent forms were signed. This made it easy to keep track of interviews and make sure that he could send interview schedule reminders as he progressed.
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/440971def0d38651dccb300d618256c18c86724b-940x705.png)
+![](./assets/440971def0d38651dccb300d618256c18c86724b-940x705.png)
 
 
 

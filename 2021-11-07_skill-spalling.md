@@ -5,7 +5,7 @@ title: "Skill Spalling"
 date: "2021-11-07",
 slug: "skill-spalling",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/fe7f09e93ca9cbf5136b9eb8d0b235dc85dadd5a-960x480.jpg".
+thumbnail: "./assets/fe7f09e93ca9cbf5136b9eb8d0b235dc85dadd5a-960x480.jpg".
 description: ""
 ---
 
@@ -19,7 +19,7 @@ I tend to think of this process as a kind of spalling to our identities and our 
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/cb175a16a479a7b375709d296bf82e5f2da67c75-2880x2160.jpg)
+![](./assets/cb175a16a479a7b375709d296bf82e5f2da67c75-2880x2160.jpg)
 
   
 
@@ -41,7 +41,7 @@ What’s worse, sometimes the skill is a moving target as well. Software enginee
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/5bd7af662707311c82b79fce4aaaf0cb6ed0ec85-658x449.png)
+![](./assets/5bd7af662707311c82b79fce4aaaf0cb6ed0ec85-658x449.png)
 
   
 
@@ -63,7 +63,7 @@ The rebar analogue is pretty clear: the example musician has the core of habit a
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0846caf5ddfbe05979b3345fc49ff552d9e54fc7-1080x1080.jpg)
+![](./assets/0846caf5ddfbe05979b3345fc49ff552d9e54fc7-1080x1080.jpg)
 
 The other side to permanence is accepting and embracing the process of mending. Japanese boro mending (as artistically rendered above with a Kapital boro jacket) is a great example of this — layering patches of old material overtop of tears, abrasions, and holes to construct and retain a well-loved piece of clothing over decades (though in the above photo’s case, Kapital is heavily leveraging a belt sander). True skill maintained applies exactly this process: the layering and mending of experience over time, as our past selves spall off; fixed before the core of our skillsets get a chance to decay. Over years and decades, the form is retained and recognizable, but with a diversity of texture and colour that represents something original.
 

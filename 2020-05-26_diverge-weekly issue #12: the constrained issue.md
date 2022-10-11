@@ -5,13 +5,13 @@ title: "Diverge Weekly Issue #12: The Constrained Issue"
 date: "2020-05-26",
 slug: "diverge-weekly issue #12: the constrained issue",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg".
+thumbnail: "./assets/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg".
 description: ""
 ---
 
 Being a creator of things — software, products, services, policy, etc — means navigating a world of constraints. There were two stories of constraints that I encountered in the past week which I wanted to share.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/a869f7304125e66efb8b8d3ba4729a2521da69c6-2048x1365.jpg)
+![](./assets/a869f7304125e66efb8b8d3ba4729a2521da69c6-2048x1365.jpg)
 
 The first is about constraints on a geopolitical scale. My friend Chris introduced me to a new podcast called [Wind of Change](https://crooked.com/podcast-series/wind-of-change/), which explores the potential CIA sponsorship of a popular eighties power ballad pushing for European unification. It's an absolute trip (the type that starts with a reluctant listen followed by binging most of it), but it tells an interesting story of constraint.
 
@@ -19,7 +19,7 @@ Given the competition between American and Soviet blocs during the Cold War, man
 
 Constraints create context, and context begets emergence. The speculation about the CIA’s involvement in a heavy metal band has some credibility partially because these clandestine agencies were scrambling to find ways of exerting influence when the old methods were no longer tenable options. The whole violent history of humanity skidded to a stop in the twentieth century when the nuclear sword of Damocles was strung up, but as far as states were concerned, that looming threat didn’t stop them from attempting to exert power and influence. Just… without cutting the string.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d0f4856520d6ead304d16550c3c1ec69298f7dbd-2048x1365.jpg)
+![](./assets/d0f4856520d6ead304d16550c3c1ec69298f7dbd-2048x1365.jpg)
 
 There are also those structural constraints that simply close options to individuals. As I mentioned last week, [Our Women on the Ground](https://amzn.to/36y6yOr) is a focused survey of those systematic constraints. A collection of essays by Arab female reporters, the book recounts many different experiences of becoming professional journalists in societal conditions that create incredible —sometimes violent— friction towards those identities.
 
@@ -27,7 +27,7 @@ A favourite was the essay by Amira Al-Sharif, a Saudi photo journalist who grew 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d033f355c8dc7a73aa2637d5abcf1555fbe8d105-2048x1366.jpg)
+![](./assets/d033f355c8dc7a73aa2637d5abcf1555fbe8d105-2048x1366.jpg)
 
 Amira and her fellow authors in Our Women on the Ground expressed and created as fervently as they could — each encountering different and overlapping constraints in their individual countries, cultures, and communities. Lina Attalah, founder of [Mada Masr](https://madamasr.com/en), writes of her evolving relationship with her father, relative to her identity as a feminist, an activist, a journalist, and an entrepreneur in Egypt. That consideration helped her find a point of connection as well: wondering how the constrained expectations the state had imposed on her father trickled down to her experience with him and the construction of her own identity.
 
@@ -37,7 +37,7 @@ All of this to say that some strange, terrible, and wonderful things can emerge 
 
 ## Security Blanket
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1460c3f725d3e0e6308b6d1043131187305c881c-1180x787.jpg)
+![](./assets/1460c3f725d3e0e6308b6d1043131187305c881c-1180x787.jpg)
 
 [**Women in Combat: Five-Year Status Update | Center for a New American Security**](https://www.cnas.org/publications/commentary/women-in-combat-five-year-status-update)
 

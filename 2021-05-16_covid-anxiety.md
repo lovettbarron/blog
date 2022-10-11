@@ -5,7 +5,7 @@ title: "Covid Anxiety: A Foresight Game"
 date: "2021-05-16",
 slug: "covid-anxiety",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg".
+thumbnail: "./assets/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg".
 description: ""
 ---
 
@@ -23,7 +23,7 @@ Our first task was to enumerate our anxieties. That was fun.
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/6572a232ac59347bbf3be5253919fce03de6e803-2048x1365.jpg)
+![](./assets/6572a232ac59347bbf3be5253919fce03de6e803-2048x1365.jpg)
 
 We started off just listing everything we could think of
 
@@ -43,7 +43,7 @@ Our next step was to simply cluster the anxieties where they seem to make sense.
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/30b87b85e4267912061d5e400b1fdcab42753aec-3024x4032.jpg)
+![](./assets/30b87b85e4267912061d5e400b1fdcab42753aec-3024x4032.jpg)
 
 Some very initial clustering
 
@@ -69,7 +69,7 @@ Finally, we have a “Catastrophe” category, which is something that throws an
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/69f1711ead24889aa6c20fe083b60f5fd43e3971-3024x4032.jpg)
+![](./assets/69f1711ead24889aa6c20fe083b60f5fd43e3971-3024x4032.jpg)
 
 This is the part where things started to come together. Ayla and I were trying to figure out how to actually approach the forecasting part. We landed on a grid that looked a bit like this:
 
@@ -77,7 +77,7 @@ The initial canvas
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/aca63a7cf2e27d78aaf4b9150907299a2185cdf3-1440x1024.png)
+![](./assets/aca63a7cf2e27d78aaf4b9150907299a2185cdf3-1440x1024.png)
 
 First, one axis became time extending from now, +3mo, +6mo, +12mo, + 18mo, and +36 months. Then the other axis became the “order” of decision: environment to resources, resources to inflection point, inflection to catastrophe, with the two assessments beside it.
 
@@ -89,7 +89,7 @@ Next, we move on to the **Inflection Point**, which in this case is the made-up 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/c15ca7dc85e6a737f710947ea2cd14ec2b3fcbfc-2048x1365.jpg)
+![](./assets/c15ca7dc85e6a737f710947ea2cd14ec2b3fcbfc-2048x1365.jpg)
 
 Looking at the first scenario
 
@@ -99,7 +99,7 @@ Looking at the first scenario
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/68d3bd5aabfaf43d6eeee82ed84a8da40bb72078-1440x244.png)
+![](./assets/68d3bd5aabfaf43d6eeee82ed84a8da40bb72078-1440x244.png)
 
 The first assessment canvas 
 
@@ -111,7 +111,7 @@ After we laid out these four cards, along the “Now” time, we asked ourselves
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/31517ea3b13e68abca2a2df0855db9bab4b93531-1440x244.png)
+![](./assets/31517ea3b13e68abca2a2df0855db9bab4b93531-1440x244.png)
 
 The second assessment canvas
 
@@ -139,7 +139,7 @@ Ultimately, we looked at our decisions and took stock — what comes next? If th
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/a3ed73356f37bc0044786aac36a91d8dba9b4271-2048x1365.jpg)
+![](./assets/a3ed73356f37bc0044786aac36a91d8dba9b4271-2048x1365.jpg)
 
 Dealing with the first game required a beer and serious decompression
 

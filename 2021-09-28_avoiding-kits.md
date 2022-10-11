@@ -5,7 +5,7 @@ title: "Avoiding Kits"
 date: "2021-09-28",
 slug: "avoiding-kits",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png".
+thumbnail: "./assets/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png".
 description: ""
 ---
 
@@ -21,7 +21,7 @@ In each of these things there’s the necessity of having the basic things in pl
 
 Most hobbies and skills require some kind of infrastructure. It might be a book, it might be paints, it might be a machine, it might just be space. A fundamental part of navigating any new hobby then becomes navigating the infrastructure that makes that hobby possible. Take sewing. In theory, you can sew with a needle and thread. Some artisans even make a point of primarily working in that mode ([Mutsu is an example of that](https://www.youtube.com/c/MUTSUBYPROSPECTIVEFLOW)), but really you need a sewing machine to make a diverse array of things. But then which sewing machine? An industrial Juki can do a lot more than a home sewing machine. A [Sailrite walking foot machine](https://www.quiltersreview.com/sailrite-lsz-1/) (like what I have) works great for thick materials and allows me to make bags and accessories, but then working with thinner or stretchier materials becomes a hassle. Then you start getting into overlocking, coverstitches, etc. etc. etc. — it spirals quickly.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f62121c5864b61a52b2fe652d250ede6f7381bd3-1100x600.jpg)
+![](./assets/f62121c5864b61a52b2fe652d250ede6f7381bd3-1100x600.jpg)
 
   
 
@@ -56,7 +56,7 @@ The getting started kit is a commoditization of the journey towards having skill
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/86c7796e6505dedd01837c03ac8d8e065df4ee91-1140x560.jpg)
+![](./assets/86c7796e6505dedd01837c03ac8d8e065df4ee91-1140x560.jpg)
 
 
 
@@ -72,7 +72,7 @@ The Microkorg’s synthesis engine is borrowed from the Korg MS2000, and they ba
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/376d6f1768f39721816a153a958d5d3b3719ee26-512x250.jpg)
+![](./assets/376d6f1768f39721816a153a958d5d3b3719ee26-512x250.jpg)
 
   
 
@@ -99,7 +99,7 @@ The problem with the commodification of the Getting Started pack is that it lock
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d08e9c1d73bb79e5af837439c441afeeef17cf0a-1556x813.webp)
+![](./assets/d08e9c1d73bb79e5af837439c441afeeef17cf0a-1556x813.webp)
 
   
 

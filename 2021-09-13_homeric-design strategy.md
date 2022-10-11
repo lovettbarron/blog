@@ -5,7 +5,7 @@ title: "Homeric Design Strategy"
 date: "2021-09-13",
 slug: "homeric-design strategy",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/c68dacce7a2a7fb557ae175983e627303850d91c-1568x1199.png".
+thumbnail: "./assets/c68dacce7a2a7fb557ae175983e627303850d91c-1568x1199.png".
 description: ""
 ---
 
@@ -14,7 +14,7 @@ I was one course away from a minor in Classics when I graduated from the Univers
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/ee895fd94edd14b70364a2f60cc85930cec5e74c-962x1196.png)
+![](./assets/ee895fd94edd14b70364a2f60cc85930cec5e74c-962x1196.png)
 
   
 
@@ -51,7 +51,7 @@ Lore emerges by default, but it can be a bit difficult to manufacture. We see th
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/c81c327cc422351c1c9493031792ade36b76459d-1200x630.webp)
+![](./assets/c81c327cc422351c1c9493031792ade36b76459d-1200x630.webp)
 
   
 
@@ -82,7 +82,7 @@ This open and loosely defined universe planted a seed that 30-some years later i
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e21be1b8cf829e778469d96ab52b8fbed488473c-2000x1125.png)
+![](./assets/e21be1b8cf829e778469d96ab52b8fbed488473c-2000x1125.png)
 
 What’s fascinating about this is that as much as we might try to shape “Lore”, it has a life of its own. Games Workshop does so with an iron fist, but is constantly running afoul its fans who becomes frustrated by the monetization of a universe they feel ownership over 40 years down the line. Apple does so through secrecy and careful media releases, but quarterly deals with the fear that their prestige and genius narrative will slip with the release of weaker products or things that lack a market fit. Now, Musk’s Space X is doing so with [its brilliant but somewhat flawed Inspiration 4 show](https://www.technologyreview.com/2021/09/08/1035219/netflix-spacex-docuseries-inspiration4-countdown/)), attempting to reignite popular interest in space flight and give an accessible-but-still-heroic face to extraterrestrial travel — as a direct competitive counter to Bezos’ cowboy-hat wielding Blue Origin, and Branson’s playboy stylings of Virgin Galactic. All three of these companies are taking civilians to space, and all are crafting lore around their endeavours whether they intend it (like Space X) or not (like Blue Origin’s phallactic launch).
 

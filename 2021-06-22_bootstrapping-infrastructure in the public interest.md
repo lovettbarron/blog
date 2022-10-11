@@ -5,7 +5,7 @@ title: "Bootstrapping Infrastructure in the Public Interest"
 date: "2021-06-22",
 slug: "bootstrapping-infrastructure in the public interest",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1d4d2ff642c9fd61c41a594cee8d4d09b9424674-1400x1050.jpg".
+thumbnail: "./assets/1d4d2ff642c9fd61c41a594cee8d4d09b9424674-1400x1050.jpg".
 description: ""
 ---
 

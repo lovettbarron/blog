@@ -5,7 +5,7 @@ title: "Diverge Weekly Issue #6: The Captured Issue"
 date: "2020-04-14",
 slug: "diverge-weekly issue #6: the captured issue",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg".
+thumbnail: "./assets/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg".
 description: ""
 ---
 
@@ -29,7 +29,7 @@ That’ll be for future issues.
 
 ## Security Blanket
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/6b5f74bc7ae89afc5a3df11d6314578aa07dcd76-1180x1180.jpg)
+![](./assets/6b5f74bc7ae89afc5a3df11d6314578aa07dcd76-1180x1180.jpg)
 
 [**Millennium Challenge: The Real Story of a Corrupted Military Exercise and its Legacy**](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
 

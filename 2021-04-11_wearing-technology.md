@@ -5,7 +5,7 @@ title: "Wearing Technology"
 date: "2021-04-11",
 slug: "wearing-technology",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png".
+thumbnail: "./assets/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png".
 description: ""
 ---
 
@@ -14,7 +14,7 @@ We adorn ourselves in technology. Whether it's the shrunken screens of today's s
 
 ## **Wearable Tech**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0ad3deeafd52a72710da4b9543f0eed05fcb15a1-610x457.png)
+![](./assets/0ad3deeafd52a72710da4b9543f0eed05fcb15a1-610x457.png)
 
   
 
@@ -33,7 +33,7 @@ Jump forward to the modern computational era, and the site of the watch as attac
 
 ## **Tech Wear**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f149442cb961114ac67459857e3e6560d4a34a63-640x480.png)
+![](./assets/f149442cb961114ac67459857e3e6560d4a34a63-640x480.png)
 
 (Acronym FW2012)  
 
@@ -69,7 +69,7 @@ From a more contemporary standpoint, the smartwatch presents a problem to this, 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/ac517f3b26e1ae5f16c27d7dc4b022b62f17b628-1024x583.png)
+![](./assets/ac517f3b26e1ae5f16c27d7dc4b022b62f17b628-1024x583.png)
 
 The Oura ring is the wearable that I think presents an interesting challenge to this. The Oura doesn't display any information — save for on the phone once connected. It's a ring that is passively worn and sized to a particular finger. It comes in a variety of finishes to match one's style, is a bit oversized, and is usually forgotten until your phone pops up a reminder that charging is required.
 
@@ -91,7 +91,7 @@ This is all to say that, in its own way, I think using the language of "techwear
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9fa3ef93aed404b2582d8ed1bed9adf0a037d573-2870x1292.png)
+![](./assets/9fa3ef93aed404b2582d8ed1bed9adf0a037d573-2870x1292.png)
 
 
 

@@ -5,7 +5,7 @@ title: "Import your Audible Library to Goodreads"
 date: "2020-02-06",
 slug: "import-your audible library to goodreads",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9f2ee1b9cfb7dc43a72534f0f3faa380b74c9cb3-5955x3975.jpg".
+thumbnail: "./assets/9f2ee1b9cfb7dc43a72534f0f3faa380b74c9cb3-5955x3975.jpg".
 description: ""
 ---
 

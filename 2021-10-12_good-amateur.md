@@ -5,7 +5,7 @@ title: "Being a Good Amateur"
 date: "2021-10-12",
 slug: "good-amateur",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png".
+thumbnail: "./assets/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png".
 description: ""
 ---
 
@@ -18,7 +18,7 @@ I get a personal thrill out of amateurism. It’s something I need to hold in ch
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/71ed265c00962bdf6ac6029141e36dfe289ad479-490x500.png)
+![](./assets/71ed265c00962bdf6ac6029141e36dfe289ad479-490x500.png)
 
   
 
@@ -33,7 +33,7 @@ To take a moment to actually describe and define amateurism, we need to define b
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/571d24cd7802d78f7f5ce97891d7dd3e16f9843e-882x960.png)
+![](./assets/571d24cd7802d78f7f5ce97891d7dd3e16f9843e-882x960.png)
 
 This is a bit of an oversimplification, of course. If you look at coding as an example (which can definitely be a hobby), coding skill starts as something specialized in one language around a specific project, then transitions into being multilingual by necessity as the core concepts are internalized, and then further transitions into a structural awareness around how to make something happen. Somewhere in there, one transitions from having the hobby of coding to being a “coder” or a developer, or what have you. And then — just as you start to transition from amateurism into skill — you hit the protracted nightmare of imposter syndrome that comes with navigating skilled communities as a peer. But that’s something different — let’s focus on the first few plateaus of amateurism.
 
@@ -55,7 +55,7 @@ Thankfully many (if not most) of these safety concerns can be alleviated through
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1ed42f3e0e037f68843b1a376456ef6ac60ed0cb-1320x748.png)
+![](./assets/1ed42f3e0e037f68843b1a376456ef6ac60ed0cb-1320x748.png)
 
 This is where being a good amateur really comes into play. I tend to believe that good amateurism is mostly a pretty simple heuristic: reflective confidence, project orientation, appreciation for history, community participation, mentor empathy, and managing up.
 

@@ -5,7 +5,7 @@ title: "The Decay of Digital Things"
 date: "2021-03-09",
 slug: "digital-decay",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png".
+thumbnail: "./assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png".
 description: ""
 ---
 
@@ -31,7 +31,7 @@ I have described a bleak view of connected objects, but fortunately, this is not
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d8932692cc5475bfb16fe49e80fd15c619b4fc87-1180x1180.png)
+![](./assets/d8932692cc5475bfb16fe49e80fd15c619b4fc87-1180x1180.png)
 
 The Monome presents a vision of sustainable product maintenance because it is both a company and a community. Brian Crabtree created its first iteration, but countless others have written code for it, built performances around it, and made their own versions of it. It’s an open-source product that creates greater value for its supporting business through the value generated within the community itself. Monome.org also has a vast repository of knowledge related to the monome in its different and evolving products that empowers its customers to continuously adapt it to their evolving needs.
 

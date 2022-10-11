@@ -5,7 +5,7 @@ title: "War against Stagnation"
 date: "2021-03-28",
 slug: "stagnation-war",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg".
+thumbnail: "./assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg".
 description: ""
 ---
 
@@ -16,7 +16,7 @@ The practice of design has fragmented and spread in so many different directions
 
 ## **The problem with staying in one place**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/020ec1cdb611beedc97880417caa9886b61384ff-421x457.jpg)
+![](./assets/020ec1cdb611beedc97880417caa9886b61384ff-421x457.jpg)
 
   
 
@@ -38,7 +38,7 @@ Sadly, that comfort and repetition can also serve to undermine us. At what point
 
 ## **Seeing Stagnation**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e10be1b8bc7030359b64859df2489c6e1b48c463-953x493.gif)
+![](./assets/e10be1b8bc7030359b64859df2489c6e1b48c463-953x493.gif)
 
   
 

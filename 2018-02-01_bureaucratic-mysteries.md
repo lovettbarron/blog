@@ -5,7 +5,7 @@ title: "Bureaucratic Mysteries"
 date: "2018-02-01",
 slug: "bureaucratic-mysteries",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg".
+thumbnail: "./assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg".
 description: ""
 ---
 
@@ -93,13 +93,13 @@ When you are finished, you will have duplicate roles. This is fine, and you can 
 
 ### Worksheet
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/25e17653ae2de059aad833286500dcbfad0f3fb6-792x612.jpg)
+![](./assets/25e17653ae2de059aad833286500dcbfad0f3fb6-792x612.jpg)
 
 
 
 ### Example Scenario
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/7190552e0b1c3c2903054ded566819f0068456f1-1400x1050.jpg)
+![](./assets/7190552e0b1c3c2903054ded566819f0068456f1-1400x1050.jpg)
 
 ## Mapping the Pantheon (Mapping the Roles)
 
@@ -125,11 +125,11 @@ The path is important because it tells us where one smaller story starts, where 
 
 ### Worksheet
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/fc14d103e2d5be4a6689c5ee17803d722fdd9ac5-792x612.jpg)
+![](./assets/fc14d103e2d5be4a6689c5ee17803d722fdd9ac5-792x612.jpg)
 
 ### Example Scenario
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/af56e6efbdeee7215c5ef80954ce6ef2259b3f21-1400x1049.jpg)
+![](./assets/af56e6efbdeee7215c5ef80954ce6ef2259b3f21-1400x1049.jpg)
 
 ## 
 
@@ -153,13 +153,13 @@ Looking at the two axes on the graph, plot where they might be. This particular 
 
 ### Worksheet
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/0c87bcf4402d18a9bc054b5f73f5fb84db3f6a5a-792x612.jpg)
+![](./assets/0c87bcf4402d18a9bc054b5f73f5fb84db3f6a5a-792x612.jpg)
 
 ### 
 
 ### Example Scenario
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/b5c91ceb3fbcbaf32b1ddc43008aed9eeafa4924-1400x1050.jpg)
+![](./assets/b5c91ceb3fbcbaf32b1ddc43008aed9eeafa4924-1400x1050.jpg)
 
 ##   
 The Mysteries (Mapping the dark matter)
@@ -186,11 +186,11 @@ This activity is best done in a team setting, where everyone can contribute thei
 
 ### Worksheet
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1a7d3a5c8eb8c3844210ce9dbd3cc7efb1de99d9-792x612.jpg)
+![](./assets/1a7d3a5c8eb8c3844210ce9dbd3cc7efb1de99d9-792x612.jpg)
 
 ### Example Scenario
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/b8c5bfa101ad5d51533222be6334e2bd8af47a5a-1400x1049.jpg)
+![](./assets/b8c5bfa101ad5d51533222be6334e2bd8af47a5a-1400x1049.jpg)
 
 ## What’s next?
 

@@ -5,7 +5,7 @@ title: "Better Notes for Design Research"
 date: "2019-05-06",
 slug: "better-notes for design research",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg".
+thumbnail: "./assets/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg".
 description: ""
 ---
 
@@ -33,7 +33,7 @@ First, it helps you fill gaps. Sometimes information will be coming at you faste
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9b564a77e41aab8cb02046b67b11aaa737a6b1c5-1000x707.jpg)
+![](./assets/9b564a77e41aab8cb02046b67b11aaa737a6b1c5-1000x707.jpg)
 
 
 
@@ -61,6 +61,6 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](./assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published on [**Medium**](https://medium.com/knowsi/better-notes-for-design-research-1eace30b211e)._

@@ -5,7 +5,7 @@ title: "Exporting PDFs with Next JS"
 date: "2019-03-30",
 slug: "exporting-pdfs with next js",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png".
+thumbnail: "./assets/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png".
 description: ""
 ---
 
@@ -188,7 +188,7 @@ The next hurdle was getting this thing deployed on Heroku. When I went to deploy
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/57fbdcaf19a9f193e84a748746868e56cbaa1198-1364x274.png)
+![](./assets/57fbdcaf19a9f193e84a748746868e56cbaa1198-1364x274.png)
 
 Thankfully, there was an easy fix for this. Jon Tewksbury had put together a Heroku build pack to address this particular challenge.
 
@@ -211,7 +211,7 @@ You can also easily set this up in the Heroku UI by navigating to your app → S
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/5e17397c981b1876771b4ffa704e060378f1724d-1400x512.png)
+![](./assets/5e17397c981b1876771b4ffa704e060378f1724d-1400x512.png)
 
 
 
@@ -223,6 +223,6 @@ My solution is far from perfect, but this method is a great way to do things lik
 
 **Speaking of, are you doing user research? Why not give** [**Knowsi**](https://www.knowsi.com/) **a try. Knowsi is the best way to manage the relationship between researchers and participants.**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
+![](./assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published in [**Medium**](https://medium.com/knowsi/exporting-pdfs-with-next-js-714735f0a473)._

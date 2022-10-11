@@ -5,7 +5,7 @@ title: "Peripherals"
 date: "2021-08-08",
 slug: "peripherals",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg".
+thumbnail: "./assets/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg".
 description: ""
 ---
 
@@ -26,7 +26,7 @@ Peripherals come into play when automation presents a gap. Perhaps a step is too
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/49b55134cadaab2e359f22ed05c7cb01ac9cb468-3000x2237.jpg)
+![](./assets/49b55134cadaab2e359f22ed05c7cb01ac9cb468-3000x2237.jpg)
 
   
 
@@ -85,7 +85,7 @@ The physical quality of the whole experience makes learning it fascinatingly qui
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/94a95f029af22becc1e27ad63fd739f720cdb03b-1333x1000.jpg)
+![](./assets/94a95f029af22becc1e27ad63fd739f720cdb03b-1333x1000.jpg)
 
   
 

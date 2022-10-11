@@ -5,7 +5,7 @@ title: "Kitbashing Experience"
 date: "2021-08-31",
 slug: "kitbashing-experience",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e88741462537636338210b490378b0e24276e9b5-1243x700.png".
+thumbnail: "./assets/e88741462537636338210b490378b0e24276e9b5-1243x700.png".
 description: ""
 ---
 
@@ -51,7 +51,7 @@ That way, you can go from something like this (called a sprue card):
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/82c5cc6b4f899f34a0c9681f379d0ac336217f44-1431x820.jpg)
+![](./assets/82c5cc6b4f899f34a0c9681f379d0ac336217f44-1431x820.jpg)
 
   
 
@@ -60,7 +60,7 @@ And, after combining it with lots and lots of other such contraptions, end up wi
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/1ca5ec1f4a396ae5ee8cc6ef7ee8893cb40920fc-1024x768.jpg)
+![](./assets/1ca5ec1f4a396ae5ee8cc6ef7ee8893cb40920fc-1024x768.jpg)
 
   
 
@@ -89,7 +89,7 @@ Something like this:
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/b90741d3544b6cbc9c24a8c355c04391fa403ccc-793x570.png)
+![](./assets/b90741d3544b6cbc9c24a8c355c04391fa403ccc-793x570.png)
 
   
 
@@ -108,7 +108,7 @@ One example might be [Nathalie Miebach’s](https://nathaliemiebach.com) weather
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/091f71061e71c6fabc216a039392a9bd593a9eef-1440x1742.jpg)
+![](./assets/091f71061e71c6fabc216a039392a9bd593a9eef-1440x1742.jpg)
 
   
 
@@ -129,7 +129,7 @@ Finally on the web side, I might point to a weekend project I did two years ago 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/25829a2c2c5a2bf18c3413679f455dffa8b57528-2172x1602.png)
+![](./assets/25829a2c2c5a2bf18c3413679f455dffa8b57528-2172x1602.png)
 
   
 

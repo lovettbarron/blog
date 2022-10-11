@@ -5,7 +5,7 @@ title: "How to Design the Future of Food in 4 Hours"
 date: "2018-10-12",
 slug: "how-to design the future of food in 4 hours",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/5cddc12246a7b1e48a2cad130e003936addba78b-1999x1333.jpg".
+thumbnail: "./assets/5cddc12246a7b1e48a2cad130e003936addba78b-1999x1333.jpg".
 description: ""
 ---
 
@@ -17,13 +17,13 @@ Cookpad is a food technology company started in Japan, but now in almost 70 coun
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f5fd342b8eb07bf57b43cda68224133e72fcc9ea-1000x751.jpg)
+![](./assets/f5fd342b8eb07bf57b43cda68224133e72fcc9ea-1000x751.jpg)
 
 Our Design Jam brought together over 20 global designers and foodies from countries like Taiwan, India, Copenhagen, Germany, Brazil, and beyond with three facilitators: from Copenhagen (Andrew Lovett-Barron from CIID), Shanghai (Simone Rebaudengo from [YEAST](https://medium.com/yeastlab)), and Bristol, UK (Philip Pantelides from Cookpad). Our challenge was to create a rapid-fire prototype and video exploring future scenarios. As the future is so unpredictable, the scenarios were created with a [random generator google spreadsheet](https://docs.google.com/spreadsheets/d/1DZBf9pJohb3O3a8g54oUr-kuzEyLop6Lwnk4f7CBMmA/edit?usp=sharing), and then massaged into ten scenario cards. (If you want to learn more about using scenario generation for design brainstorming, Andrew digs into the details here)
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg)
+![](./assets/664014e1ae25b43e217aaf3d7c58ae5db19581ab-1400x933.jpg)
 
 Within three hours and thirty minutes, all the groups had created a short video and prototypes to share with the rest of the group. The videos included stop motion with lego and characters, acted scenes and rituals, and improvised dinner scenes. How did they get this finished so quickly? We guided the teams through a structured churning of information into ideas, a process that you can also adopt when designing for the future or around complex problems:
 
@@ -33,7 +33,7 @@ We provided some guidelines for brainstorming, including breaking the concepts d
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/2a7297072e39412361992124d534ca0ca494896d-1400x731.png)
+![](./assets/2a7297072e39412361992124d534ca0ca494896d-1400x731.png)
 
 ## How Might We?
 
@@ -49,7 +49,7 @@ The goal is to find a design opportunity that results in divergent thinking. Thi
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/368911a6f6cff9a069b34b6a9ad1a0d45b841db7-1400x933.jpg)
+![](./assets/368911a6f6cff9a069b34b6a9ad1a0d45b841db7-1400x933.jpg)
 
 ## Draw, draw, draw
 
@@ -57,7 +57,7 @@ After identifying a design opportunity, the teams took to pen and paper to sketc
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/46838a001c7d75432c1d4c43bc704bb24ab6870b-1400x1050.png)
+![](./assets/46838a001c7d75432c1d4c43bc704bb24ab6870b-1400x1050.png)
 
 ## Storyboard time
 
@@ -65,7 +65,7 @@ Before prototyping, it’s is a good idea to map out the story you are trying to
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/3b5cb03a5440aedabe5cff543db4f6313b8933f9-1000x1332.png)
+![](./assets/3b5cb03a5440aedabe5cff543db4f6313b8933f9-1000x1332.png)
 
 ## Build
 
@@ -77,7 +77,7 @@ The context in which the people in our stories will interact with the prototype 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/2f84221883c143e9e6603a020407bb50ed2f8f17-1400x705.png)
+![](./assets/2f84221883c143e9e6603a020407bb50ed2f8f17-1400x705.png)
 
 ##   
 Shoot a video
@@ -88,7 +88,7 @@ Pro tip for video prototyping: use Instagram stories or [Apple’s Clips App](ht
 
 One innovative team even used their photo library to make stop motion clips ( one filming the other as they flicked through their photo library)!
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9ccb9d007f09919fb2c51598be52017abe8197ac-1400x1865.jpg)
+![](./assets/9ccb9d007f09919fb2c51598be52017abe8197ac-1400x1865.jpg)
 
 
 
@@ -96,7 +96,7 @@ We were super-grateful to everyone who came and threw themselves into these food
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/c7a2cf23ae0eba3b32aeede20d307f1a55ce8033-1400x933.jpg)
+![](./assets/c7a2cf23ae0eba3b32aeede20d307f1a55ce8033-1400x933.jpg)
 
 
 

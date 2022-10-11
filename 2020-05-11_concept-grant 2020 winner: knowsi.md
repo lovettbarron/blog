@@ -5,7 +5,7 @@ title: "Concept Grant 2020 winner: Knowsi"
 date: "2020-05-11",
 slug: "concept-grant 2020 winner: knowsi",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/8faa082c37e47702dd4eb260276ef6da3fc74dcb-4614x2789.png".
+thumbnail: "./assets/8faa082c37e47702dd4eb260276ef6da3fc74dcb-4614x2789.png".
 description: ""
 ---
 
@@ -49,7 +49,7 @@ _Knowsi is focused on providing the best consent experience for both researchers
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/201146e27be2f285de852c37acc7de5fa2f2c547-1500x1000.png)
+![](./assets/201146e27be2f285de852c37acc7de5fa2f2c547-1500x1000.png)
 
 ### **5. WHO ARE THE MAIN USERS OF KNOWSI? AND WHO ELSE IN THE RESEARCH COMMUNITY COULD KNOWSI BENEFIT IN THE FUTURE?**
 

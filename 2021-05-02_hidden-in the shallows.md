@@ -5,7 +5,7 @@ title: "Hidden in the Shallows"
 date: "2021-05-02",
 slug: "hidden-in the shallows",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/cef2a0e4f427f11831544a3741950f8a4904f8db-1300x731.png".
+thumbnail: "./assets/cef2a0e4f427f11831544a3741950f8a4904f8db-1300x731.png".
 description: ""
 ---
 
@@ -19,7 +19,7 @@ With its roots in slavery and colonialism, the idea of the zombie is nothing new
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/388c3ec3ad1b92481e33dae86e3bdbd4bf89eb9b-885x560.jpg)
+![](./assets/388c3ec3ad1b92481e33dae86e3bdbd4bf89eb9b-885x560.jpg)
 
   
 
@@ -41,7 +41,7 @@ There’s other genres of media like this. Fashion is an interesting one — it 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f2d357c764d0e604fdc2bb8d1469c4cddf41a192-800x434.jpg)
+![](./assets/f2d357c764d0e604fdc2bb8d1469c4cddf41a192-800x434.jpg)
 
   
 
@@ -53,7 +53,7 @@ Rei Kawakubo’s [Body Meets Dress, Dress Meets Body](https://www.vogue.com/fash
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/c4c1981fe09bf96aa8926d1702068ae8d0400e2c-1600x900.jpg)
+![](./assets/c4c1981fe09bf96aa8926d1702068ae8d0400e2c-1600x900.jpg)
 
   
 

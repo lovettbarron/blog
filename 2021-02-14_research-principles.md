@@ -5,7 +5,7 @@ title: "Some Design Research Principles"
 date: "2021-02-14",
 slug: "research-principles",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png".
+thumbnail: "./assets/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png".
 description: ""
 ---
 
@@ -17,7 +17,7 @@ Anyway. That part is a broader conversation, but I want to describe some princip
 
 ## 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/7930c35da039b32aa958543794dbc39b6ff49263-2048x1365.jpg)
+![](./assets/7930c35da039b32aa958543794dbc39b6ff49263-2048x1365.jpg)
 
 ##   
 **Celebrate Your Participant's Experience**
@@ -48,7 +48,7 @@ Asking open-ended questions may unlock fruitful tangents and ideas that you’d 
 ##   
 **Have A Backup**
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/7261e312fcc13c4ce2ee7684090fd3e99a57b37c-2048x1365.jpg)
+![](./assets/7261e312fcc13c4ce2ee7684090fd3e99a57b37c-2048x1365.jpg)
 
 Sometimes an interview just isn’t going well. It happens. So what do you do? Experienced researchers have a grab bag of techniques, conversations, and prompts that they can draw from, but as you’re getting started, refocusing can seem like an impossible task. Always keep one or two backup activities or lines of questioning in play, so that you can still get something valuable if an interview subject is suddenly silent or perhaps doesn’t have the experience you expected. 
 
@@ -86,7 +86,7 @@ This is also a domain that has its own fairly intensive depth. Learning to code,
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/4cb4b89b52ce527f9bbe070f42b8b122a4fce70d-2048x1365.jpg)
+![](./assets/4cb4b89b52ce527f9bbe070f42b8b122a4fce70d-2048x1365.jpg)
 
 Your user is not the designer, nor are they your boss. Unfortunately, it’s often the case that new researchers will hear a need articulated that resonates with their own experience of the problem, and will be taken as a demand or requirement for the product or service being created. 
 

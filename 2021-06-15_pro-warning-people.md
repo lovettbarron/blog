@@ -5,7 +5,7 @@ title: "Professional Warning People"
 date: "2021-06-15",
 slug: "pro-warning-people",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png".
+thumbnail: "./assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png".
 description: ""
 ---
 
@@ -17,7 +17,7 @@ Warning intelligence is a function of the intelligence community that manifests 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/6e4ca21ef97fa44cdd5ecda5d3626fe9f8ca8525-667x673.png)
+![](./assets/6e4ca21ef97fa44cdd5ecda5d3626fe9f8ca8525-667x673.png)
 
 Most of us operate less in the present, and more as a kind of smear between past and future — with our present moments coalescing like a Gerhard Richter painting. Strategic thinking at its best orders this natural chaos: providing the structure and tools to look ahead, look behind, and actually make decisions in the moment that support futures. Ladder that up to decision making for not just oneself but others' time, resources, etc. and you get some pretty clear examples of strategic decision making. Taken up even further — with thousands and millions (the American Department of Defense has about 1.4 million employees when considering both civilian and uniformed personnel) people relying on different tiers of strategic decision making — and the impulse is to embed those sensory and analytical functions within specific teams and career paths. This is what makes it possible for an elected official with a four to eight year mandate to move into the chief executive role and actually do anything coherently.
 
@@ -29,7 +29,7 @@ These events led to a kind of souring on intelligence and foreign engagements by
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/92dab1148723517d9db36cbd335a95e08c582386-1534x979.png)
+![](./assets/92dab1148723517d9db36cbd335a95e08c582386-1534x979.png)
 
 Warning intelligence doesn't make the decision, but rather serves as a function in intelligence with two primary roles: **to track uncertainty and threats, and communicate effectively to decision makers when those threats manifest into risk**. When driving, our eyes move constantly: flicking across our vehicle's status indicators, the road (and its external status indicators, like dividing lines and shoulder), other cars and their trajectory and the mirror, to alert us about things from behind. If we see something that's a threat (like a big truck pulling up alongside, or one that we're trying to pass), we're a lot less anxious if we see it coming. The risk is small and we have contingencies (maybe pulling onto the shoulder, maybe deciding not to drive between two trucks, etc). But if we're reeling from a near miss moments earlier, or are caught unaware by its speed, then the potential risk we're taking in responding to this new threat is substantially greater.
 

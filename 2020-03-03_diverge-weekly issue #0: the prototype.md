@@ -5,7 +5,7 @@ title: "Diverge Weekly Issue #0: The Prototype"
 date: "2020-03-03",
 slug: "diverge-weekly issue #0: the prototype",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg".
+thumbnail: "./assets/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg".
 description: ""
 ---
 
@@ -25,7 +25,7 @@ This is the prototype newsletter, so please [let us know what you think](mailto:
 
 ## Security Blanket
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/2ffd9b9ea5ab387e9b6ed429bd0911e00ac691e7-1330x850.jpg)
+![](./assets/2ffd9b9ea5ab387e9b6ed429bd0911e00ac691e7-1330x850.jpg)
 
 [**How to train your AI soldier robots (and the humans who command them) - war on the rocks**](https://warontherocks.com/2020/02/how-to-train-your-ai-soldier-robots-and-the-humans-who-command-them/)
 

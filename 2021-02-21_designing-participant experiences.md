@@ -5,7 +5,7 @@ title: "Designing Participant Experiences"
 date: "2021-02-21",
 slug: "designing-participant experiences",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg".
+thumbnail: "./assets/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg".
 description: ""
 ---
 
@@ -31,7 +31,7 @@ From my own experience, and in interviewing academic and private-sector research
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f70d7775d630e2e5f19130bcbe7c8329f62229f7-1562x340.png)
+![](./assets/f70d7775d630e2e5f19130bcbe7c8329f62229f7-1562x340.png)
 
 1) Identify who we want to talk to based on the research question, budget, access, and other constraints. Often the recruitment strategy and requirements are established here.
 
@@ -57,7 +57,7 @@ Often, some variation on this path is presented as a linear funnel, whereby part
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/58337a52fa12be534474e4335ffbb30a33f71457-1568x862.png)
+![](./assets/58337a52fa12be534474e4335ffbb30a33f71457-1568x862.png)
 
   
 
@@ -69,7 +69,7 @@ Often, some variation on this path is presented as a linear funnel, whereby part
 
 How does the participant experience map onto the idealized path that researchers have described? Ultimately, we tend to see that participants lack insight into the “what comes next” part of a research program. There is a mutual (albeit asymmetric) understanding of value between the researcher and the participant. At the very least, the participant understands that someone wants to talk to them and potentially pay them for it. But they don’t often have insight into the research, rather, the majority of their experience is around managing contact and anxiety over trust.
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/f494c62b260d593f728b59756104da8326fa4b12-1596x1116.png)
+![](./assets/f494c62b260d593f728b59756104da8326fa4b12-1596x1116.png)
 
   
 
@@ -81,7 +81,7 @@ This management of trust cascades into a fairly substantial amount of effort and
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/04e413037e1f1710debda9dc086ddb9acfde28a3-1752x1138.png)
+![](./assets/04e413037e1f1710debda9dc086ddb9acfde28a3-1752x1138.png)
 
 By applying a service design and design-thinking approach to the participant experience, we’re empowered to see some of the core concerns that participants might have about each phase of what, to a researcher, appears to be a simple and rote experience — the constituent parts of that tax. These concerns might manifest in any number of ways — from anxiety, evasion, and cancelation on the far end; or even slower response times, self-protective questioning, and a hesitation to explore certain topics too deeply.
 
@@ -101,7 +101,7 @@ Designing a better participant experience is ultimately the road to designing a 
   
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/2f9b5c988066f828a6702525c311a78ba3b8f965-1784x1192.png)
+![](./assets/2f9b5c988066f828a6702525c311a78ba3b8f965-1784x1192.png)
 
   
 

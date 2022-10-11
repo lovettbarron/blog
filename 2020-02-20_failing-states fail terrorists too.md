@@ -5,7 +5,7 @@ title: "Failing States Fail Terrorists Too"
 date: "2020-02-20",
 slug: "failing-states fail terrorists too",
 author: "Andrew Lovett-Barron",
-thumbnail: "https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg".
+thumbnail: "./assets/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg".
 description: ""
 ---
 
@@ -27,7 +27,7 @@ In other words, the definition of terrorism in this analysis is necessarily one 
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/e5bca9e6dcb5136ddc9f7fde703e4eab3b8f0a7d-900x600.jpg)
+![](./assets/e5bca9e6dcb5136ddc9f7fde703e4eab3b8f0a7d-900x600.jpg)
 
 Forces patrolling in a poppy field. Credit: [Kaily Brown/U.S. Army](https://www.stripes.com/news/un-report-afghan-opium-survey-reports-record-high-growth-in-2013-1.252436)
 
@@ -47,7 +47,7 @@ If failing states are measured along a continuum of adherence to the economic an
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/3f4e9cb2c2f7cd31a262074383e58afd5c577822-1000x670.jpg)
+![](./assets/3f4e9cb2c2f7cd31a262074383e58afd5c577822-1000x670.jpg)
 
 Al Shabaab Technical. Credit: [Reuters/Omar Faruk](https://www.accord.org.za/conflict-trends/disengaging-from-violent-extremism/)
 
@@ -75,7 +75,7 @@ This shift away from the state-level of analysis points to effective ways in whi
 
 
 
-![](https://cdn.sanity.io/images/lze1vo8m/andrewlbcom/05d62c145ee32abee1ad9b2dd95744d54d46f359-1029x684.jpg)
+![](./assets/05d62c145ee32abee1ad9b2dd95744d54d46f359-1029x684.jpg)
 
 Bundy Ranch StandoffThe Bundy Ranch standoff and the question of domestic terrorism? Credit: Unknown.
 
