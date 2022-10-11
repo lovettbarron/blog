@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Some Design Research Principles"
-date: "2021-02-14",
-slug: "research-principles",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png".
+date: "2021-02-14"
+slug: "research-principles"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png"
 description: ""
 ---
 

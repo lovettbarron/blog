@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Designing trust relationships in research with Knowsi"
-date: "2020-10-09",
-slug: "designing-trust relationships in research with knowsi",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png".
+date: "2020-10-09"
+slug: "designing-trust relationships in research with knowsi"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/6e78449604867ae502cd69b49d94e9ee59d95e31-570x370.png"
 description: ""
 ---
 

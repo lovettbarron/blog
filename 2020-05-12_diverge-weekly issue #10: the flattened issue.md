@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #10: The Flattened Issue"
-date: "2020-05-12",
-slug: "diverge-weekly issue #10: the flattened issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/51d8deec008632ca1cc52368c7dcf306cddbd368-1922x1200.jpg".
+date: "2020-05-12"
+slug: "diverge-weekly issue #10: the flattened issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/51d8deec008632ca1cc52368c7dcf306cddbd368-1922x1200.jpg"
 description: ""
 ---
 

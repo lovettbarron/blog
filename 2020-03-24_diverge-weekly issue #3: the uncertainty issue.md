@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #3: The Uncertainty Issue"
-date: "2020-03-24",
-slug: "diverge-weekly issue #3: the uncertainty issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg".
+date: "2020-03-24"
+slug: "diverge-weekly issue #3: the uncertainty issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Renewing Spaces"
-date: "2021-11-16",
-slug: "renewing-spaces",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png".
+date: "2021-11-16"
+slug: "renewing-spaces"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Wearing Technology"
-date: "2021-04-11",
-slug: "wearing-technology",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png".
+date: "2021-04-11"
+slug: "wearing-technology"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png"
 description: ""
 ---
 

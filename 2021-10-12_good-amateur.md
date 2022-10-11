@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Being a Good Amateur"
-date: "2021-10-12",
-slug: "good-amateur",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png".
+date: "2021-10-12"
+slug: "good-amateur"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/4ea51a535ce73ff74b7eb6879339950b1f652955-1356x1363.png"
 description: ""
 ---
 

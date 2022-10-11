@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "HMW How Might We?"
-date: "2018-05-15",
-slug: "hmw-how might we?",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png".
+date: "2018-05-15"
+slug: "hmw-how might we?"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png"
 description: ""
 ---
 

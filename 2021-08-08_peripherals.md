@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Peripherals"
-date: "2021-08-08",
-slug: "peripherals",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg".
+date: "2021-08-08"
+slug: "peripherals"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/21519d63c4aca9fd6f839a624f1104a8dcf22144-1280x720.jpg"
 description: ""
 ---
 

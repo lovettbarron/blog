@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Zombie Nonprofits"
-date: "2021-07-11",
-slug: "zombie-nonprofits",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/eb9fb779b209fa3e07841b4f99ec8a743212a271-2048x1536.png".
+date: "2021-07-11"
+slug: "zombie-nonprofits"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/eb9fb779b209fa3e07841b4f99ec8a743212a271-2048x1536.png"
 description: ""
 ---
 

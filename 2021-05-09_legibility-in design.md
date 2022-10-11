@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Legibility in Design"
-date: "2021-05-09",
-slug: "legibility-in design",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/f3927a0562cab57533dda5b6a9a9682c64e6e073-850x499.png".
+date: "2021-05-09"
+slug: "legibility-in design"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/f3927a0562cab57533dda5b6a9a9682c64e6e073-850x499.png"
 description: ""
 ---
 

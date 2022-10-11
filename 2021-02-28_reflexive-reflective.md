@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Reflexive Reflective"
-date: "2021-02-28",
-slug: "reflexive-reflective",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/832265b29f368372d80595f21df4f0ffe4ec7620-2048x1365.jpg".
+date: "2021-02-28"
+slug: "reflexive-reflective"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/832265b29f368372d80595f21df4f0ffe4ec7620-2048x1365.jpg"
 description: ""
 ---
 

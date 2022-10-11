@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Covid Anxiety: A Foresight Game"
-date: "2021-05-16",
-slug: "covid-anxiety",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg".
+date: "2021-05-16"
+slug: "covid-anxiety"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg"
 description: ""
 ---
 

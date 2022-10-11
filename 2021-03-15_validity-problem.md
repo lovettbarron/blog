@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "The Problem with Validity"
-date: "2021-03-15",
-slug: "validity-problem",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png".
+date: "2021-03-15"
+slug: "validity-problem"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png"
 description: ""
 ---
 

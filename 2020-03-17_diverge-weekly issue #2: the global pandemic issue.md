@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #2: The Global Pandemic Issue"
-date: "2020-03-17",
-slug: "diverge-weekly issue #2: the global pandemic issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg".
+date: "2020-03-17"
+slug: "diverge-weekly issue #2: the global pandemic issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg"
 description: ""
 ---
 

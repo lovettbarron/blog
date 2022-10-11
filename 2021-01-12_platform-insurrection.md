@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Platform Insurrection"
-date: "2021-01-12",
-slug: "platform-insurrection",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg".
+date: "2021-01-12"
+slug: "platform-insurrection"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/0aec7fd9974395f2f7c35878270fd97d101bbd94-2000x1333.jpg"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #1: The Afghan Peace Talk Issue"
-date: "2020-03-10",
-slug: "diverge-weekly issue #1: the afghan peace talk issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png".
+date: "2020-03-10"
+slug: "diverge-weekly issue #1: the afghan peace talk issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png"
 description: ""
 ---
 

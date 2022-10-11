@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Full Hamcus: Finding the Spark in Sci-fi Workwear"
-date: "2021-01-17",
-slug: "full-hamcus",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png".
+date: "2021-01-17"
+slug: "full-hamcus"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png"
 description: ""
 ---
 

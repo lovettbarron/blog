@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Skill Spalling"
-date: "2021-11-07",
-slug: "skill-spalling",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/fe7f09e93ca9cbf5136b9eb8d0b235dc85dadd5a-960x480.jpg".
+date: "2021-11-07"
+slug: "skill-spalling"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/fe7f09e93ca9cbf5136b9eb8d0b235dc85dadd5a-960x480.jpg"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Homeric Design Strategy"
-date: "2021-09-13",
-slug: "homeric-design strategy",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/c68dacce7a2a7fb557ae175983e627303850d91c-1568x1199.png".
+date: "2021-09-13"
+slug: "homeric-design strategy"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/c68dacce7a2a7fb557ae175983e627303850d91c-1568x1199.png"
 description: ""
 ---
 

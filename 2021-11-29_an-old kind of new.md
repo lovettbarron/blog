@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "An Old Kind of New"
-date: "2021-11-29",
-slug: "an-old kind of new",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/5ad55f97f0dbe82947995e335718de1dbd49f094-960x636.png".
+date: "2021-11-29"
+slug: "an-old kind of new"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/5ad55f97f0dbe82947995e335718de1dbd49f094-960x636.png"
 description: ""
 ---
 

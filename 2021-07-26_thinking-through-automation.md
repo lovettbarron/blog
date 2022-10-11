@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Thinking through Research Automation"
-date: "2021-07-26",
-slug: "thinking-through-automation",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png".
+date: "2021-07-26"
+slug: "thinking-through-automation"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Professional Warning People"
-date: "2021-06-15",
-slug: "pro-warning-people",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png".
+date: "2021-06-15"
+slug: "pro-warning-people"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png"
 description: ""
 ---
 

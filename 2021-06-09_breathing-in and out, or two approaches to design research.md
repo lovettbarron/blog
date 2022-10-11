@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Breathing In and Out, or Two Approaches to Design Research"
-date: "2021-06-09",
-slug: "breathing-in and out, or two approaches to design research",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg".
+date: "2021-06-09"
+slug: "breathing-in and out, or two approaches to design research"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg"
 description: ""
 ---
 

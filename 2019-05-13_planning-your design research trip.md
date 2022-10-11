@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Planning your Design Research Trip"
-date: "2019-05-13",
-slug: "planning-your design research trip",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg".
+date: "2019-05-13"
+slug: "planning-your design research trip"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/75befba317841cb0534ac4811671b5fda3ebcc7c-1512x754.jpg"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #6: The Captured Issue"
-date: "2020-04-14",
-slug: "diverge-weekly issue #6: the captured issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg".
+date: "2020-04-14"
+slug: "diverge-weekly issue #6: the captured issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg"
 description: ""
 ---
 

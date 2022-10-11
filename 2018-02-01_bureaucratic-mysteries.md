@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Bureaucratic Mysteries"
-date: "2018-02-01",
-slug: "bureaucratic-mysteries",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg".
+date: "2018-02-01"
+slug: "bureaucratic-mysteries"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg"
 description: ""
 ---
 

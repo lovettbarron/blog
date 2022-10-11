@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Visceral Control"
-date: "2021-08-17",
-slug: "visceral-control",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/d92a382f0b66b270885d202cf34fe5bf43ed1e90-950x500.png".
+date: "2021-08-17"
+slug: "visceral-control"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/d92a382f0b66b270885d202cf34fe5bf43ed1e90-950x500.png"
 description: ""
 ---
 

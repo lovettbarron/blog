@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Avoiding Kits"
-date: "2021-09-28",
-slug: "avoiding-kits",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png".
+date: "2021-09-28"
+slug: "avoiding-kits"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png"
 description: ""
 ---
 

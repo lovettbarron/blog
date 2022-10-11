@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #0: The Prototype"
-date: "2020-03-03",
-slug: "diverge-weekly issue #0: the prototype",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg".
+date: "2020-03-03"
+slug: "diverge-weekly issue #0: the prototype"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg"
 description: ""
 ---
 

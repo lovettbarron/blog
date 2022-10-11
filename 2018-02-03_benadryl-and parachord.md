@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Benadryl and Parachord"
-date: "2018-02-03",
-slug: "benadryl-and parachord",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/bb0181cccb9a9b12445b65a6778ead9e7be04a0b-942x942.jpg".
+date: "2018-02-03"
+slug: "benadryl-and parachord"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/bb0181cccb9a9b12445b65a6778ead9e7be04a0b-942x942.jpg"
 description: ""
 ---
 

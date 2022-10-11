@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Speculative Surplus"
-date: "2021-01-25",
-slug: "speculative-surplus",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/c225207548b1e3e251e4d7f307cce5057cfc31cd-1190x755.png".
+date: "2021-01-25"
+slug: "speculative-surplus"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/c225207548b1e3e251e4d7f307cce5057cfc31cd-1190x755.png"
 description: ""
 ---
 

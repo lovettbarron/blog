@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Designers in the Military"
-date: "2021-06-28",
-slug: "military-design-workshop",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png".
+date: "2021-06-28"
+slug: "military-design-workshop"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Learning with Pressure, Time, and Surface Area"
-date: "2021-10-20",
-slug: "learning-with pressure, time, and surface area",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png".
+date: "2021-10-20"
+slug: "learning-with pressure, time, and surface area"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png"
 description: ""
 ---
 

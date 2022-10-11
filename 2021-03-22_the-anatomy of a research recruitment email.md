@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "The Anatomy of a Research Recruitment Email"
-date: "2021-03-22",
-slug: "the-anatomy of a research recruitment email",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png".
+date: "2021-03-22"
+slug: "the-anatomy of a research recruitment email"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png"
 description: ""
 ---
 

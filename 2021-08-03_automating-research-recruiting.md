@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Automating Research Recruiting"
-date: "2021-08-03",
-slug: "automating-research-recruiting",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png".
+date: "2021-08-03"
+slug: "automating-research-recruiting"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png"
 description: ""
 ---
 

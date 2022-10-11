@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #8: The Just Tired Issue"
-date: "2020-04-28",
-slug: "diverge-weekly issue #8: the just tired issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png".
+date: "2020-04-28"
+slug: "diverge-weekly issue #8: the just tired issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png"
 description: ""
 ---
 

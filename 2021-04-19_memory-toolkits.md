@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Memory Toolkits"
-date: "2021-04-19",
-slug: "memory-toolkits",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg".
+date: "2021-04-19"
+slug: "memory-toolkits"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Kitbashing Experience"
-date: "2021-08-31",
-slug: "kitbashing-experience",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/e88741462537636338210b490378b0e24276e9b5-1243x700.png".
+date: "2021-08-31"
+slug: "kitbashing-experience"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/e88741462537636338210b490378b0e24276e9b5-1243x700.png"
 description: ""
 ---
 

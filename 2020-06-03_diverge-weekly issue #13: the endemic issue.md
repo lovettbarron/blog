@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Diverge Weekly Issue #13: The Endemic Issue"
-date: "2020-06-03",
-slug: "diverge-weekly issue #13: the endemic issue",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg".
+date: "2020-06-03"
+slug: "diverge-weekly issue #13: the endemic issue"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg"
 description: ""
 ---
 

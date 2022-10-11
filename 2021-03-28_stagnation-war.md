@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "War against Stagnation"
-date: "2021-03-28",
-slug: "stagnation-war",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg".
+date: "2021-03-28"
+slug: "stagnation-war"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg"
 description: ""
 ---
 

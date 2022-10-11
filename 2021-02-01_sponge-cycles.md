@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Sponge Cycles"
-date: "2021-02-01",
-slug: "sponge-cycles",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/694806d445d9420288a69a39f768d1e268496076-1920x1080.png".
+date: "2021-02-01"
+slug: "sponge-cycles"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/694806d445d9420288a69a39f768d1e268496076-1920x1080.png"
 description: ""
 ---
 

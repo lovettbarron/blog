@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "The Decay of Digital Things"
-date: "2021-03-09",
-slug: "digital-decay",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png".
+date: "2021-03-09"
+slug: "digital-decay"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png"
 description: ""
 ---
 

@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "On Remote Work and the Coronavirus"
-date: "2020-03-06",
-slug: "on-remote work and the coronavirus",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg".
+date: "2020-03-06"
+slug: "on-remote work and the coronavirus"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg"
 description: ""
 ---
 

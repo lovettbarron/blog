@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "Coordinating global cities research: Knowsi case study"
-date: "2020-09-29",
-slug: "coordinating-global cities research: knowsi case study",
-author: "Andrew Lovett-Barron",
-thumbnail: "./assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg".
+date: "2020-09-29"
+slug: "coordinating-global cities research: knowsi case study"
+author: "Andrew Lovett-Barron"
+thumbnail: "./assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg"
 description: ""
 ---
 
