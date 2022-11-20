@@ -11,4 +11,4 @@ jobs:
         shell: bash
         env:
           UNIQUE_STRING: ${{ secrets.NETLIFY_BUILD_HOOK_UNIQUE_STRING }}
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/637aba206be9ca2a19c825fc
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/$UNIQUE_STRING
