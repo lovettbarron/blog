@@ -2,7 +2,7 @@
 layout: post
 title: "Diverge Weekly Issue #5: The First Reflection Issue"
 date: "2020-04-07"
-slug: "diverge-weekly issue #5: the first reflection issue"
+slug: "diverge-weekly-issue-#5:-the-first-reflection-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg"
 description: ""

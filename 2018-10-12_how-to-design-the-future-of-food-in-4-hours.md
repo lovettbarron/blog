@@ -2,7 +2,7 @@
 layout: post
 title: "How to Design the Future of Food in 4 Hours"
 date: "2018-10-12"
-slug: "how-to design the future of food in 4 hours"
+slug: "how-to-design-the-future-of-food-in-4-hours"
 author: "Andrew Lovett-Barron"
 image: "/assets/5cddc12246a7b1e48a2cad130e003936addba78b-1999x1333.jpg"
 description: ""

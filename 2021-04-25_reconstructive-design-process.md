@@ -2,7 +2,7 @@
 layout: post
 title: "Reconstructive Design Process"
 date: "2021-04-25"
-slug: "reconstructive-design process"
+slug: "reconstructive-design-process"
 author: "Andrew Lovett-Barron"
 image: "/assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png"
 description: ""

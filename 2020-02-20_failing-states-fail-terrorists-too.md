@@ -2,7 +2,7 @@
 layout: post
 title: "Failing States Fail Terrorists Too"
 date: "2020-02-20"
-slug: "failing-states fail terrorists too"
+slug: "failing-states-fail-terrorists-too"
 author: "Andrew Lovett-Barron"
 image: "/assets/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg"
 description: ""

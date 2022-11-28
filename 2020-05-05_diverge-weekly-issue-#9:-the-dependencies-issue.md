@@ -2,7 +2,7 @@
 layout: post
 title: "Diverge Weekly Issue #9: The Dependencies Issue"
 date: "2020-05-05"
-slug: "diverge-weekly issue #9: the dependencies issue"
+slug: "diverge-weekly-issue-#9:-the-dependencies-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg"
 description: ""

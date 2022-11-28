@@ -2,7 +2,7 @@
 layout: post
 title: "Diverge Weekly Issue #7: The Gradual Opening Issue"
 date: "2020-04-21"
-slug: "diverge-weekly issue #7: the gradual opening issue"
+slug: "diverge-weekly-issue-#7:-the-gradual-opening-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/fa767ee6850cafdf3f81431fe11ba34a811ce75a-1180x1184.png"
 description: ""

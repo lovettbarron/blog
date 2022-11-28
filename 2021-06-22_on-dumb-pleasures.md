@@ -2,7 +2,7 @@
 layout: post
 title: "On Dumb Pleasures"
 date: "2021-06-22"
-slug: "on-dumb pleasures"
+slug: "on-dumb-pleasures"
 author: "Andrew Lovett-Barron"
 image: "/assets/b009cc425b9fcc013815b772db8df72e63603051-2000x1000.png"
 description: ""

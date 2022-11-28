@@ -2,7 +2,7 @@
 layout: post
 title: "The Design Researcher’s Everyday Carry"
 date: "2019-06-12"
-slug: "the-design researcher’s everyday carry"
+slug: "the-design-researcher’s-everyday-carry"
 author: "Andrew Lovett-Barron"
 image: "/assets/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg"
 description: ""

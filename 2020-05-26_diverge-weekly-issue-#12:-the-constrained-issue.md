@@ -2,7 +2,7 @@
 layout: post
 title: "Diverge Weekly Issue #12: The Constrained Issue"
 date: "2020-05-26"
-slug: "diverge-weekly issue #12: the constrained issue"
+slug: "diverge-weekly-issue-#12:-the-constrained-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg"
 description: ""

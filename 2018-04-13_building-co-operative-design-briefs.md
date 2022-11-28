@@ -2,7 +2,7 @@
 layout: post
 title: "Building Co-operative Design Briefs"
 date: "2018-04-13"
-slug: "building-co-operative design briefs"
+slug: "building-co-operative-design-briefs"
 author: "Andrew Lovett-Barron"
 image: "/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg"
 description: ""

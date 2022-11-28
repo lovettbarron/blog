@@ -2,7 +2,7 @@
 layout: post
 title: "Diverge Weekly Issue #11: The Waiting Issue"
 date: "2020-05-19"
-slug: "diverge-weekly issue #11: the waiting issue"
+slug: "diverge-weekly-issue-#11:-the-waiting-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/1e56af78b186eb719ff51ea816fb3f71c75af677-2500x1710.jpg"
 description: ""

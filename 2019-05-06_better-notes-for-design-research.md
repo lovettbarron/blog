@@ -2,7 +2,7 @@
 layout: post
 title: "Better Notes for Design Research"
 date: "2019-05-06"
-slug: "better-notes for design research"
+slug: "better-notes-for-design-research"
 author: "Andrew Lovett-Barron"
 image: "/assets/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg"
 description: ""

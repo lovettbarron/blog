@@ -2,7 +2,7 @@
 layout: post
 title: "Concept Grant 2020 winner: Knowsi"
 date: "2020-05-11"
-slug: "concept-grant 2020 winner: knowsi"
+slug: "concept-grant-2020-winner:-knowsi"
 author: "Andrew Lovett-Barron"
 image: "/assets/8faa082c37e47702dd4eb260276ef6da3fc74dcb-4614x2789.png"
 description: ""

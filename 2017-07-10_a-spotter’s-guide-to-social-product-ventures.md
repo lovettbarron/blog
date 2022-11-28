@@ -2,7 +2,7 @@
 layout: post
 title: "A Spotter’s Guide to Social Product Ventures"
 date: "2017-07-10"
-slug: "a-spotter’s guide to social product ventures"
+slug: "a-spotter’s-guide-to-social-product-ventures"
 author: "Andrew Lovett-Barron"
 image: "/assets/c5be1d903e6e21db480a648bbbb7db5451460f72-1280x960.jpg"
 description: ""

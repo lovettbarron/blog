@@ -2,7 +2,7 @@
 layout: post
 title: "A More Intentional Wardrobe"
 date: "2020-01-19"
-slug: "a-more intentional wardrobe"
+slug: "a-more-intentional-wardrobe"
 author: "Andrew Lovett-Barron"
 image: "/assets/428e54b341e263ac3d2ddf8448455e8410b2856b-1176x1424.png"
 description: ""

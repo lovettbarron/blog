@@ -2,7 +2,7 @@
 layout: post
 title: "Designing Participant Experiences"
 date: "2021-02-21"
-slug: "designing-participant experiences"
+slug: "designing-participant-experiences"
 author: "Andrew Lovett-Barron"
 image: "/assets/6bc045101b1fb7f2ffe9f9578d09b1e4f5677666-2048x1365.jpg"
 description: ""

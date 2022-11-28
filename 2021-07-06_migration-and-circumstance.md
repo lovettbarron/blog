@@ -2,7 +2,7 @@
 layout: post
 title: "Migration and Circumstance"
 date: "2021-07-06"
-slug: "migration-and circumstance"
+slug: "migration-and-circumstance"
 author: "Andrew Lovett-Barron"
 image: "/assets/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png"
 description: ""

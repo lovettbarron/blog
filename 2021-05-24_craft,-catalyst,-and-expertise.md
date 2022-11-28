@@ -2,7 +2,7 @@
 layout: post
 title: "Craft, Catalyst, and Expertise"
 date: "2021-05-24"
-slug: "craft,-catalyst, and expertise"
+slug: "craft,-catalyst,-and-expertise"
 author: "Andrew Lovett-Barron"
 image: "/assets/f306d3c3dea980e9a7481a35ca9bd2aae250693c-1280x720.png"
 description: ""

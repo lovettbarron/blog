@@ -2,7 +2,7 @@
 layout: post
 title: "Hidden in the Shallows"
 date: "2021-05-02"
-slug: "hidden-in the shallows"
+slug: "hidden-in-the-shallows"
 author: "Andrew Lovett-Barron"
 image: "/assets/cef2a0e4f427f11831544a3741950f8a4904f8db-1300x731.png"
 description: ""

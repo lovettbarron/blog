@@ -2,7 +2,7 @@
 layout: post
 title: "Exporting PDFs with Next JS"
 date: "2019-03-30"
-slug: "exporting-pdfs with next js"
+slug: "exporting-pdfs-with-next-js"
 author: "Andrew Lovett-Barron"
 image: "/assets/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png"
 description: ""
