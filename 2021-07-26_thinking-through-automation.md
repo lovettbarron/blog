@@ -6,6 +6,8 @@ slug: "thinking-through-automation"
 author: "Andrew Lovett-Barron"
 image: "/assets/807aeb6f16ab5507859bff6912a097ef35f7b156-2472x1879.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 _(This is part 1 of several posts describing research automation. The following posts will describe specific case studies, tools, and mechanisms for automation relavent to researchers)_

@@ -6,6 +6,8 @@ slug: "diverge-weekly-issue-#12:-the-constrained-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 Being a creator of things — software, products, services, policy, etc — means navigating a world of constraints. There were two stories of constraints that I encountered in the past week which I wanted to share.

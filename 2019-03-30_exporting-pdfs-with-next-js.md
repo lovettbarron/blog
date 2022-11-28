@@ -6,6 +6,8 @@ slug: "exporting-pdfs-with-next-js"
 author: "Andrew Lovett-Barron"
 image: "/assets/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 Get your modern CSS rendered right with Heroku, Puppeteer, and Styled-Components.

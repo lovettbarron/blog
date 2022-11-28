@@ -6,6 +6,8 @@ slug: "memory-toolkits"
 author: "Andrew Lovett-Barron"
 image: "/assets/5b355e4c9a508314a3925dac85e57b6f4289c01c-2000x1031.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 Sometime earlier this year, I think I had reached a personal threshold for managing information consumption where things just broke down.

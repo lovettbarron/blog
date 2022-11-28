@@ -6,6 +6,8 @@ slug: "stagnation-war"
 author: "Andrew Lovett-Barron"
 image: "/assets/0a57760961648a020157d5875cc17ccf527e6a38-2048x1365.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 The practice of design has fragmented and spread in so many different directions that it can be hard to keep up. But fundamental to the identity of “a designer” is **critical thinking **and** enthusiastic creating.** Whatever one's medium of expression — be it interface, typography, physical object, or service — this is a common trait of the successful designer.

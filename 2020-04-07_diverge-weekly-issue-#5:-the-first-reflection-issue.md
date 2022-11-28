@@ -6,6 +6,8 @@ slug: "diverge-weekly-issue-#5:-the-first-reflection-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 We’re going to try something a little bit different this week and reflect a bit about this project and its goals. This is issue #5 (including a prototype issue 0 which no one saw), so it felt like time to take stock.

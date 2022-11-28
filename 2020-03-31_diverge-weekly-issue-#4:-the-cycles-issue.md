@@ -6,6 +6,8 @@ slug: "diverge-weekly-issue-#4:-the-cycles-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 **Design is a cyclical action.** While individual artifacts are ejected from the process (like this newsletter and its upcoming visual redesign), the actual process of design is something ongoing.

@@ -6,6 +6,8 @@ slug: "research-principles"
 author: "Andrew Lovett-Barron"
 image: "/assets/10873b99833c2ad0827427688862059c17fe070a-2048x1365.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 Since I run an app that has its roots in the world of Design Research, I spend a fair bit of time either doing research myself or speaking with researchers. I'm in the process of writing a research skills class (that'll be free for [Knowsi](https://www.knowsi.com/) subscribers), so I've been a bit underwater on thinking in terms of specifics, instead of more broadly on what skills and dispositions I believe a researcher should bring to the table.

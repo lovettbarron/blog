@@ -6,6 +6,8 @@ slug: "bootstrapping-infrastructure-in-the-public-interest"
 author: "Andrew Lovett-Barron"
 image: "/assets/1d4d2ff642c9fd61c41a594cee8d4d09b9424674-1400x1050.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 ## “You are not connected to a network.”

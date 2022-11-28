@@ -6,6 +6,8 @@ slug: "wearing-technology"
 author: "Andrew Lovett-Barron"
 image: "/assets/07eb8ef33d88bf9d7145522f4917fbc2295d3b1c-1050x591.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 We adorn ourselves in technology. Whether it's the shrunken screens of today's smartwatches or the latest in lightweight, high resistance fabrics, the fact that we're wearing technology is indisputable. In the past decade though, two terms have emerged with considerable sticking power: tech wear and wearable tech. Those familiar can quickly distinguish, but to the uninitiated, it might seem like synonyms or a grammatical mixup. I'm wondering if the uninitiated — as is often the case — might be better equipped to judge the value of the technology we wrap ourselves in.

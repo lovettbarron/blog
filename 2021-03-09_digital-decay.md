@@ -6,6 +6,8 @@ slug: "digital-decay"
 author: "Andrew Lovett-Barron"
 image: "/assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 We have spent a decade building the consumer Internet of Things with an ethos of “fail fast”. Unfortunately, many of the things we built failed to embrace the withering effect that time has on business, technology, intention, and capital. Consumers have been left holding connected objects that no longer connect, and the question of why investments in the “future” of physical things have resulted in such ephemeral value.

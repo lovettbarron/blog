@@ -6,6 +6,8 @@ slug: "diverge-weekly-issue-#9:-the-dependencies-issue"
 author: "Andrew Lovett-Barron"
 image: "/assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 First, thank you and welcome to all the new subscribers, and to [Hillary Predko](http://hillarypredko.com/) for sharing Diverge in [The Prepared](https://theprepared.org/). This is a weird newsletter that aspires to be about design and global affairs — but I take some latitudes.

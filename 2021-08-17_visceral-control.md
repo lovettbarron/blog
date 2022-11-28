@@ -6,6 +6,8 @@ slug: "visceral-control"
 author: "Andrew Lovett-Barron"
 image: "/assets/d92a382f0b66b270885d202cf34fe5bf43ed1e90-950x500.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 One of the pleasures and horrors of modernity is the control of something larger and more powerful for our ends. That you can do so much more, and then hold on for dear life. Motorcycles are like this. Flooring the accelerator on a Tesla is definitely like this. Weirdly bikes aren’t quite the same — maybe because they’re multipliers of one's own power instead of pulling power from another source?

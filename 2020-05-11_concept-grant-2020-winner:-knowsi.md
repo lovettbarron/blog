@@ -6,6 +6,8 @@ slug: "concept-grant-2020-winner:-knowsi"
 author: "Andrew Lovett-Barron"
 image: "/assets/8faa082c37e47702dd4eb260276ef6da3fc74dcb-4614x2789.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 _This interview was originally published on May 11, 2020, by [**Sage Ocean**](https://ocean.sagepub.com/blog/tools-and-tech/concept-grant-winner-knowsi-interview)._

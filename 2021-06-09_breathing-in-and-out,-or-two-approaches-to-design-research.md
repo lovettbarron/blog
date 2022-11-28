@@ -6,6 +6,8 @@ slug: "breathing-in-and-out,-or-two-approaches-to-design-research"
 author: "Andrew Lovett-Barron"
 image: "/assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 Like our bodies need oxygen, our businesses need a constant supply of knowledge and understanding to fuel our work. But accessing that knowledge isn’t always as intuitive as breathing.

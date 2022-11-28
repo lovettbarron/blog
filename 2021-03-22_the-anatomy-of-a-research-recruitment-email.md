@@ -6,6 +6,8 @@ slug: "the-anatomy-of-a-research-recruitment-email"
 author: "Andrew Lovett-Barron"
 image: "/assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 A new research project has come along and you need to recruit some research participants.
@@ -62,7 +64,7 @@ Before we can speak, we’ll need you to sign a consent form, indicating that yo
 Let me know if you have any questions and thank you in advance for the consideration!
 
 Andrew and the Stupid Systems team  
-415–555–5555 | andrew@stupidsystems.com\_
+415–555–5555 | andrew@stupidsystems.com_
 
 ![](/assets/d0162317432b517673548a4002138b1ce299c63c-1400x933.png)
 

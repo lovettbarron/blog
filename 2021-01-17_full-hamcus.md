@@ -6,6 +6,8 @@ slug: "full-hamcus"
 author: "Andrew Lovett-Barron"
 image: "/assets/ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png"
 description: ""
+categories: ["post"]
+tags: [""]
 ---
 
 This essay was originally published on the** [TCHWR blog](https://www.tchwr.com/2021/01/03/full-hamcus-finding-the-spark-in-scifi-workwear/).**
