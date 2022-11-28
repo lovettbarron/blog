@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/428e54b341e263ac3d2ddf8448455e8410b2856b-1176x1424.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I have an affinity for jackets and bags. The two central functions to protect and to carry somehow stand out in my mind as being what this whole clothing endeavour is about. In the quest for a more perfect bag and a more perfect jacket, I’ve tried many form factors and materials. However, somewhere along the line this search evolved into more of a collection than a solution.

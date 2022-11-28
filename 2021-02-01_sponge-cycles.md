@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/694806d445d9420288a69a39f768d1e268496076-1920x1080.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 We all operate on cycles. Circadian, seasonal, fiscal, and academic — oscillating across frequencies that frame our day-to-day. I was made a lot more self-aware of these cycles when I became mostly remote and mostly independent professionally around 2017 — and had to quickly learn how to either ride out or fight against those rhythms. The thing that I’ve fought most arduously for is the Sponge Cycle.

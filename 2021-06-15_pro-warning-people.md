@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 There are professional Cassandras out there and their curse isn't coming from Apollo this time — but from the institutions they serve under.

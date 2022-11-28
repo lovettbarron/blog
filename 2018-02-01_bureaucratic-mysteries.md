@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 *These tools were taught as a workshop to the first* [_Code for Canada fellowship_](https://codefor.ca/) \*team in November 2017. Article originally published in [**Medium**](https://medium.com/knowsi/bureaucratic-mysteries-design-tools-for-government-9842decdf9fa)**\*_._**

@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/9c25896edb7cb590d2e17f64296772d445bd6130-1920x1247.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 _As a forewarning, this is one of those “I’m working through something” posts and trying to wrangle my own thinking. I might come back and add to it as my thinking evolves._

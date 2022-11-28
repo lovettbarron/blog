@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 This past week we’ve seen the “exponential” part of exponential growth hit the world like a tidal wave. Markets have dipped, businesses are scrambling, and the people that constitute both are unsure of what’s coming.

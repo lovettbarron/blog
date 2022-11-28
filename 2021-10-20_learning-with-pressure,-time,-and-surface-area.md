@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/b6a010eda7b232f3c4298b7f6f3af7b1c466cc97-2300x1533.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 Since moving to Copenhagen, one of the things I’ve been experimenting with has been how to learn very new (or functionally new) things effectively — especially given all the constraints of the job, family, and existing commitments and passions.

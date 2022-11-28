@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/e88741462537636338210b490378b0e24276e9b5-1243x700.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 We’re in a golden age (cue: ominous sound that comes with a loaded word) of prototyping. For most digital designers, it’s never been easier to express ideas in forms that can be clicked, tested, interrogated, and discarded. This should lead to a Cambrian explosion of creativity and diversity — but instead, we find ourselves in a period of incredibly homogenized experiences. Websites follow similar patterns, coffee shops and restaurants barely differ around the details, and connected devices compete for control over your networked ecosystem.

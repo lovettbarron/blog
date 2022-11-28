@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 In design teams, the “Brief” is often a shared understanding of the challenge the team is facing. It should include the client or corporate understanding of the need, major stakeholders, deadlines, tangible outcomes to be delivered, and personal needs or constraints for the team. This is the basic checklist for the task at hand, and sets the groundwork for the next weeks or months of work.

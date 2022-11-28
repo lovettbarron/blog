@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/f306d3c3dea980e9a7481a35ca9bd2aae250693c-1280x720.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 It’s really hard to understand the value of expertise in a discipline from the outside. Or put another way, the language of disciplines can make identifying expertise difficult.

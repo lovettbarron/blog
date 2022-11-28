@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 As the exogenous force of coronavirus has pummeled the globe, America has had its own endemic disease roar to the surface.

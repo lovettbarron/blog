@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/c68dacce7a2a7fb557ae175983e627303850d91c-1568x1199.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I was one course away from a minor in Classics when I graduated from the University of Toronto. It was a weird rabbit hole that I fell down — utterly engrossed by the overlapping systems of symbol and myth that had wrapped itself around the Greco-Roman psyche. It got to the point that years later, I’d get [a pretty large tattoo](https://www.instagram.com/p/BCJ3W5dStd-/?taken-by=freeorgy&hl=en) depicting the Golden Bough scenes from the Aeneid on my leg where the titular character descends into the underworld to commune with his past and learn of his future (really a bald-faced Imperial puff piece by Virgil, the poet come propagandist).

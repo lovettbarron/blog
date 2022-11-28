@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/75be8bf9678586451ed144f4bc4adacabb5a1e46-1000x667.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 What does it mean to design for the propagation of security? In a way, this is one of the grand questions of international relations and its sub field, security studies. Exploring what contexts (events, regimes, situations, etc) create or compromise our understanding of security, how security is constructed through foresight and hindsight on these contexts, and who experiences — or sees a loss of — security given those contexts (and whether it’s equitable, uneven, or even mutually exclusive).

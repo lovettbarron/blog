@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/b009cc425b9fcc013815b772db8df72e63603051-2000x1000.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I have terrible taste in film. I once suggested Zardoz to a first date, am a huge fan of the Conan movies and am a sucker for any given action film that happens to flit across my radar with at least somewhat recognizable tropes.

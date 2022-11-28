@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/cef2a0e4f427f11831544a3741950f8a4904f8db-1300x731.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 The zombie genre is a compelling lens on the world despite its bleak premise. The dead rise and mindlessly go about adding to their numbers. Faced with what’s basically an environmental force, individuals and society proceed to break down, come together, reform, or get overwhelmed — ultimately becoming zombies themselves and adding to the threat to others. It’s such a simple and shallow premise — of course, it would become a vector for something more.

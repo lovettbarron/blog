@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I am often “getting started.” Part of the theory of Diverge, to be honest, is being in that frequent state of beginning something new as past explorations manifest in new curiosity. Usually, these things end up being related. For much of this year, I’ve gone back and forth in 3D printing, modelling, and some rudimentary game development. That’s included a few (maybe helpful) diversions, like getting a bit too interested in flight simulators.

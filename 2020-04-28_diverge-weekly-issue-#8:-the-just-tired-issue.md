@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/63c931b7a623167f8c39babf15a1d8024ebe51bc-1180x885.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 Everyone I talk to lately is tired.

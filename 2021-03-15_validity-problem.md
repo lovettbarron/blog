@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/f06df5b18d407d1d884c8fe6ffe0455ba789d6d1-3234x1940.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 How much of what I just discovered is my own beliefs reflecting back on me — lightly but insignificantly embellished by the research completed?

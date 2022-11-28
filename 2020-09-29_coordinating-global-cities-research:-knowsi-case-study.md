@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 _Originally published as a guest blog on [**Sage Ocean**](https://ocean.sagepub.com/blog/tools-and-tech/coordinating-global-cities-research-knowsi-case-study)._

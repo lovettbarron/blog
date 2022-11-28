@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/1e56af78b186eb719ff51ea816fb3f71c75af677-2500x1710.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 It’s been 70 days since my family and I hit “go” on our particular lockdown, only preceding the overall lockdown in Denmark by a few days. In that time period, a lot has happened for us and for everyone else, but it’s been consistently encapsulated anticipation — that we’re waiting to understand the road we’ll be on tomorrow. I’ve heard a lot of folk describe our current state as a kind of limbo.

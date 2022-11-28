@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 _This was my term paper for the first module in my Security Studies MA, written December 2019. Sharing here as a writing sample and because I enjoyed the process of writing it._

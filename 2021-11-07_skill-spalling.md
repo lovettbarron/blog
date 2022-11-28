@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/fe7f09e93ca9cbf5136b9eb8d0b235dc85dadd5a-960x480.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 The skills we develop aren’t permanent. They’re things that develop within a particular context — education, a workspace, a team, etc. — that accrete and slough off over time unless continuously reinforced. The now aged youth who studied piano might retain their ear for beat and pitch, but can’t find the chords or read the music without placing themselves in a place to reacquire that skill. The lapsed skateboarder might struggle with their new body upon return to the practice to teach their child a former passion — centre of gravity, mobility, and forgotten detail hampering their efforts.

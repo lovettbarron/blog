@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/fa767ee6850cafdf3f81431fe11ba34a811ce75a-1180x1184.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 My son had his first day back at daycare today (I’m writing this on Monday).

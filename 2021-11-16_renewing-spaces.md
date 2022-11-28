@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/aac796005a07a4b6caa4c4e6db77010516f76eca-1280x960.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 Every few months, my wife and I change around our apartments configuration. The way this manifests is always a bit different. On the extreme end, we might move the bed into a different room, discard or donate a beloved piece of furniture, or engage in something vaguely reminiscent of a Konmari via scorched earth campaign.

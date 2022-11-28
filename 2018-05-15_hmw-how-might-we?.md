@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/01808a7f84f519b923fa115e071c7e855cab22ae-648x213.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 If you’ve ever worked with a designer facilitating a workshop, or a supplicant of design thinking, you’ve probably heard the words “How Might We” spoken as though they were capitalized.

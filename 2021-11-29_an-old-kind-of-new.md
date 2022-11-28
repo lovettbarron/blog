@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/5ad55f97f0dbe82947995e335718de1dbd49f094-960x636.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 For the past few years, I’ve been independent — as a consultant, as a contractor, as an indie developer, or in different kind of liminal states. It’s been overall awesome, though with its host of stressors. It’s also been uniquely beneficial as a new father, giving me a degree of agency to be present and learn what life is with a child. But a thing that I discovered about “being independent” is that while I had a huge amount of control over my work and what I did — the content of that work (with the exception of [Knowsi](https://knowsi.com) and an absolutely awesome year working with IKEA) never presented the novelty that I’d kicked down the door seeking in the first place.

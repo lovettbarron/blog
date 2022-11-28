@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/12d5a0081ce7c63c1c4a44a20760455787cbe018-640x360.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I’ve fairly recently changed my mind about virtual reality.

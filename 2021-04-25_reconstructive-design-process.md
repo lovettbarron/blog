@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I love Rick Owens’ runway shows. They’re a consistent (and he is remarkably consistent) source of visual inspiration that I find bleeds into a few different sources of cultural and creative output. And as a designer consuming design work from a different material context, it’s almost inevitable that I get drawn into investigating process.

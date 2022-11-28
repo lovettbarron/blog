@@ -7,7 +7,7 @@ author: "Andrew Lovett-Barron"
 image: "/assets/92ddc2822f45f1c17155d7f46db775fbddea5669-1180x664.jpg"
 description: ""
 categories: ["post"]
-tags: [""]
+tags: []
 ---
 
 I’ve been reading and thinking about foresight — especially as it relates to the current pandemic and security. As a result, I’ve been getting interested in why we believe what we believe about the future.
