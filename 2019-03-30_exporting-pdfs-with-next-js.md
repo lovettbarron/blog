@@ -22,34 +22,36 @@ I figured that given this server-side rendering, simply rendering that stream to
 
 I started by looking at [this post by Stanley Folk](https://medium.com/@stanleyfok/pdf-generation-with-react-componenets-using-next-js-at-server-side-ee9c2dea06a7) as a launching point, and tried this function he shared that uses html-pdf as the PDF rendering solution:
 
-> import { renderToStaticMarkup } from 'react-dom/server';  
+```
+> import { renderToStaticMarkup } from 'react-dom/server';
 > import pdf from 'html-pdf';
 
 > const componentToPDFBuffer = (component) => {
 
-> return new Promise((resolve, reject) => {  
-> const html = renderToStaticMarkup(component);  
-> const options = {  
-> format: 'A4',  
-> orientation: 'portrait',  
-> border: '10mm',  
-> footer: {  
-> height: '10mm',  
-> },  
-> type: 'pdf',  
-> timeout: 30000,  
-> };const buffer = pdf.create(html, options).toBuffer((err, buffer) => {  
-> if (err) {  
-> return reject(err);  
-> }  
-> return resolve(buffer);  
-> });  
-> });  
+> return new Promise((resolve, reject) => {
+> const html = renderToStaticMarkup(component);
+> const options = {
+> format: 'A4',
+> orientation: 'portrait',
+> border: '10mm',
+> footer: {
+> height: '10mm',
+> },
+> type: 'pdf',
+> timeout: 30000,
+> };const buffer = pdf.create(html, options).toBuffer((err, buffer) => {
+> if (err) {
+> return reject(err);
+> }
+> return resolve(buffer);
+> });
+> });
 > }
 
-> export default {  
-> componentToPDFBuffer  
+> export default {
+> componentToPDFBuffer
 > }
+```
 
 I ran into a number of issues with his approach though.
 
@@ -69,54 +71,58 @@ This ultimately ended up being a good thing, forcing me to dig into the meat of 
 
 I settled on this approach for rendering out a PDF of the entire page by setting up the render in getInitialProps on the \_document component:
 
-> static async getInitialProps(ctx) {  
-> const { req, res, query, renderPage } = ctx;  
-> // Setup  
-> const sheet = new ServerStyleSheet();  
-> const page = !pdf  
-> ? renderPage(App => props => sheet.collectStyles(<App {…props} />))  
-> : renderPage({  
-> enhanceApp: App => props => sheet.collectStyles(<App {…props} />)  
-> });  
-> const styleTags = sheet.getStyleElement();  
-> // Setup PDF  
-> const pdf = query.pdf === “true”;  
-> const server = !!req;  
-> if (server && pdf) {  
-> const initialProps = await Document.getInitialProps(ctx);  
-> const css = sheet  
-> .getStyleElement()  
-> .map(e => e.props.dangerouslySetInnerHTML.\_\_html)  
-> .join();  
-> const buffer = await pdfHelper  
+```
+> static async getInitialProps(ctx) {
+> const { req, res, query, renderPage } = ctx;
+> // Setup
+> const sheet = new ServerStyleSheet();
+> const page = !pdf
+> ? renderPage(App => props => sheet.collectStyles(<App {…props} />))
+> : renderPage({
+> enhanceApp: App => props => sheet.collectStyles(<App {…props} />)
+> });
+> const styleTags = sheet.getStyleElement();
+> // Setup PDF
+> const pdf = query.pdf === “true”;
+> const server = !!req;
+> if (server && pdf) {
+> const initialProps = await Document.getInitialProps(ctx);
+> const css = sheet
+> .getStyleElement()
+> .map(e => e.props.dangerouslySetInnerHTML.\_\_html)
+> .join();
+> const buffer = await pdfHelper
 > .componentToPDFBuffer(
+```
 
-<html  
-lang=“en”  
-dangerouslySetInnerHTML={{  
-__html: `  
-<head><style>${renderToString(css)}</style></head>  
-<body>  
-<div id=“__next”>  
-${page.html}  
-</div>  
-</body>  
-`  
-}}  
-/>  
-)  
-.catch(function(err) {  
-console.log(“Error generating pdf”, err);  
-});  
-res.setHeader(  
-“Content-disposition”,  
-`attachment; filename="test.pdf`  
-);  
-res.setHeader(“Content-Type”, “application/pdf”);  
-res.end(buffer);  
-}  
-return { …page, renderPage, styleTags, pdf, server, query };  
+```
+<html
+lang=“en”
+dangerouslySetInnerHTML={{
+__html: `
+<head><style>${renderToString(css)}</style></head>
+<body>
+<div id=“__next”>
+${page.html}
+</div>
+</body>
+`
+}}
+/>
+)
+.catch(function(err) {
+console.log(“Error generating pdf”, err);
+});
+res.setHeader(
+“Content-disposition”,
+`attachment; filename="test.pdf`
+);
+res.setHeader(“Content-Type”, “application/pdf”);
+res.end(buffer);
 }
+return { …page, renderPage, styleTags, pdf, server, query };
+}
+```
 
 In this case, my big challenge was how to render out the CSS. Because I’m using Styled Components, I had to get the style elements, retrieve the rendered CSS itself from the styleTags element, and then put it in a format that would render as plain CSS. Then I could insert it into a head tag, and simply serve the static HTML to my PDF function. Ultimately, this will let me manipulate the PDF document structure down the road a bit if I decide to add footers or similar styles.
 
@@ -132,28 +138,30 @@ Because phantomJS is an older tool, it didn’t include support for more modern 
 
 PhantomJS was a non-option, but I kept the shell of the application and explored Headless-Chrome and Puppeteer instead. After a bit of experimentation, I landed on this revised version of Stanley Folk’s original function.
 
-import { renderToStaticMarkup } from “react-dom/server”;  
-import { devfrontend, prodfrontend } from “../config”;  
-import puppeteer from “puppeteer”;const componentToPDFBuffer = async component => {  
-const html = renderToStaticMarkup(component);  
-const browser = await puppeteer.launch({  
-headless: true,  
-args: [“—no-sandbox”, “—disable-setuid-sandbox”]  
-});  
-const page = await browser.newPage();  
-await page.goto(  
-process.env.NODE_ENV !== “production” ? devfrontend : prodfrontend  
-);  
-await page.setContent(html, { waitUntil: “networkidle0”, timeout: 30000 });  
-const pdf = await page.pdf({  
-format: “A4”,  
-scale: 0.75,  
-printBackground: true  
-});await browser.close();  
-return pdf;  
-};export default {  
-componentToPDFBuffer  
+```
+import { renderToStaticMarkup } from “react-dom/server”;
+import { devfrontend, prodfrontend } from “../config”;
+import puppeteer from “puppeteer”;const componentToPDFBuffer = async component => {
+const html = renderToStaticMarkup(component);
+const browser = await puppeteer.launch({
+headless: true,
+args: [“—no-sandbox”, “—disable-setuid-sandbox”]
+});
+const page = await browser.newPage();
+await page.goto(
+process.env.NODE_ENV !== “production” ? devfrontend : prodfrontend
+);
+await page.setContent(html, { waitUntil: “networkidle0”, timeout: 30000 });
+const pdf = await page.pdf({
+format: “A4”,
+scale: 0.75,
+printBackground: true
+});await browser.close();
+return pdf;
+};export default {
+componentToPDFBuffer
 };
+```
 
 Let’s quickly walk through what’s going on here.
 
@@ -191,14 +199,16 @@ An important thing here: **DO NOT USE** **heroku buildpacks:set** **(like I di
 
 Here’s what worked for me in my package.json:
 
-> "buildpacks": [  
-> {  
-> "url": "[https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz](https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz)"  
-> },  
-> {  
-> "url": "[https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz](https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz)"  
-> }  
+```
+> "buildpacks": [
+> {
+> "url": "[https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz](https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz)"
+> },
+> {
+> "url": "[https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz](https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz)"
+> }
 > ],
+```
 
 You can also easily set this up in the Heroku UI by navigating to your app → Settings file, going to build packs, and adding the above build packs manually (her latter is just heroku/nodejs)
 
@@ -215,3 +225,4 @@ My solution is far from perfect, but this method is a great way to do things lik
 ![](/assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
 _This article was originally published in [**Medium**](https://medium.com/knowsi/exporting-pdfs-with-next-js-714735f0a473)._
+a
