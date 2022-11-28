@@ -4,7 +4,7 @@ title: "Bootstrapping Infrastructure in the Public Interest"
 date: "2021-06-22"
 slug: "bootstrapping-infrastructure in the public interest"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/1d4d2ff642c9fd61c41a594cee8d4d09b9424674-1400x1050.jpg"
+image: "/assets/1d4d2ff642c9fd61c41a594cee8d4d09b9424674-1400x1050.jpg"
 description: ""
 ---
 
@@ -14,8 +14,6 @@ When flashed across a screen on any range of devices, these words often describe
 
 From their volunteer relief efforts with Occupy Sandy, [Chris Guess](https://medium.com/@cguess) and [Matt Grasser](https://medium.com/@msgrasser) felt like they could see some better options for at least part of this puzzle. Chris had watched a friend of his move from distribution point to distribution point recording inventory surpluses and deficits, and then spend long hours filling those into an excel spreadsheet that had to be uploaded over satellite phone only to become a bottleneck for getting resources where they needed to go.
 
-
-
 ## Making Something Good
 
 Chris and Matt had started playing with an idea around networking for a month months, and came together for a disaster relief hackathon for Typhoon Haiyan in the Philippines. They used this as the opportunity to build a small team with co-founders Nick and Emily around the project idea, and the nascent form of LDLN came into the world.
@@ -23,8 +21,6 @@ Chris and Matt had started playing with an idea around networking for a month mo
 LDLN is an open source software and pseudo-mesh networking framework for ad-hoc networking between consumer devices in austere situations. If there’s no internet or cell service, LDLN and its suite of tools provide high quality data collection and synchronization across devices via low-cost base stations. These base stations are often Raspberry Pis: small sub-$25 computers that can run sophisticated server and networking software, as well as host databases and similar. If this base station is connected to a broader internet via satellite or hard wired connection, then it can be synchronized further up the chain.
 
 First responders and logistics teams engage with the software by configuring the systems to the needs of that responds scenarios: gathering appropriate mapping and tabular data. Individual responders run the software on their devices to collect data offline, and when they come within range of a base station, this data is automatically synchronized with the other responders findings and work.
-
-
 
 ## Making Something Last
 
@@ -40,36 +36,24 @@ While professing that Bootstrapping has provided them incredible freedom as an o
 
 Unfortunately, this economic uncertainty around a high-value tool caused some attrition in the team. Some members had to take on full time roles and reduce their involvement in the tool itself, or other financial stressors (in some cases positive, such as two of the team members getting married) affected the product’s develop. But Matt and Chris have both continued building the tool, and with that continued bootstrapping, they have managed to connect with some important communities, including a FEMA-funded Field Innovation Lab, Geeks Without Borders, and NextDayBetter.
 
-
-
 ## Lessons for the Bootstrapping Social Entrepreneur
 
 Here are three things that all social entrepreneurs should take from LDLN’s example as they set out on their own enterprises.
-
-
 
 ## 1) Every enterprise is a balance of forces that influence the product vision
 
 The LDLN team recognized this from day one, and made a series of thoughtful decisions that managed their growth and scope to protect that the vision they held for the product and its sphere of influence. While this decision limited options and growth from a business lens, it led to a coherent and valuable product for users and those the LDLN team hoped to positively impact.
 
-
-
 ## 2) Sometimes a side-gig is sufficient or even preferable
 
 Sometimes, a product does not need to have a full-time team around. When a team decides to go full-time on product development, the product must somehow support that time. That is often where venture capital or grant funding comes into play as a product grows to encompass the needs of the team around it. By bootstrapping their product, the LDLN team allowed the product to grow according to the demand and need for the product in the market, as opposed to forcing the product to grow to meet the growth needs of the business.
-
-
 
 ## 3) Bootstrapping unlocks the right time, place, and partners
 
 LDLN is a tool that is used and tested in situations of austerity and often profound distress. And one of the challenges of disaster resilience is that preparation is necessary both in the tool and in the community around the tool. By bootstrapping and encouraging resilience in their own practice, LDLN built a tool that can be deployed anywhere, can be deployed quickly, and importantly has the right network of partners in the form of local agencies, open source contributors, and former project members to jump into action when it’s needed.
 
-
-
 ## Slow Burn Social Innovation
 
 In the disaster resiliency space, sometimes the right tool is the one that is around when you needed it, but spends most of its time on the shelf. I’ve kept in touch with Chris since the interview, and learned about some of the work that he did building [technical infrastructure in relief work in Rockport, Texas](https://medium.com/@cguess/spreading-the-word-9dcfe92c958b). LDLN is a standing example of the “slow burn” social innovation tool. Perhaps there isn’t a business model now, and perhaps its time isn’t even now. But the work is worth doing and worth pushing until such time as it can be applied in service to others, and in times like that, dedication to the mission and a thoughtful application of a bootstrapping model comes into its own.
-
-
 
 _Originally published on [**Medium**](https://medium.com/@andrewlb/bootstrapping-infrastructure-in-the-public-interest-8b74b00f953)._

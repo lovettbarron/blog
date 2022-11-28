@@ -4,15 +4,13 @@ title: "Diverge Weekly Issue #13: The Endemic Issue"
 date: "2020-06-03"
 slug: "diverge-weekly issue #13: the endemic issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg"
+image: "/assets/9125fbedcf48692f3a275d4d8b907a33868b1a37-976x549.jpg"
 description: ""
 ---
 
 As the exogenous force of coronavirus has pummeled the globe, America has had its own endemic disease roar to the surface.
 
 On February 23rd, Ahmaud Arbery was chased down while he was on a jog by vigilantes in Georgia and murdered in a [terrifyingly modern lynching](https://www.vox.com/21263899/ahmaud-arbery-lynched-video-mcmichael-glynn-county-georgia). Because they are white, because Ahmaud was black, and because Georgia remains a bastion of white supremacy in the United States, Ahmaud’s murderers were initially released and uncharged. It was only after the video became public that any form of criminal proceedings started [74 days after his murder](https://www.washingtonpost.com/national/outraged-by-the-delayed-arrests-in-killing-of-black-jogger-protesters-in-georgia-demand-justice/2020/05/08/8e7d212a-90a9-11ea-9e23-6914ee410a5f_story.html), on May 7th.
-
-
 
 ![](/assets/4dbabf3793d4aa40bdbd763f40ca24ec65f596e6-1180x786.jpg)
 
@@ -26,7 +24,6 @@ In the week since George Floyd was murdered, protests have started and escalated
 
 ![](/assets/143a841e7abb9e2300ae65f4e5c5a12181df876a-1180x786.jpg)
 
-  
 I write a lot about systems in this newsletter, and how systems come to be influenced, leveraged, and undermined. I believe that the real intersection between design, politics, and international relations is around this capacity to not DESIGN systems (which is hubristic and insane), but rather influence and navigate systems (which we can do both intuitively and intentionally). [Trevor Noah articulated the flashpoint of the past month brilliantly](https://www.youtube.com/watch?v=v4amCfVbA_c), starting with Amy Cooper. [“You have this woman who blatantly knew how to use the power of her whiteness to threaten the life of another man and his blackness.”](https://youtu.be/v4amCfVbA_c?t=214).
 
 Amy Cooper was intuitively leveraging a system of power that is endemic to the United States. Because of the circumstance of her birth, her geography, her genetics, and the history of the country she inhabited; she occupied a space where she could exercise power. Given her acculturation and lack of critical engagement, she understood how she could use that privilege to get what she wanted.
@@ -37,15 +34,11 @@ This is the reality of American society that many have tried — in different wa
 
 Currently, in America, people are on the streets questioning the very foundation of that system and whether it is actually worth saving. The far-left wing of the Democratic Party is asking the same thing — is it time to completely remake the system? Overwhelmingly the protests have been peaceful (which is the ideal and [according to scholars like Erica Chenoweth, ultimately a hell of a lot more successful](https://amzn.to/2Xrixdq)), but I think it’s also important to acknowledge the legitimacy, the rage, the fear, and the trauma that spurs more violent forms of protest and property damage. [The razing of a police station](https://www.politico.com/news/2020/05/29/minneapolis-police-protest-george-floyd-288361) after the police murdered an innocent man can be argued as proportional — property can be rebuilt as funded by taxpayers, but a life stolen is lost forever.
 
-
-
 ![](/assets/906df5a0131754ac5d89d247358d9e6c66271235-1180x1770.jpg)
 
 Systems of power and oppression are often parasitic to something more fundamental: powerful actors within those dominating systems irrevocably wrap themselves in the flag, for example. They will insist that to question it is to question other values, peoples, and histories. But it’s more complicated than that. America should be proud of its role in crushing fascism and the Nazis in World War II, while also being [ashamed that black American soldiers were lynched for walking with pride upon returning home from the war.](https://www.newyorker.com/news/news-desk/the-tragic-forgotten-history-of-black-military-veterans) Systemic ideals like checks and balances between the governing houses and the rule of law can be lauded for their intention, even if the result included the perpetuation of Jim Crow laws in the South for most of the 20th century, and a de facto or [new Jim Crow](https://amzn.to/2XvMDN0) system through mass incarceration of black Americans.
 
 Anyway. Something has to change. America as a concept and as a country will not collapse [if state and local police are held to a higher account](https://www.lawfareblog.com/lawfare-podcast-rashawn-ray-police-violence). It is not unpatriotic to do everything in your power to destroy the [gerrymandered voting system that perpetuates white supremacy in elected offices and violence against black Americans in their policies](https://www.propublica.org/article/partisan-gerrymandering-is-still-about-race). And it is absolutely reasonable to insist that black lives matter more than the property, prosperity, and power built through the centuries-long perpetuation and continuous reinvention of a racist caste system.
-
-
 
 ## Security Blanket
 

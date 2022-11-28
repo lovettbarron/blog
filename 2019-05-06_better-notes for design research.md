@@ -4,7 +4,7 @@ title: "Better Notes for Design Research"
 date: "2019-05-06"
 slug: "better-notes for design research"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg"
+image: "/assets/e7967e856b9ecd6271893a216bb06d63663b682e-1400x933.jpg"
 description: ""
 ---
 
@@ -22,19 +22,13 @@ The note taker should step back and almost be in the background. A good note tak
 
 You rarely want more than these two people per session, by the way.
 
-
-
 ## **2) Always record the session (if the participant consents)**
 
 When setting up a consent forms, I always ask if we can record audio for transcription (i.e. internal) purposes. Why?
 
 First, it helps you fill gaps. Sometimes information will be coming at you faster than you can record, and knowing that you have that fallback will help you relax and absorb the information without worrying about missing it. This is vital for asking the right follow up question.
 
-
-
 ![](/assets/9b564a77e41aab8cb02046b67b11aaa737a6b1c5-1000x707.jpg)
-
-
 
 Second, it helps you validate what you’ve heard. Sometimes, a participant will say something and indicate something different by lieu of their voice or body language. This isn’t always captured in the moment, and so returning to gut check that you heard what you heard is always a good thing, and can be grounds for reaching back out to the participant to make sure they meant what you think they meant.
 
@@ -57,8 +51,6 @@ Of course, when it comes to research, there’s some important administration. B
 Collecting the right consent from participants, scheduling, and organizing the media afterwards in a GDPR compliant and responsible way becomes easy. Plus, participants know you value their privacy because they get their own receipt of the consent form with the ability to reach out afterwards.
 
 [Give Knowsi a try with a 1 week trial today](https://www.knowsi.com/join), and [sign up for the mailing list](https://www.knowsi.com/?mail=tth) for a discount code and more articles like this every few weeks.
-
-
 
 ![](/assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 

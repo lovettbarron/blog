@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #12: The Constrained Issue"
 date: "2020-05-26"
 slug: "diverge-weekly issue #12: the constrained issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg"
+image: "/assets/b057c97c0533707b8e6ca72f3e74eb237331803f-954x632.jpg"
 description: ""
 ---
 
@@ -24,15 +24,11 @@ There are also those structural constraints that simply close options to individ
 
 A favourite was the essay by Amira Al-Sharif, a Saudi photo journalist who grew up in Yemen. One of her stories recounts being stopped and detained because she wasn’t traveling with male relatives — and was forced to sign a statement acknowledging that doing so was considered “shameful” in the eyes of the state, or at least the eyes of that agent of the state. Because of her interwoven identities — as a someone who grew up in Yemen, as a woman, as a reporter, and as someone against whom an armed authority figure projected a paternalistic power structure — the scope of what and where she can report, and ultimately who she is able to be, becomes inexorably constrained. And yet, reading her essay and her included photography, these constraints have also given her a lens and sensitivity that empowers her to tell stories and capture photos no one else could.
 
-
-
 ![](/assets/d033f355c8dc7a73aa2637d5abcf1555fbe8d105-2048x1366.jpg)
 
 Amira and her fellow authors in Our Women on the Ground expressed and created as fervently as they could — each encountering different and overlapping constraints in their individual countries, cultures, and communities. Lina Attalah, founder of [Mada Masr](https://madamasr.com/en), writes of her evolving relationship with her father, relative to her identity as a feminist, an activist, a journalist, and an entrepreneur in Egypt. That consideration helped her find a point of connection as well: wondering how the constrained expectations the state had imposed on her father trickled down to her experience with him and the construction of her own identity.
 
 All of this to say that some strange, terrible, and wonderful things can emerge from constraints. People become who they become; designs resolve with the needs, resources, and context at hand; and sometimes a particular geopolitical strategic context begets some chart-topping power ballads. Thinking about the constraints from which something or someone emerges IS ultimately the story.
-
-
 
 ## Security Blanket
 

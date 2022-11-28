@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #4: The Cycles Issue"
 date: "2020-03-31"
 slug: "diverge-weekly issue #4: the cycles issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg"
+image: "/assets/a13f0d99146acae1cf1f68ccc20a3a76041bbc18-468x304.jpg"
 description: ""
 ---
 
@@ -30,8 +30,7 @@ Take an alternative, far larger, and far more tragic example: the US failure to 
 
 The issue of oversight, in this case, is **a failure to receive feedback from one's market**. If the goal of US aid in Afghanistan is to replicate the modality of reconstruction that Europe saw following World War II through the Marshall Plan, then the necessity of feedback is all the greater. As mentioned in the [quote section of last week’s newsletter](https://divergeweekly.com/issue/3/), free market economies thrive on the dissemination and aggregation of information in common pools. The stock market, for example, is believed to be an invaluable aggregator of sentiment and mood within an economy. By the same token, the synthesis of a dozen users interviewed is believed to be a vital aggregation of your customer’s needs and intent. Across the myriad ways that the US aid program in Afghanistan differed from the Marshall plan, those feedback mechanisms are primary. Without effective feedback, how could the US government and its many agencies possibly get to a model of development that reflected the real needs of the Afghan people? And perhaps more fundamentally, is it even possible for an occupying power to provide for those needs given the gap in the occupying power’s value system and the definition of value held by those occupied?
 
-**Design is a cyclical and continuous action. We constantly reflect back our observations and actions in the world, and incrementally re-orient our world views over time.** Perhaps my favourite articulation of this is John Boyd’s diagram of the OODA loop, but instead of the microsecond articulation of that loop that Boyd envisioned in aerial combat, I imagine it as spread across the entirety of one's life as a designer.  
-
+**Design is a cyclical and continuous action. We constantly reflect back our observations and actions in the world, and incrementally re-orient our world views over time.** Perhaps my favourite articulation of this is John Boyd’s diagram of the OODA loop, but instead of the microsecond articulation of that loop that Boyd envisioned in aerial combat, I imagine it as spread across the entirety of one's life as a designer.
 
 ![](/assets/10ec01ef440f42c2e43b2457ca7aab37405dcaf4-1180x482.png)
 
@@ -42,8 +41,6 @@ I believe that **the frontier of contemporary design is to find the tools to bre
 To that end, looking at the sudden shift in value that we’re seeing in the wake of Covid-19, I wonder if perhaps now is the time to question everything. I don’t know that the business model canvas will save us, if only because it presupposes a particular flow of production and value. I don’t really believe that offering “free consulting hours” will help us, especially if consulting around a paradigm that left us this fragile. I think we need to change and look outside of what we thought worked, and I know that won’t be easy.
 
 But right now, trapped as we are between a brittle past and an uncertain future (probably in our homes, possibly with loud neighbours), what better time to turn the cyclical motion of design in on ourselves, and perhaps shake free of the grooves we’ve found ourselves in?
-
-
 
 ## Security Blanket
 

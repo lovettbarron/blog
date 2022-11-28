@@ -4,13 +4,12 @@ title: "Bureaucratic Mysteries"
 date: "2018-02-01"
 slug: "bureaucratic-mysteries"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg"
+image: "/assets/29b3cf93e5159feb6cff64a3c8b87df051d5596f-1400x1050.jpg"
 description: ""
 ---
 
-_These tools were taught as a workshop to the first_ [_Code for Canada fellowship_](https://codefor.ca/) _team in November 2017. Article originally published in [**Medium**](https://medium.com/knowsi/bureaucratic-mysteries-design-tools-for-government-9842decdf9fa)_**_._**
+*These tools were taught as a workshop to the first* [_Code for Canada fellowship_](https://codefor.ca/) *team in November 2017. Article originally published in [**Medium**](https://medium.com/knowsi/bureaucratic-mysteries-design-tools-for-government-9842decdf9fa)***_._**
 
-  
 Building the actual product or technology is rarely the coda on the work that is social entrepreneurship and government software. More frequently, we see much of the labour existing in collaboration with our government and civil society partners: in building consensus, forming coalitions, cutting through roadblocks, and mapping the bureaucracy.
 
 In my time at the US Digital Service, IDEO, and more recently New America, there are a set of tools I often apply in working through this complexity and communicating that complexity with my team. And a significant part of this technique I believe comes from some mental muscles I developed in college studying classical literature. In Homer’s Iliad and Odyssey, the characters create a densely interconnected — but logical– community of influence. Zeus sits as king: impertinent, meddling, and cruel. Hera is at his side, manipulative, jealous, but loyal. Athena is the goddess of wisdom and all things military: untouchable, disciplined, and wise. Hercules is the human face of divinity: brash, contradictory, and flawed.
@@ -35,26 +34,26 @@ Here’s a quick checklist of things to know BEFORE and DURING your use of these
 
 **PRE-REQ**
 
-* Get introductions
-* Know the ranks (eg. in US, GS scale and mil ranks)
-* Know the acronyms (USTRANSCOM, FYSA, USCENTCOM, etc)
-* Know the key players (commanders, public figures, major past projects)
+- Get introductions
+- Know the ranks (eg. in US, GS scale and mil ranks)
+- Know the acronyms (USTRANSCOM, FYSA, USCENTCOM, etc)
+- Know the key players (commanders, public figures, major past projects)
 
 **Environmental Scan**
 
-* Go to whatever agency you’re in
-* Get to know the stakeholders
-* Find the highest level buy-in person you can: in DOD that was a combatant command general or a secretary
-* Go to the place where the work happens
-* Stay there for a while and just wander around talking to people and knocking on doors
+- Go to whatever agency you’re in
+- Get to know the stakeholders
+- Find the highest level buy-in person you can: in DOD that was a combatant command general or a secretary
+- Go to the place where the work happens
+- Stay there for a while and just wander around talking to people and knocking on doors
 
 **Situational Awareness**
 
-* Map out the territory
-* Who is everyone? Be specific. Write down names, job titles, what they do, who they report to, where they sit.
-* Get security card access. ALWAYS.
-* Get to know the security people.
-* Get to know the people who do the work (low levels)
+- Map out the territory
+- Who is everyone? Be specific. Write down names, job titles, what they do, who they report to, where they sit.
+- Get security card access. ALWAYS.
+- Get to know the security people.
+- Get to know the people who do the work (low levels)
 
 So once some of all of these are in place, now what?
 
@@ -70,13 +69,13 @@ Understanding the archetypes within the system allow us to break down the indivi
 
 Working in government, the space I found most effective was in mapping out connections and “jobs.” Similar to a “jobs to be done” framework in product management, individuals in a bureaucratic organization tend to have _very_ specific jobs and responsibilities. These responsibilities are then mapped across the hierarchy, and sometimes accomplished by delegation and management.
 
-### 
+###
 
 ### Why?
 
 Articulating the archetypes you’ll encounter in your research gives you the basic knowledge to navigate a bureaucracy which often is self-replicating. It also forces you to narrow down the set of actors and look for commonalities across departments. Fundamentally, this is the building block of a number of clustering activities.
 
-### 
+###
 
 ### How To
 
@@ -93,8 +92,6 @@ When you are finished, you will have duplicate roles. This is fine, and you can 
 ### Worksheet
 
 ![](/assets/25e17653ae2de059aad833286500dcbfad0f3fb6-792x612.jpg)
-
-
 
 ### Example Scenario
 
@@ -130,7 +127,7 @@ The path is important because it tells us where one smaller story starts, where 
 
 ![](/assets/af56e6efbdeee7215c5ef80954ce6ef2259b3f21-1400x1049.jpg)
 
-## 
+##
 
 ## Mapping the Actors (Figuring out your wedge)
 
@@ -154,13 +151,14 @@ Looking at the two axes on the graph, plot where they might be. This particular 
 
 ![](/assets/0c87bcf4402d18a9bc054b5f73f5fb84db3f6a5a-792x612.jpg)
 
-### 
+###
 
 ### Example Scenario
 
 ![](/assets/b5c91ceb3fbcbaf32b1ddc43008aed9eeafa4924-1400x1050.jpg)
 
-##   
+##
+
 The Mysteries (Mapping the dark matter)
 
 There’s the HIERARCHY of a bureaucracies and the SUBSTRUCTURE of the bureaucracy. The hierarchy exists above the surface and is often already mapped (or at least overt). The substructure exists below the surface and is non-obvious, but becomes intuitive to those who exist in that bureaucracy for long enough.
@@ -197,17 +195,15 @@ You’ve used these tools to try and get an understanding of this landscape. So 
 
 Here’s a quick checklist that can get you going on asking the questions to have impact.
 
-* Use these tools to sketch out current AND ideal states
-* Bring sketches along so you can show people in future interviews (“is this right? does this make sense?”)
-* Who do you want closer to the project? Who do you want pushes out?
-* Use your understanding of the Mysteries and Dark Matter to figure out who you need to win over and convince to push the problematic people out
-* Who do you need to get in a room in order to collaborate?
-* Who do you need to kick out of the room because they force themselves in?
+- Use these tools to sketch out current AND ideal states
+- Bring sketches along so you can show people in future interviews (“is this right? does this make sense?”)
+- Who do you want closer to the project? Who do you want pushes out?
+- Use your understanding of the Mysteries and Dark Matter to figure out who you need to win over and convince to push the problematic people out
+- Who do you need to get in a room in order to collaborate?
+- Who do you need to kick out of the room because they force themselves in?
 
 This enhanced knowledge will help you understand where your technology and where your skills as a social entrepreneur will have the greatest impact, and by bringing those who you’re hoping to work with along for the ride, hopefully you’ll have made some great allies along the way.
 
 If you have any questions, contact me at [alb@andrewlb.com](mailto:alb@andrewlb.com) and we can chat about how this approach might work for your specific challenge.
 
-
-
-_Originally published at_ [_pit.andrewlb.com_](https://pit.andrewlb.com/design-thinking-for-gov) _on February 1, 2018._
+*Originally published at* [_pit.andrewlb.com_](https://pit.andrewlb.com/design-thinking-for-gov) *on February 1, 2018.*

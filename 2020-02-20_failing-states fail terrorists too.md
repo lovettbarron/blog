@@ -4,7 +4,7 @@ title: "Failing States Fail Terrorists Too"
 date: "2020-02-20"
 slug: "failing-states fail terrorists too"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg"
+image: "/assets/9ce46e8b40b7bcae2eb1de52566b76254faff616-937x528.jpg"
 description: ""
 ---
 
@@ -24,8 +24,6 @@ In other words, the definition of terrorism in this analysis is necessarily one 
 
 ## Defining Failing States
 
-
-
 ![](/assets/e5bca9e6dcb5136ddc9f7fde703e4eab3b8f0a7d-900x600.jpg)
 
 Forces patrolling in a poppy field. Credit: [Kaily Brown/U.S. Army](https://www.stripes.com/news/un-report-afghan-opium-survey-reports-record-high-growth-in-2013-1.252436)
@@ -43,8 +41,6 @@ The second insight within the CIDA definition is that the “human security” p
 If failing states are measured along a continuum of adherence to the economic and physical security of the individual which itself is a measure of adherence to values espoused by a frame constructed by the institutions of a western liberal order (McCormack, 2011, pp. 243–244), then ultimately, the label of failing states is a normative construct describing state-based relationships and policy along the sliding scale of a western liberal value structure.
 
 ## Terrorism and Failing States
-
-
 
 ![](/assets/3f4e9cb2c2f7cd31a262074383e58afd5c577822-1000x670.jpg)
 
@@ -72,13 +68,9 @@ This shift away from the state-level of analysis points to effective ways in whi
 
 ## Conclusion
 
-
-
 ![](/assets/05d62c145ee32abee1ad9b2dd95744d54d46f359-1029x684.jpg)
 
 Bundy Ranch StandoffThe Bundy Ranch standoff and the question of domestic terrorism? Credit: Unknown.
-
-
 
 Terrorism does not emerge from failing states any more than it emerges from stable ones (Newman, 2007). Rather, terrorism emerges from terrorist organizations, which in turn emerge and are situated where diverse populations come into conflict (Piazza, 2006, p. 170). Similarly, failing states do not emerge from terrorism, though as we have seen in the case of Somalia (Menkhaus, 2007; Verhoeven, 2009) and Afghanistan (Hehir, 2007; Simons and Tucker, 2007; Shapiro, 2013), situated terrorism can serve to rationalize the failing state label when applied by powerful state and institutional actors like the United States (Bøås and Jennings, 2005, p. 387).
 

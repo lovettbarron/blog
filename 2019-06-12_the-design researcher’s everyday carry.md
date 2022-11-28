@@ -4,7 +4,7 @@ title: "The Design Researcher’s Everyday Carry"
 date: "2019-06-12"
 slug: "the-design researcher’s everyday carry"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg"
+image: "/assets/6fcd4c676a4c7094dabd6cc5c2c34985d3b714bf-2000x1128.jpg"
 description: ""
 ---
 
@@ -34,19 +34,11 @@ For user tests, having a GoPro on a clamp mount is often a great approach with i
 
 I used to have a single notebook for everything, but more recently I’ve been creating dedicated notebooks for projects. For larger projects (like Knowsi), I’ve been using a hard cover A5 Leuchtturm 1917 with a dot grid for everything from sketching design elements and flows, to capturing interview notes, and exploring business models.
 
-
-
-
-
 ![](/assets/eda7933f16004d2a64c6fafbce2cedb0d7e31309-1000x750.jpg)
-
-
 
 For a recent consulting project, I used a 40 page A5 Moleskine that I was able to fill up with participant quotes, and then date and archive it afterwards.
 
 Multiple and specialized notebooks help you avoid some of the potential privacy pitfalls that you can encounter during the research process. Knowsi can wrangle the digital side for you, but having a good solution for the physical is also necessary.
-
-
 
 ### **Post-it Notes**
 
@@ -67,8 +59,6 @@ Depending on the purpose of the interview, having a good tool for sketching out 
 ### **Gathering Consent (i.e. use** **Knowsi)**
 
 Most importantly, always have a consent form with you. If you are using the research data for commercial purposes (like building an app), then you have to collect participant consent. This also goes for collecting media and similar activities. Not sure why? Check out [this article](https://medium.com/design-research-matters/general-data-protection-regulation-gdpr-and-user-research-e00a5b29338e).
-
-
 
 ![](/assets/615561e05a85f0362972f02a94b51cf1c90cd2c1-2048x1536.jpg)
 
@@ -116,5 +106,4 @@ Collecting the right consent from participants, scheduling, and organizing the m
 
 ![](/assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 
-  
 _This article was originally published on **[Medium](https://medium.com/knowsi/the-design-researchers-everyday-carry-799b4c44aaa7).**_

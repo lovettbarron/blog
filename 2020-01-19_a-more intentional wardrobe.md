@@ -4,7 +4,7 @@ title: "A More Intentional Wardrobe"
 date: "2020-01-19"
 slug: "a-more intentional wardrobe"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/428e54b341e263ac3d2ddf8448455e8410b2856b-1176x1424.png"
+image: "/assets/428e54b341e263ac3d2ddf8448455e8410b2856b-1176x1424.png"
 description: ""
 ---
 
@@ -18,21 +18,15 @@ Further, despite my attempts at the Marie Kondo approach (which definitely works
 
 The digital closet is a trope that I’ve seen quite a bit from the tangible interface/new media world, not to mention the genius that is [Clueless](https://youtu.be/XNDubWJU0aU). What if computers could help us look good with what we have (though software business models being what they are, our wardrobes would likely balloon), and make the inferences and connections between different pieces of clothing for us. No need for colour coordinating, fit experiments, or quotidian creativity.
 
-
-
 ![](/assets/fef95b056e742a031524b621d0b25195e2e89c45-500x281.gif)
 
 Elsewhere in my life, I’d been using different tools that “automated” the creative and planning side of personal fitness. Strava and TrainingPeaks both have scaling training plans that tie into your phone and your Garmin, effectually offloading the responsibility to plan and personalize. But I’ve come to believe this was creating an intellectual weakness in how I approached maintaining the body. When a training plan ended, or if I got knocked off it somehow by work, a cold, or travel, the return to that curated path felt unnatural. Despite the exhaustive metrics surrounding me, I didn’t know how I got there, so I didn’t know how (or why) to continue.
 
 More recently, I’ve been using plans from the MT Institute, which just come as a weekly list of “Do this.” There’s no tracking or technical sophistication: their app is basically just a text document with a password with a few links to youtube videoes for how to do certain exercises. It was infuriating at first. But because of that friction, it has forced a planning and engagement with my fitness that I haven’t had in years. Somewhat naturally by extension, I started to learn the how and why of getting somewhere and keeping going.
 
-
-
 ![](/assets/a8e47e8a7e87c759d6e30a46f260e2cc2f2a5f62-225x400.jpg)
 
 The MT Institute App
-
-
 
 This relates to my wardrobe because the fabric we wrap ourselves in serves to work a kind of daily muscle. In some ways, we are incredibly constrained. We have a limited wardrobe, filtered through biases and the influence of media and the social scenes that we came to age in, to address a specific set of needs around environmental (rain, temperature), cultural (formality and clique), and personal conditions (mood, aspiration, functional exigencies).
 
@@ -54,15 +48,15 @@ Ultimately, no system that I put together in an afternoon is going to replace a 
 
 **Creative**
 
-* To visualize or summarize how a set of things might look together without “going searching”
-* To surface clothes not being worn so as to wear more pieces more consistently in combinations I hadn’t tried before
-* To save the combinations I knew worked, and track the ones that don’t
+- To visualize or summarize how a set of things might look together without “going searching”
+- To surface clothes not being worn so as to wear more pieces more consistently in combinations I hadn’t tried before
+- To save the combinations I knew worked, and track the ones that don’t
 
 **Practical**
 
-* To be able to “schedule” what I was going to wear in advance (i.e. put things out for the next day as part of my other evening responsibilities)
-* To track frequency of wears across the different pieces of clothes
-* To track what I need to repair, tailor, or clean more effectively.
+- To be able to “schedule” what I was going to wear in advance (i.e. put things out for the next day as part of my other evening responsibilities)
+- To track frequency of wears across the different pieces of clothes
+- To track what I need to repair, tailor, or clean more effectively.
 
 Understanding Notion as I did, I believed that the relationships would loosely look like:
 
@@ -76,43 +70,27 @@ So I set out to implement it.
 
 **Clothing** Using Notion to realize the initial vision was simple. At its most basic, Notion’s data manifests as a table or text. I started by creating a list of as much as I could from memory (mostly jackets and sweaters), and then filling that into the spreadsheet. From there, I started to fill out the properties (i.e. columns) that made sense. Name, photo, tags, size, colour. Then more subjective things, like fit and potentially style: things that I could search by. This first part set up, I went full Mari Kondo on my closet, getting everything out and photographing the lot against a white(ish) background.
 
-
-
 ![](/assets/d621e88d8675917fb85a34a74328db2af7d4136a-2792x1800.png)
 
 Spreadsheet of Clothes
 
-
-
 This was the project of an afternoon, quietly accomplished during my son’s naps and an hour my wife was able to buy me. After I got everything in the database (all clothes, shoes, and bags anyway), I started to explore setting them up as separate views and creating the relational structure that would define the “outfit” idea.
-
-
 
 ![](/assets/755c01091bc05cc6609161263b2a484be961b414-2880x1800.png)
 
 Too Many Jackets
 
-
-
 **Outfit** The outfit is where things didn’t quite work as I wanted. Structurally, it’s relatively simple — just a matter of creating relationships to the different Clothing items. This ends up looking something like this, with a few variables that help with filtering and a photo for reference.
-
-
 
 ![](/assets/27498cadfe42178e7f8179f500d9b2b7058871d5-928x1366.png)
 
 Model of an Outfit
 
-
-
 Then, when browsing, I can view the individual outfits with a description and a focus on the jacket.
-
-
 
 ![](/assets/9cf386ffbd6b6974b36caf09b0dd66a98ff38b6b-704x590.png)
 
 Thumbnail of an Outfit
-
-
 
 In this case, I would frame this part as the “Productive Friction” component. Before I was just collecting data and constraints, now this is combining these pieces into a greater whole that (hopefully) works out.
 
@@ -120,39 +98,25 @@ Though this solution is “good enough” for now, I can’t wait for Notion to 
 
 The manual way to do this is to create a view for a table, and then filter according to relationships. Unfortunately, since those filters can’t be assigned to a variable, the whole thing has to be done manually (as far as I know). The ideal would be to pass in a series of properties to the view that could manipulate the filter, but here we are.
 
-
-
 ![](/assets/e854e76d3ec1ec518a6ee591ef7d84c9ea9517e1-2190x1402.png)
 
 A Single Outfit
 
-
-
 **Calendar** Finally, actually making a day-to-day decision is tied to seeing those combinations and those other external needs. In other words, the need for planning. Filtering by the relevant constraint is the key here, organizing by one axis and filtering by another. I can take a look at the options and what I need for the day and make decisions on the margins.
-
-
 
 ![](/assets/d76436e8d38eec95adbb2a4a890efe6a6a2313ea-1632x1664.png)
 
 Filter View
 
-
-
 Calendaring is usable but a bit inefficient. This is an example of the past few days to test out this whole idea. Unfortunately, Notion lacks integration with Google calendar, so the calendar view itself ends up being quite limited.
-
-
 
 ![](/assets/5cef8b0954bcb30674abf9cdd83957b9a7e2f8ea-2128x1040.png)
 
 What was useful (again, an API would be better) was filtering calendars by day, and then adding the view inline as shown below. This allows a trivial dashboard to be created, though again, it’s not particularly useful without a way to dig into the relations. The other frustrating piece is that these views seem to “reset” depending on other navigation you do within the database.
 
-
-
 ![](/assets/9e8caeba720c5c81c323c03b2dc8240872b7e343-2880x1642.png)
 
 Dashboard View
-
-
 
 **Conclusion** Notion is a pretty impressive tool. It’s a great way to create content and build up something data-driven pretty quickly. Ultimately, it got me a lot further than I expected, but if the [Notion public API wasn’t already a critical part of their roadmap](https://www.notion.so/Does-Notion-have-an-API-I-can-use-4541b07a5caa46dba0026624646118c0), I would probably be trying to figure out how to export all this work and build a small custom solution.
 

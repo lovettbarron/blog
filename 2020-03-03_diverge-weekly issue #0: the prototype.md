@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #0: The Prototype"
 date: "2020-03-03"
 slug: "diverge-weekly issue #0: the prototype"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg"
+image: "/assets/d6b313018184b0def5e222f8ab288d61cb7ddfcd-2364x2956.jpg"
 description: ""
 ---
 
@@ -19,8 +19,6 @@ In the United States, the democratic presidential primaries are in full swing, w
 [The ongoing battle for Idlib](https://www.aljazeera.com/topics/events/idlib-battle-syria.html) in Syria presents a less hopeful lens. Already a humanitarian disaster with countless refugees having fled to Idlib, the convergence of Russian-backed Pro-Assad forces and Turkish forces (both militia and actual military) has exacerbated their plight. From a design perspective, the ubiquitous UNHCR tent has been used [as cover by pro-Assad forces](https://twitter.com/TitusMichaeleus/status/1184867339331919872) to disguise their forces against the [onslaught of Turkish airstrikes](https://www.middleeastmonitor.com/20200301-turkey-destroys-scores-of-syrian-army-targets-incl-airport-air-defences-and-tanks/). The subversion of humanitarian objects for military maneuvers is nothing new, but given the humanitarian catastrophe using the symbols of the oppressed as cover is horrifying.
 
 This is the prototype newsletter, so please [let us know what you think](mailto:alb@andrewlb.com) and I’m looking forward to building something you enjoy reading every week!
-
-
 
 ## Security Blanket
 

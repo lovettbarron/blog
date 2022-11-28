@@ -4,17 +4,15 @@ title: "Professional Warning People"
 date: "2021-06-15"
 slug: "pro-warning-people"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png"
+image: "/assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png"
 description: ""
 ---
 
-There are professional Cassandras out there and their curse isn't coming from Apollo this time — but from the institutions they serve under. 
+There are professional Cassandras out there and their curse isn't coming from Apollo this time — but from the institutions they serve under.
 
 Warning intelligence is a function of the intelligence community that manifests in different ways, but at its best tends to come about as a small and senior team filled with experienced professionals with the ears of decision makers. The problem is, that while this structure emerges with some frequency (the CIA's National Intelligence Officer for Warning, or NIO/W is an example of this), these offices tend to pretty quickly get a reputation for crying wolf.
 
 9/11 tends to be the most widely known failure in warning intelligence that many think of — a coordinated strike on American domestic targets, both civilian and military, by a well established terrorist network, whose rhetoric and actions forwarding a religiously-framed war against the United States were known to the American IC. But actually, you could argue this wasn't a failure in warning intelligence — whose purview fits the six month to several year timeline according to one of its great practitioners and thinkers, Cynthia Grabo — but rather a failure in tactical intelligence and interagency coordination (which is one of the arguments put forward in the [9/11 commission report)](https://www.9-11commission.gov/report/911Report.pdf). Warning intelligence had actually done its job. In the chapter "The System was Blinking Red," the commission outlines how many of the warning functions were operating well — sharing indications that major attacks were in the works — but the different security functions of state were not. In many ways, Cassandra was being ignored.
-
-
 
 ![](/assets/6e4ca21ef97fa44cdd5ecda5d3626fe9f8ca8525-667x673.png)
 
@@ -25,8 +23,6 @@ Warning intelligence is one such analytical organ within the outsourced and inst
 During his presidency, Bill Clinton didn't have a great relationship with the security establishment. This was during a period when the somewhat bloated American military was being reduced following the close of the Cold War, and American engagement in overseas adventurism was manifesting in some weird ways. Amongst these was a loss of the "great enemy" of the Cold War, around which national security interests in America had swirled — which in turn shifted how the American public saw foreign wars. America's engagement in the UN mission in Somalia during the Somalian civil war, for example, was initially seen as a natural extension of American hegemony, but the Battle of Mogadishu (Black Hawk Down) in 1993 put a pretty stark end to that with the resulting death of 19 servicemen.
 
 These events led to a kind of souring on intelligence and foreign engagements by the Clinton administration, who felt like they were being pulled into these engagements, less because America should be involved, but rather because it had the strongest capabilities — part of what drove the multilateralism that was dominant during his presidency. But this view also served to block out the warnings that the Clinton admin was receiving about other regional conflicts. Following the Battle of Mogadishu, Clinton was said to have an explicitly pessimistic view on further military engagements in Africa. He didn't want to know. But the point of warning intelligence is that things happen ANYWAY, irrespective of whether or not you want it to or not. So despite warning intelligence indicating that stockpiling and ethnic tension were occurring in Rwanda, the Clinton government [didn't do a thing](https://qz.com/384228/the-clinton-foundation-is-atoning-for-bills-failure-on-rwanda/) as a million Rwandans of Tutsi ethnicity were massacred by fellow Rwandans of the majority Hutu ethnic group.
-
-
 
 ![](/assets/92dab1148723517d9db36cbd335a95e08c582386-1534x979.png)
 

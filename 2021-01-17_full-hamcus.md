@@ -4,13 +4,11 @@ title: "Full Hamcus: Finding the Spark in Sci-fi Workwear"
 date: "2021-01-17"
 slug: "full-hamcus"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png"
+image: "/assets/ec05df44eacddcc6bdf0965d784a9fdaa774abee-1213x1068.png"
 description: ""
 ---
 
 This essay was originally published on the** [TCHWR blog](https://www.tchwr.com/2021/01/03/full-hamcus-finding-the-spark-in-scifi-workwear/).**
-
-
 
 [Hamcus](http://hamc.us/) is not a techwear brand in the traditional sense. Rather, it is a science fiction workwear clothing brand based out of Guangzhou, China that has embarked on a particular type of world creation. To wear my bias on my ([insanely constructed, multi-paneled, and enormous) sleeve](https://stupidfits.com/group/4/hamcus): I love Hamcus. As a consumer and follower of Hamcus, and as a designer myself, I feel as though I’m seeing the kindling of a fire that’s just starting to catch — at the threshold between spark and cultivation, with a million perils. So this is a short essay about hope.
 
@@ -18,9 +16,7 @@ N.K. Jemisin’s novel [_The Fifth Season_](https://bookshop.org/books/the-fifth
 
 ## World-building
 
-Designer Tuff Leung founded Hamcus in 2015, and as I’m writing this, at the end of 2020, its primary line PRMTVSM is built on a concept similar to Jemisin’s. The story is situated in the universe of Primus, and [Tuff and his team have been exploring their design work through a world-building system called the “Cosmo Character Style System”](https://drive.google.com/file/d/1dhPYh4jR4KxRinx00q_qDq2HTb1swYS3/view) which grants them two great benefits. It provides a system of constraints to design a faction around with its own rituals, symbolism, and back story. Further, it provides for the creation of a hero character for whom the flagship pieces are designed and around whom the story ticks forward. The recently released [DarkSeer ](https://hamc.us/collections/20_02_aw/products/om01220-1-bk)jumpsuit is an example of this.  
-  
-
+Designer Tuff Leung founded Hamcus in 2015, and as I’m writing this, at the end of 2020, its primary line PRMTVSM is built on a concept similar to Jemisin’s. The story is situated in the universe of Primus, and [Tuff and his team have been exploring their design work through a world-building system called the “Cosmo Character Style System”](https://drive.google.com/file/d/1dhPYh4jR4KxRinx00q_qDq2HTb1swYS3/view) which grants them two great benefits. It provides a system of constraints to design a faction around with its own rituals, symbolism, and back story. Further, it provides for the creation of a hero character for whom the flagship pieces are designed and around whom the story ticks forward. The recently released [DarkSeer ](https://hamc.us/collections/20_02_aw/products/om01220-1-bk)jumpsuit is an example of this.
 
 ![](/assets/5afecc912436fec15cab3d6ef77637381676d8c1-900x1200.jpg)
 
@@ -29,8 +25,6 @@ In _The Fifth Season_, Jemisin tells the story of a world where an environmental
 While less complex of a story, Hamcus takes a similar track. They look to the PRMTVSM universe and start to flush out what factions, characters, and lore might exist within it to create tensions and contrast.
 
 Examples include the nominally fascistic Prime Military Unit (PMU) with industrial takes on military uniform;
-
-
 
 ![](/assets/39711104fdec04cd08559b2b3deff6f9bf3b4391-910x806.jpg)
 
@@ -66,9 +60,6 @@ When designers talk about process, frequently it is in reference to a system tha
 
 I got introduced to Hamcus through the techwear fashion world (where we use progressive layers of DWR to protect ourselves from the drip), so the somewhat out-there stylings of the PRMTVSM line had an established beachhead with which to invade my closet. But I quickly realized that Hamcus isn’t really techwear — even though it gets conflated with that.
 
-  
-
-
 ![](/assets/447f2a9f78f66bafd4e1a0e1d4049b68a550a7c9-1869x1400.jpg)
 
 The Hamcus team leverages some technical features in their design work — extensive use of components like fidlocks, windbreaker fabrics and similar — but much of this feels like it is in the spirit of taking the basic Acronym ninja look, and dropping said ninja in the desert some 400 miles (years?) from the nearest city with the contents of their techwear fitpic, a cotton blanket, and a sewing kit. Hamcus looks like a climate catastrophe happened (it’s inevitable at this point) and 200 years later, the descendants of survivors emerged from the Acronym studio in the tattered remains of pieces once identified with Js and Ps — long since delaminated Gore-Tex and faded Stotz.
@@ -91,8 +82,6 @@ The other side of the coin is the frequent use of Hamcus gear in the most recent
 
 But Acronym is a 25-year-old brand at this point — and Hamcus is just getting started. Such movie and television placements, especially ones tied to a brand like Star Trek, situate Hamcus _more_ deeply in the realm of costume and cosplay. This can be great for small brands building an audience, but for those looking to expand their market, it can be limiting.
 
-
-
 ![](/assets/c6b7b60b8c5d6b2d6e68a309fe683a8fb52614b2-861x1107.jpg)
 
 As people like [Quantius](https://www.instagram.com/_quantius/), [Tyler Wood](https://www.instagram.com/tylrwood/), and hopefully [me on my better days](https://www.instagram.com/stupidfits/) demonstrate, Hamcus can fit in brilliantly with day-to-day fits. It’s different, it’s out there and it’s designed for a world other than our own, but it’s also a brand you can make your own. It’s well made, it’s creative like few others out there, and it’s actually wearable. But veer too far into the realm of cosplay, and the desirability for individual pieces — much less the “full Hamcus” — will likely diminish. That in turn would place a stressor on a business that is currently a vehicle for some really brilliant work.
@@ -101,6 +90,5 @@ So I’m going to continue to watch that spark. Maybe Hamcus will miss its mark,
 
 Regardless, I’ll be wearing Hamcus and looking for it to catch on. I’d encourage you to bring a bit of the Hamcus spark into your life too.
 
-  
 _  
 Head over to [TCHWR](https://www.tchwr.com/2021/01/03/full-hamcus-finding-the-spark-in-scifi-workwear/) for the original essay and more on high-tech, functional, utilitarian fashion._

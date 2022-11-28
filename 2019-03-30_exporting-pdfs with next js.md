@@ -4,7 +4,7 @@ title: "Exporting PDFs with Next JS"
 date: "2019-03-30"
 slug: "exporting-pdfs with next js"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png"
+image: "/assets/e068f4eb8367893e00bd18d0182fe1bcf128f320-2000x558.png"
 description: ""
 ---
 
@@ -21,77 +21,74 @@ I figured that given this server-side rendering, simply rendering that stream to
 I started by looking at [this post by Stanley Folk](https://medium.com/@stanleyfok/pdf-generation-with-react-componenets-using-next-js-at-server-side-ee9c2dea06a7) as a launching point, and tried this function he shared that uses html-pdf as the PDF rendering solution:
 
 > import { renderToStaticMarkup } from 'react-dom/server';  
-import pdf from 'html-pdf';
+> import pdf from 'html-pdf';
 
 > const componentToPDFBuffer = (component) => {
 
 > return new Promise((resolve, reject) => {  
-const html = renderToStaticMarkup(component);  
-const options = {  
-format: 'A4',  
-orientation: 'portrait',  
-border: '10mm',  
-footer: {  
-height: '10mm',  
-},  
-type: 'pdf',  
-timeout: 30000,  
-};const buffer = pdf.create(html, options).toBuffer((err, buffer) => {  
-if (err) {  
-return reject(err);  
-}  
-return resolve(buffer);  
-});  
-});  
-}
+> const html = renderToStaticMarkup(component);  
+> const options = {  
+> format: 'A4',  
+> orientation: 'portrait',  
+> border: '10mm',  
+> footer: {  
+> height: '10mm',  
+> },  
+> type: 'pdf',  
+> timeout: 30000,  
+> };const buffer = pdf.create(html, options).toBuffer((err, buffer) => {  
+> if (err) {  
+> return reject(err);  
+> }  
+> return resolve(buffer);  
+> });  
+> });  
+> }
 
 > export default {  
-componentToPDFBuffer  
-}
-
-
+> componentToPDFBuffer  
+> }
 
 I ran into a number of issues with his approach though.
 
-1) I wanted to create something application wide, vs. specific to a single page or component as described in his example.
+1. I wanted to create something application wide, vs. specific to a single page or component as described in his example.
 
-2) CSS styles wouldn’t render easily.
+2. CSS styles wouldn’t render easily.
 
-3) When I did eventually get them render (see below), it failed to render flexbox and grid layouts.
+3. When I did eventually get them render (see below), it failed to render flexbox and grid layouts.
 
 So something had to be done, but I had to slog through each party to figure out what.
 
 ## **Getting the HTML**
 
-When I tried to implement this in my _document.js component (which is the override for the default rendering wrapper in NextJS), it choked and wouldn’t return either the compiled document or really anything else. I could get the demo to work, but not in my application.
+When I tried to implement this in my \_document.js component (which is the override for the default rendering wrapper in NextJS), it choked and wouldn’t return either the compiled document or really anything else. I could get the demo to work, but not in my application.
 
 This ultimately ended up being a good thing, forcing me to dig into the meat of how Document, Head, Main, and NextScript actually work, which got me to my eventual solution.
 
-I settled on this approach for rendering out a PDF of the entire page by setting up the render in getInitialProps on the _document component:
-
-
+I settled on this approach for rendering out a PDF of the entire page by setting up the render in getInitialProps on the \_document component:
 
 > static async getInitialProps(ctx) {  
-const { req, res, query, renderPage } = ctx;  
-// Setup  
-const sheet = new ServerStyleSheet();  
-const page = !pdf  
-? renderPage(App => props => sheet.collectStyles(<App {…props} />))  
-: renderPage({  
-enhanceApp: App => props => sheet.collectStyles(<App {…props} />)  
-});  
-const styleTags = sheet.getStyleElement();  
-// Setup PDF  
-const pdf = query.pdf === “true”;  
-const server = !!req;  
-if (server && pdf) {  
-const initialProps = await Document.getInitialProps(ctx);  
-const css = sheet  
-.getStyleElement()  
-.map(e => e.props.dangerouslySetInnerHTML.__html)  
-.join();  
-const buffer = await pdfHelper  
-.componentToPDFBuffer(  
+> const { req, res, query, renderPage } = ctx;  
+> // Setup  
+> const sheet = new ServerStyleSheet();  
+> const page = !pdf  
+> ? renderPage(App => props => sheet.collectStyles(<App {…props} />))  
+> : renderPage({  
+> enhanceApp: App => props => sheet.collectStyles(<App {…props} />)  
+> });  
+> const styleTags = sheet.getStyleElement();  
+> // Setup PDF  
+> const pdf = query.pdf === “true”;  
+> const server = !!req;  
+> if (server && pdf) {  
+> const initialProps = await Document.getInitialProps(ctx);  
+> const css = sheet  
+> .getStyleElement()  
+> .map(e => e.props.dangerouslySetInnerHTML.\_\_html)  
+> .join();  
+> const buffer = await pdfHelper  
+> .componentToPDFBuffer(
+
 <html  
 lang=“en”  
 dangerouslySetInnerHTML={{  
@@ -158,19 +155,19 @@ componentToPDFBuffer
 
 Let’s quickly walk through what’s going on here.
 
-1) We receive the raw html from _document.
+1. We receive the raw html from \_document.
 
-2) We spin up an instance of puppeteer, with the arguments of no-sandbox passed. (This is not great, see below)
+2. We spin up an instance of puppeteer, with the arguments of no-sandbox passed. (This is not great, see below)
 
-3) Set up a new page with newPage() and navigate to your root with goto(). This is necessary for any relative links (like images) to get fetches.
+3. Set up a new page with newPage() and navigate to your root with goto(). This is necessary for any relative links (like images) to get fetches.
 
-4) Pass the content to the page to be rendered with setContent and make sure it WAITS for the images to be downloaded appropriately.
+4. Pass the content to the page to be rendered with setContent and make sure it WAITS for the images to be downloaded appropriately.
 
-5) Render the PDF
+5. Render the PDF
 
-6) Close the browser
+6. Close the browser
 
-7) Return the buffer to the requesting client.
+7. Return the buffer to the requesting client.
 
 Simple and quick.
 
@@ -178,14 +175,11 @@ One point on the no-sandbox side. This is the fix that comes recommended by most
 
 Because this is taking place 100% with owned content the buffer is being rendered and served by the node server itself), and I’m not rendering any external content, it seems like a viable option for my purposes, but I would strongly recommend not trying this if you’re going to use Puppeteer to render an external site, as with a link resolver or if you’re building a responsiveness checker, those kinds of things. [Here’s some more discussion that I’d suggest exploring.](https://stackoverflow.com/questions/50662388/running-headless-chrome-puppeteer-with-no-sandbox)
 
-## 
+##
 
 ## **Getting it Deployed**
 
 The next hurdle was getting this thing deployed on Heroku. When I went to deploy staging, it uploaded nice and fine and thennnnn rendered nothing. Shit. Turns out that the whole puppeteer library was missing.
-
-  
-
 
 ![](/assets/57fbdcaf19a9f193e84a748746868e56cbaa1198-1364x274.png)
 
@@ -195,24 +189,18 @@ An important thing here: **DO NOT USE** **heroku buildpacks:set** **(like I di
 
 Here’s what worked for me in my package.json:
 
->   
-"buildpacks": [  
-{  
-"url": "[https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz](https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz)"  
-},  
-{  
-"url": "[https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz](https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz)"  
-}  
-],
+> "buildpacks": [  
+> {  
+> "url": "[https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz](https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz)"  
+> },  
+> {  
+> "url": "[https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz](https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/nodejs.tgz)"  
+> }  
+> ],
 
 You can also easily set this up in the Heroku UI by navigating to your app → Settings file, going to build packs, and adding the above build packs manually (her latter is just heroku/nodejs)
 
-  
-
-
 ![](/assets/5e17397c981b1876771b4ffa704e060378f1724d-1400x512.png)
-
-
 
 This order ensures that the puppeteer library builds first, and then your app builds second. I suspect that a Procfile would work here as well, but I prefer to keep all my build info in package.json.
 

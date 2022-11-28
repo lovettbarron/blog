@@ -4,13 +4,11 @@ title: "Concept Grant 2020 winner: Knowsi"
 date: "2020-05-11"
 slug: "concept-grant 2020 winner: knowsi"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/8faa082c37e47702dd4eb260276ef6da3fc74dcb-4614x2789.png"
+image: "/assets/8faa082c37e47702dd4eb260276ef6da3fc74dcb-4614x2789.png"
 description: ""
 ---
 
 _This interview was originally published on May 11, 2020, by [**Sage Ocean**](https://ocean.sagepub.com/blog/tools-and-tech/concept-grant-winner-knowsi-interview)._
-
-
 
 SAGE has [announced](https://us.sagepub.com/en-us/nam/press/sage-publishing-awards-concept-grants-for-innovative-software-tools-for-social-research) the 2020 winners of its Concept Grant program, which provides funding for innovative software solutions that support social science research. This year, £15,000 was awarded to scale up one winning tool, [Knowsi](https://www.knowsi.com/), and five further grants of £2,000 were awarded to early-stage software ideas that support the use of computational methods in social research.
 
@@ -45,8 +43,6 @@ The researcher, meanwhile, gets a summary of their participants’ consent on th
 Today, consent in both the private sector and the world of research is still frequently done by paper or through ad-hoc tools like Google Forms or Airtable. Paper has its obvious downfalls especially when researching at scale, and while these tools have a place, they are insufficient for the task and the increasingly regulated domain of informed consent. Some tools exist for tracking consent in clinical studies, but they are cumbersome, expensive, and specific to the needs of clinical environments.
 
 _Knowsi is focused on providing the best consent experience for both researchers and participants,_ and has demonstrated this so far through early customers and beta testing in Denmark, the UK, and the US. **By framing consent gathering as a user experience problem, Knowsi is well-positioned to do what great administrative software does best: disappear into the background with the problem it was designed to solve.**
-
-
 
 ![](/assets/201146e27be2f285de852c37acc7de5fa2f2c547-1500x1000.png)
 

@@ -4,13 +4,13 @@ title: "Breathing In and Out, or Two Approaches to Design Research"
 date: "2021-06-09"
 slug: "breathing-in and out, or two approaches to design research"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg"
+image: "/assets/587373e8a08cee2558f7b4cc5219b0e79b4cefb6-1400x933.jpg"
 description: ""
 ---
 
 Like our bodies need oxygen, our businesses need a constant supply of knowledge and understanding to fuel our work. But accessing that knowledge isn’t always as intuitive as breathing.
 
-Understanding the_ why_ of your research is the difference between wasted time (and budget), and absorbing previously untapped knowledge and opportunity. You want to be in the latter camp: taking a deep breath to fuel your next move. To do that, you need to be able to articulate your research objective and have some sense of what it is you want to uncover.
+Understanding the* why* of your research is the difference between wasted time (and budget), and absorbing previously untapped knowledge and opportunity. You want to be in the latter camp: taking a deep breath to fuel your next move. To do that, you need to be able to articulate your research objective and have some sense of what it is you want to uncover.
 
 ## **But Why?**
 
@@ -22,19 +22,15 @@ Let’s take the example of a hypothetical TODO App, **“Nudge Nudge TODO Calcu
 
 Nudge Nudge has big growth opportunities:
 
-1) Seeing if its existing solution might have some crossover in a different market **(diverging, exploring)**
+1. Seeing if its existing solution might have some crossover in a different market **(diverging, exploring)**
 
-2) adding to its existing TODO application for small teams **(converging, validating)**
+2. adding to its existing TODO application for small teams **(converging, validating)**
 
 These are two very different research questions.
 
 ## **Diverge**
 
 If we’re stepping into the unknown, then we want to take a **GENERATIVE** research approach. For Nudge Nudge, if we were to ask “How do people structure their time at home?” we would be starting a broad exploration into areas that may or may not overlap with Nudge Nudge’s existing offering. And that is the point.
-
-
-
-
 
 ![](/assets/0208934790e4c3af50b5de001d08077dfddd2b5b-1000x667.jpg)
 
@@ -54,13 +50,7 @@ By tapping the abstract frame of “structured time” from the more specific fu
 
 But what if we think we know something but need to make sure? This is where **EVALUATIVE** research comes into play. An engineer at Nudge Nudge might have developed a proof of concept that automatically prioritizes and estimates tasks for design teams. The engineer is quite certain this belongs in the future of the product, but needs to convince his colleagues that this is the way forward.
 
-
-
-
-
 ![](/assets/20d7d1e881ccd5b29c7100a5a27534e1233cf2d8-4000x2671.jpg)
-
-
 
 Here, the research question becomes much more specific, but still broad enough for new knowledge to emerge. Instead of asking overly broad “How might we prioritize tasks?” type of questions, the prudent research-minded engineer instead asks **“How do you prioritize and estimate your design tasks today?”** Followed by “Can I show you an idea I had?” later on in the interview.
 
@@ -87,8 +77,6 @@ Of course, when it comes to research, there’s some important administration. B
 Collecting the right consent from participants, scheduling, and organizing the media afterwards, in a GDPR compliant and responsible way, becomes easy. Plus, participants know you value their privacy because they get their own receipt of the consent form with the ability to reach out afterwards.
 
 [Give Knowsi a try with a 1 week trial today](https://www.knowsi.com/join), and [sign up for our mailing list](https://www.knowsi.com/?mail=true) for a discount code and more articles like this every few weeks.
-
-
 
 ![](/assets/214e7ca97916f7c7673fc14b493a9a8e024746cb-1400x847.png)
 

@@ -4,15 +4,13 @@ title: "Diverge Weekly Issue #9: The Dependencies Issue"
 date: "2020-05-05"
 slug: "diverge-weekly issue #9: the dependencies issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg"
+image: "/assets/1bda5a1705f148e0bdd47b510a6b7cc251878486-1180x786.jpg"
 description: ""
 ---
 
 First, thank you and welcome to all the new subscribers, and to [Hillary Predko](http://hillarypredko.com/) for sharing Diverge in [The Prepared](https://theprepared.org/). This is a weird newsletter that aspires to be about design and global affairs — but I take some latitudes.
 
 The pattern of my day-to-day life is mostly contingent. It rests on the physical infrastructure that makes urban living possible. It is attuned to the temporal and interpersonal nature of knowledge work. It is capillary to the logistics of on-demand consumerism and [platform capitalism](https://amzn.to/3b5wjGt). And it sets tempo to the increasingly stressed network of labour that empowers my own specialization.
-
-
 
 ![](/assets/9aba682bedfafedee8345c053ef49a4bfb16c96c-1180x786.jpg)
 
@@ -34,7 +32,6 @@ When the coronavirus hit and things shut down, it was like that taped seam rippe
 
 ![](/assets/e644d6b6af96005145c48d1043e7fcdfaa3ca832-1180x786.jpg)
 
-  
 In many ways though, I like having these dependencies. I love what I do (whatever it is that I do), and am massively grateful for the repeated opportunities to do it (whatever that might be). Having someone to thank, to be connected with, and to follow the trail of their experiences as well — these are wonderful things. As is having someone else think about where I get my water 99.9% of the time. Human and physical infrastructure facilitates that opportunity. But the current global crisis — in its utterly tragic and freakishly muted way — is surfacing the stories of where those dependencies suddenly end. [When we played our catastrophe forecasting game](https://andrewlb.com/covid-anxiety/) last month, it also gave my wife and I the chance to game out how that disappearance of resources and infrastructure might transform our own lives.
 
 So. I’m not quite sure what to do with this anxiety. But the thing that came to mind was perhaps how to be comfortable in dependency but resilient to insecurity. Kind of like a prepper with good healthcare — building resilience where it makes sense to build resilience, and reinforcing dependencies where it makes to reinforce those dependencies.
@@ -48,8 +45,6 @@ Of course, all of the above is itself contingent. A meaningful relationship with
 A Gore-Tex jacket properly cared for will last you a long time. But getting that jacket in the first place —with the protection it affords and the opportunity to care for it— is a lucky and privileged thing. I do think about the weakness that the coronavirus exposed daily, but I also think about the strengths and imbalance that it surfaced. After all, a failing motor that sputters to a halt still takes you a bit further down the road through simple momentum. And so I think we’ll see that the catastrophic failure of a business will still facilitate opportunities and networks that can cushion its beneficiaries from absolute destitution. Hopefully too, a tragically undermined social safety net in the US will still provide citizens with a small economic buffer — [even if it comes with the mad king’s signature](https://www.nytimes.com/2020/04/14/us/politics/stimulus-check-trump-signature.html). If nothing else, this crisis has taught us that having access to and wearing the right protective gear saves lives.
 
 So I’ll continue to build dependencies even with their fragility: My life has been richer and stronger for it. But within that web, I’ll strive to [at least see those dependencies for what they are](https://amzn.to/2LaUKYd), to adjust those relationships as they evolve, and to build in the redundancies that support my community, my family, and my ability to be who I am.
-
-
 
 ## Security Blanket
 

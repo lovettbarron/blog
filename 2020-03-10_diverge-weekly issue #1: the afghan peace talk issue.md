@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #1: The Afghan Peace Talk Issue"
 date: "2020-03-10"
 slug: "diverge-weekly issue #1: the afghan peace talk issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png"
+image: "/assets/52afa4510617c1071602a7064154b5cc75591879-2000x1333.png"
 description: ""
 ---
 
@@ -19,8 +19,6 @@ Consider this in the context of the impressive design work emerging from Afghani
 Good design doesn’t always come from those trained in design practices, but rather can emerge where a human-centered disposition comes together with a systems-oriented mindset and an inclination to make something tangible. Design training and a tested process certainly facilitate and make repeatable that emergence, but as designers, we can take a lot of inspiration from instances like Anabah: where its planners and operators performed great service design in the absence of a service designer.
 
 That’s it for this week. As always, I’d encourage you to subscribe if you haven’t and [send me a note](mailto:alb@andrewlb.com) if you have questions or feedback!
-
-
 
 ## Security Blanket
 

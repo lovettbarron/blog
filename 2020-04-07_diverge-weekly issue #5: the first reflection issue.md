@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #5: The First Reflection Issue"
 date: "2020-04-07"
 slug: "diverge-weekly issue #5: the first reflection issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg"
+image: "/assets/40855ab722b0208689f840574132a0805a28ee39-975x800.jpg"
 description: ""
 ---
 
@@ -49,8 +49,6 @@ Finally, I mentioned the how-to guides and similar. I’m going to be interviewi
 Thank you again for subscribing to Diverge! I love writing this, and I’ve been incredibly grateful for those who have helped. In particular, [Ayla Newhouse](http://www.aylanewhousedesign.com/), [Scott Young](https://twitter.com/scottalyoung), [Zahra Ebrahim](https://twitter.com/zahraeb), [Kai Brach](https://www.brizk.com/) and [Michael Schwanzer](https://www.zeitdice.com/) to name a few.
 
 As always, please subscribe to and share Diverge Weekly if you haven’t, and [send me a note](mailto:alb@andrewlb.com) if you have questions or feedback!
-
-
 
 ## Security Blanket
 

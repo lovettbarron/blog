@@ -4,13 +4,13 @@ title: "Coordinating global cities research: Knowsi case study"
 date: "2020-09-29"
 slug: "coordinating-global cities research: knowsi case study"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg"
+image: "/assets/47c34dd2bb386086d4fa8488b12d0e8a89139364-750x500.jpg"
 description: ""
 ---
 
 _Originally published as a guest blog on [**Sage Ocean**](https://ocean.sagepub.com/blog/tools-and-tech/coordinating-global-cities-research-knowsi-case-study)._
 
-## 
+##
 
 ## **“We haven’t met yet. Do you trust me?”**
 
@@ -19,8 +19,6 @@ This is the dilemma that any researcher faces at the outset of their recruiting 
 But there’s a trust-building step which happens before that.
 
 The formality of research consent serves as a strong signal to your participants that their needs and information will be respected and protected. That signal, and the processes which underpin it, not only set the foundation for high quality interviews; it also serves to protect you and the participant through an agreement on process and procedure. With research travel constrained by budgets and now additionally by a global pandemic, we find ourselves building trust and rapport without the benefit of face-to-face contact. These formalities build strong foundations and stronger research.
-
-
 
 ![](/assets/e94f212909f8e1a7d64eeeec57a44d971ff469a5-940x627.png)
 
@@ -36,23 +34,15 @@ Since many of the participants were Chief Information Officers, Data Officers, D
 
 First, Knowsi provided a participant dashboard and accountability system for each of the research participants. It puts participants in control of their consent and their data and facilitated an automated GDPR deletion process.
 
-
-
 ![](/assets/63176c53376d27515906020246b30f510cf2fd51-940x705.png)
 
 Second, John was able to customize his consent forms to both the needs of Context Studio, for the research process, and those of OASC, his client By being descriptive and specific about what consent he needed from his participants, there weren’t any surprises and everyone was covered.
-
-
 
 ![](/assets/d1cfac04efebe30f82c2f123664bed45be52805d-617x456.png)
 
 Finally, as participants completed their consent forms, John was able to track where people were in the recruitment process in real team — getting updates directly to his dashboard as the consent forms were signed. This made it easy to keep track of interviews and make sure that he could send interview schedule reminders as he progressed.
 
-
-
 ![](/assets/440971def0d38651dccb300d618256c18c86724b-940x705.png)
-
-
 
 **“I think people were impressed. They thought it was a handy tool.”**
 

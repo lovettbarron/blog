@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #3: The Uncertainty Issue"
 date: "2020-03-24"
 slug: "diverge-weekly issue #3: the uncertainty issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg"
+image: "/assets/07a743a57e2917daef54c4fcd359f1b6ad43d939-1180x783.jpg"
 description: ""
 ---
 
@@ -27,8 +27,6 @@ The most worrisome trends are where no action is being taken at all or the threa
 The problem with these three actions is that they reflect an inflection point that is being considered by everyone: informed by their lived experience, their state of mind, societal pressures, and access to resources. My decision to self-isolate 10 days ago might have occurred at the same moment in time as someone’s decision that spring break was a great idea.
 
 But these decisions and actions have a vital influence on our future and the outcomes we march towards. Design futurist Stuart Candy is well known for his Cone of Possibility, a rendering of the present squeezing a series of potential futures through its aperture. The question is: when does the future catch up and which set of actions lead us to what is preferable?
-
-
 
 ![](/assets/d6002187139aebae1ee9dc809213a5e65e7916a2-1180x1062.png)
 

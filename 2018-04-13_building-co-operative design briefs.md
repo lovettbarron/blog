@@ -4,7 +4,7 @@ title: "Building Co-operative Design Briefs"
 date: "2018-04-13"
 slug: "building-co-operative design briefs"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg"
+image: "/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg"
 description: ""
 ---
 
@@ -12,11 +12,10 @@ In design teams, the “Brief” is often a shared understanding of the challeng
 
 But most briefs fail to provide design teams with an adequate structure for moving forward. They might articulate the need, but fail to identify the full breadth of stakeholders needed for a program’s success. Alternatively, they might see a glut of stakeholders whose articulation of the problem muddies the stated objectives: making quality work within the constraints of timeline and deliverables impossible. The design team is responsible for working with the client and between team members to develop an articulation of the problem that can:
 
-* Deliver on the promise of great work
-* Maintain a predictable but flexible course
-* Maintain team wellbeing and mental health
-* Help the client better articulate their goals  
-
+- Deliver on the promise of great work
+- Maintain a predictable but flexible course
+- Maintain team wellbeing and mental health
+- Help the client better articulate their goals
 
 ![](/assets/68d3e62d8b7280c492b876267065a9d755fbc2f4-1400x301.jpg)
 
@@ -44,8 +43,6 @@ The room should have whiteboards and ideally walls that can hold up postit notes
 
 ![](/assets/ca98be98715c403766d0eef1b917a00564770049-714x342.png)
 
-
-
 Budget at least 90min to work through everything, and try to have a loose timeline in place to get through everything that needs getting through. If you get everything but key stakeholders, for example, the brief will be incomplete.
 
 ## **1: Hard Constraints**
@@ -58,8 +55,7 @@ Surfacing these kinds of constraints early on helps limit the field of play, and
 
 Human activity starts from a place of beliefs about a problem or opportunity, and a need that drives an investment of time and capital. Surfacing these beliefs and assumptions becomes a vital activity to direct the early investigations within a project, and form the initial hypotheses to be surfaced. If the team becomes stuck at any point, revisiting these beliefs and needs can help identify important next steps.
 
-There’s a number of facilitation tools you can apply in this section. A solid go-to is the Ad-Lib approach:  
-
+There’s a number of facilitation tools you can apply in this section. A solid go-to is the Ad-Lib approach:
 
 ![](/assets/4243378559a428d45f97ae8f8a770d3997d4aefb-936x282.png)
 
@@ -67,14 +63,13 @@ Alternatively, a “spectrum” of Obvious to Far Out hypotheses can be a fun ac
 
 ![](/assets/38e706a21ede135dea5bccb149d6a2eaadd4532a-966x416.png)
 
-##   
+##
+
 **3: The Project Goal**
 
 Effectively articulating the project goal includes two things: clear directions to the design team in terms of constraints and hard requirements, and providing flexibility in forging a creative path forward. In the best case scenario, a well-articulated project goal empowers the design team to represent the program’s intent in every decision, even in advocating for risky or contentious directions to the client.
 
 Once again, an ad-lib approach when facilitating this section can be effective for focusing participants. Taking the example of **designing experiments**, I might put four buckets on the wall:
-
-
 
 ![](/assets/816f923f65580de7a8ff28c28aab42e22791bc58-1188x212.png)
 
@@ -85,8 +80,6 @@ After filling these buckets with content from the team and voting on them, you s
 ## **4: Stakeholders and Constraints again**
 
 Once you’ve decided on your Project Goal, it’s time to revisit your stakeholders and hard constraints. Often the extended stakeholder network for the first idea isn’t the same as the decided upon brief, or occupy different levels of importance to the activity. A good exercise is to do a simple radial stakeholder mapping activity like this:
-
-
 
 ![](/assets/ad8251dbc068c25c9a71407f3ba13686ebd7e9b6-792x612.png)
 
@@ -101,7 +94,5 @@ This whole process is meant to be iterative. Don’t hesitate to revisit differe
 The next step is to clarify and synthesize everything for the broader design time and stakeholder network. Sharing the outcomes of this workshop can take the form of a board, a deck, or a one-pager describing the project. It’s really up to how the client consumes and disseminates information. After the team gets started though, you’ll need to MAINTAIN this great starting point, which is what we describe in the next post.
 
 Thanks to [Ayla Newhouse](https://medium.com/u/d3670aea1173?source=post_page-----e7570400299c--------------------------------) for collaborating on this post!
-
-
 
 _This article was originally published in [**Medium**](https://medium.com/knowsi/building-co-operative-design-briefs-e7570400299c)._

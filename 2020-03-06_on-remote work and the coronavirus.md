@@ -4,15 +4,13 @@ title: "On Remote Work and the Coronavirus"
 date: "2020-03-06"
 slug: "on-remote work and the coronavirus"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg"
+image: "/assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg"
 description: ""
 ---
 
 With the coronavirus probably hitching a ride in one of your co-workers, it’s possible that your work (especially if you exist in that oh-so-nebulous world of knowledge work) is implementing a more permissive remote work policy.
 
 Many of you will think “I can’t do that.” Many of you might be right, since a lot of very real, outcome-driving work happens in the interstitial space between “actual work” and socializing. But I would suggest that there is a balance to be struck that will allow you to work remotely or mostly remotely, thereby reducing your risk of exposure (or at least [flattening the curve](https://www.vox.com/science-and-health/2020/3/6/21161234/coronavirus-covid-19-science-outbreak-ends-endemic-vaccine) so that local healthcare systems don’t get overwhelmed).
-
-
 
 ![](/assets/9e2f148cb1ca3cfcdc2ec65c1b7b1e1fa387ae37-600x356.jpg)
 
@@ -38,8 +36,6 @@ In this case, the communication is focused, high quality, but also flexible enou
 
 ## Take Your Damn Breaks and Put On Some Pants
 
-
-
 ![](/assets/34240773fa538c1c9af02a21ef9c320db5d62398-1080x608.jpg)
 
 Me casually on my way to the officeOnce you get used to working remotely and find your stride, it can be very, very easy to suddenly wake up on the other side of the day with a brilliantly demolished to-do list, but no clothes and a hole where lunch was supposed to be.
@@ -51,8 +47,6 @@ When colocated with other workers (i.e. in an office), there is rarely continuou
 Some folk use things like Pomodoro or “stand up” reminders to keep themselves on track. I occasionally use a countdown clock called a Time Timer if I need to do something that I desperately don’t want to do, but just needs to get done. It’s like a time prison. But mostly, I wouldn’t do that. Maybe set a reminder for yourself if you find you missed lunch once or twice. Make a point of getting up to get water, or treating yourself to lunch outside of the house. The point is to create rituals and habits, so that healthy breaks from your work are not only consistent but also so obvious as to be practically invisible.
 
 ## Be Aware of Dead Reckoning
-
-
 
 ![](/assets/619d1136cb7ae36ce3e7478d0281bb97212b4f0c-1180x488.png)
 
@@ -73,7 +67,5 @@ So I hope this helps. Don’t go too far down the productivity rabbit hole, but 
 Also, if you’re looking for more on design and global affairs (like Coronavirus), subscribe to my newsletter [Diverge Weekly](https://divergeweekly.com/), where we explore how design emerges around the world and how design impacts issues of health, security, trade, and climate.
 
 Also wash your goddamn hands.
-
-
 
 ![](/assets/cb0c693685826df5a996175ca092a0235dbd8620-500x231.gif)

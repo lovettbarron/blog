@@ -4,7 +4,7 @@ title: "Covid Anxiety: A Foresight Game"
 date: "2021-05-16"
 slug: "covid-anxiety"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg"
+image: "/assets/d139672de5ec5489edeac43601c98890b613159b-1420x946.jpg"
 description: ""
 ---
 
@@ -20,13 +20,9 @@ We realized that we needed a different tool to deal with this complexity, and so
 
 Our first task was to enumerate our anxieties. That was fun.
 
-
-
 ![](/assets/6572a232ac59347bbf3be5253919fce03de6e803-2048x1365.jpg)
 
 We started off just listing everything we could think of
-
-
 
 Sickness and death in our family (all on another continent), our son Emil getting sick, losing our job(s), overwhelmed public health systems, closed borders, and economic bailouts failing were the obvious near-term concerns. Greater extremes came quickly after: governments focusing on their citizens above foreigners (we’re foreign workers in Denmark), seized assets. Even broader: what of a European Union unable to fulfill its “union” mandate? What of existing fragility and its fallout, such as armed conflict between Turkey and Russia?
 
@@ -40,13 +36,9 @@ We want to build our resilience. We know (insomuch as one can) where we are righ
 
 Our next step was to simply cluster the anxieties where they seem to make sense. A few obvious ones emerged:
 
-
-
 ![](/assets/30b87b85e4267912061d5e400b1fdcab42753aec-3024x4032.jpg)
 
 Some very initial clustering
-
-
 
 ### Environment
 
@@ -66,15 +58,11 @@ Finally, we have a “Catastrophe” category, which is something that throws an
 
 ## Anxieties, Iterated
 
-
-
 ![](/assets/69f1711ead24889aa6c20fe083b60f5fd43e3971-3024x4032.jpg)
 
 This is the part where things started to come together. Ayla and I were trying to figure out how to actually approach the forecasting part. We landed on a grid that looked a bit like this:
 
 The initial canvas
-
-
 
 ![](/assets/aca63a7cf2e27d78aaf4b9150907299a2185cdf3-1440x1024.png)
 
@@ -86,37 +74,25 @@ First, **Environment** cards were chosen based on what we were facing right now.
 
 Next, we move on to the **Inflection Point**, which in this case is the made-up “Denmark explicitly emphasises Danish citizen wellbeing over foreign residents.” This being purely speculative, we wanted to explore what would happen.
 
-
-
 ![](/assets/c15ca7dc85e6a737f710947ea2cd14ec2b3fcbfc-2048x1365.jpg)
 
 Looking at the first scenario
 
-
-
 ### The First Assessment
-
-
 
 ![](/assets/68d3bd5aabfaf43d6eeee82ed84a8da40bb72078-1440x244.png)
 
-The first assessment canvas 
+The first assessment canvas
 
 After we laid out these four cards, along the “Now” time, we asked ourselves: “Okay, what would we do?” And at this first assessment, there actually wasn’t much. Even in a scenario where we were sick and our health as foreign workers was being devalued, we’re healthy, have resources, and have a community. So we decided that we’d simply stay home, and try to weather this sickness as best we can.
 
-
-
 ### The Second Assessment
-
-
 
 ![](/assets/31517ea3b13e68abca2a2df0855db9bab4b93531-1440x244.png)
 
 The second assessment canvas
 
 Then we rolled a dice. We had each of our catastrophy cards labeled with a number, since for this initial exercise we only had a few. And it rolled a 4: “A Death In the Family.” **This was the moment where the game hit home and we both said “Fuck” in unison.**
-
-
 
 In a scenario where our own health was at risk and we had made the decision to shelter in place, suddenly our sibling or our parent calls us with crushing news. We’re between an 8 and 12-hour flight back — itself a multiple of risks to ourselves, our loved ones, and those whose paths are simply coincident with our own.
 
@@ -136,13 +112,9 @@ Ultimately, we looked at our decisions and took stock — what comes next? If th
 
 **This wasn’t a fun game.** It was upsetting, painful, and anxiety-inducing. But though crudely simulating what might come, it helped map out many of the blindspots and fragilities we’ve had all along. And maybe, if we run through a few more times, it’ll mean we’re in a better posture when the time to act comes.
 
-
-
 ![](/assets/a3ed73356f37bc0044786aac36a91d8dba9b4271-2048x1365.jpg)
 
 Dealing with the first game required a beer and serious decompression
-
-
 
 ## Rules of Play
 
@@ -151,22 +123,22 @@ Okay. The above was a long diatribe about why we made this. Here’s the TL;DR o
 ### Setup the Board
 
 1. List out everything you’re thinking about on post-its or small squares of paper.
-2. 
+2.
 
 Organize into:
 
-  * Environment (something ongoing, like sickness or unemployment)
-  * Resources (cash, community, etc)
-  * Inflection (an event that forces a decision)
-  * Catastrophe (something big and unexpected)
-  * Wildcard (Something possible but very unlikely, like a shooting war between Russia and Turkey or the EU collapsing)
+- Environment (something ongoing, like sickness or unemployment)
+- Resources (cash, community, etc)
+- Inflection (an event that forces a decision)
+- Catastrophe (something big and unexpected)
+- Wildcard (Something possible but very unlikely, like a shooting war between Russia and Turkey or the EU collapsing)
 
-1. 
+1.
 
 Create two axis:
 
-  * one of time starting from now,
-  * one with environment, positive resource, negative resource, inflection, catastrophe, wildcard. Then two more columns: Assessment 1, Assessment 2
+- one of time starting from now,
+- one with environment, positive resource, negative resource, inflection, catastrophe, wildcard. Then two more columns: Assessment 1, Assessment 2
 
 [You can download the canvas here](undefined). We didn’t play with the wildcards initially, so didn’t include that on the canvas.
 
@@ -190,5 +162,5 @@ And then if you like, play another round with a different starting point. Who kn
 
 ### Resources
 
-* [List of topics to help get started.](https://docs.google.com/spreadsheets/d/1kxSbkwnDXJZfGT_-6vx8Yu8Xa4zb8taRV3CGYYlHy5E/edit?usp=sharing)
-* [Template canvas to print out](https://andrewlb.com/f87d372c75f53c5a605f786953391152/canvas.pdf)
+- [List of topics to help get started.](https://docs.google.com/spreadsheets/d/1kxSbkwnDXJZfGT_-6vx8Yu8Xa4zb8taRV3CGYYlHy5E/edit?usp=sharing)
+- [Template canvas to print out](https://andrewlb.com/f87d372c75f53c5a605f786953391152/canvas.pdf)

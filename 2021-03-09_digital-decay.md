@@ -4,11 +4,11 @@ title: "The Decay of Digital Things"
 date: "2021-03-09"
 slug: "digital-decay"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png"
+image: "/assets/bfd9952bc728a5aed8bc765aefeec47f3432f605-1180x1180.png"
 description: ""
 ---
 
-We have spent a decade building the consumer Internet of Things with an ethos of “fail fast”. Unfortunately, many of the things we built failed to embrace the withering effect that time has on business, technology, intention, and capital. Consumers have been left holding connected objects that no longer connect, and the question of why investments in the “future” of physical things have resulted in such ephemeral value. 
+We have spent a decade building the consumer Internet of Things with an ethos of “fail fast”. Unfortunately, many of the things we built failed to embrace the withering effect that time has on business, technology, intention, and capital. Consumers have been left holding connected objects that no longer connect, and the question of why investments in the “future” of physical things have resulted in such ephemeral value.
 
 The Decay of Digital Things started as a series of personal essays and prototyping projects exploring this idea that turned into a class taught at the Stanford d.school in 2014. Inspired by my essays and the frustration about connected products with dead services, we asked the students to explore the different aspects of decay that are connected to networked objects. Physical metaphors like rust, patinas, overgrowth, and repair were all central to the students’ construction of a body of work and scenarios that pointed to digital decay. Their work explored everything from the calcified information around our social networking identities, to the fragility inherent in creating a connected object; becoming a vanguard to uncritical enthusiasm for more, which has become a hallmark of Silicon Valley-inspired creation.
 
@@ -28,8 +28,6 @@ The death of a software product leaves a hole in one’s pocketbook and a need t
 
 I have described a bleak view of connected objects, but fortunately, this is not the only story worth telling. Even in the failed model, there are interesting early stabs at addressing the “long tail” of connected objects. One shockingly consistent example of sustainable product design is the Monome, a hardware platform for open-source music creation that connects into an ecosystem of community-created tools. It’s a simple grid of lights and buttons that send and receive commands from a device. Mine is from 2008. I also recently set it up again to use with a new crop of tools from the Monome community, and its founder helped a community of us debug a problem with old monomes and a new OSX systems.
 
-
-
 ![](/assets/d8932692cc5475bfb16fe49e80fd15c619b4fc87-1180x1180.png)
 
 The Monome presents a vision of sustainable product maintenance because it is both a company and a community. Brian Crabtree created its first iteration, but countless others have written code for it, built performances around it, and made their own versions of it. It’s an open-source product that creates greater value for its supporting business through the value generated within the community itself. Monome.org also has a vast repository of knowledge related to the monome in its different and evolving products that empowers its customers to continuously adapt it to their evolving needs.
@@ -40,7 +38,7 @@ The Monome ethos of product development echoes the “slow company” movement e
 
 Sometimes though, things do simply fail. As frustrated as I am with Berg Cloud shutting down, it’s difficult to fault the Berg team in pursuing a dream and giving it their all. Sometimes businesses simply fail despite one’s best efforts. There might not be a market, or it might be a pricing strategy that doesn’t work, or you simply run out of runway. A business failure is not (necessarily) a moral failure on the part of the entrepreneurs, but the result is the same. Consumers are left with their dead plastics and silicon pining for a server that will answer back.
 
-The Little Printer is an example of what can be done when a connected technology business does not foresee its own demise, but tries to react responsibly to it. Some simple searching reveals an enthusiastic community (along with the individual help of some former Berg team members), who have brought their now dead printers back to life. The process isn’t simple. 
+The Little Printer is an example of what can be done when a connected technology business does not foresee its own demise, but tries to react responsibly to it. Some simple searching reveals an enthusiastic community (along with the individual help of some former Berg team members), who have brought their now dead printers back to life. The process isn’t simple.
 
 It involves setting up your own server and then flashing the Berg Hub to redirect server requests to the new address. These methods emerged from long GitHub discussions and thoughtful blog posts, but they emerged nonetheless. So why does the Berg device have a pathway to resuscitation while many other devices don’t?
 
@@ -58,8 +56,8 @@ _This was originally a chapter of the 2018 Kairus book, [The Internet Of Other P
 
 ### References
 
-[http://berglondon.com/blog/2010/09/03/patina/](http://berglondon.com/blog/2010/09/03/patina/) 
+[http://berglondon.com/blog/2010/09/03/patina/](http://berglondon.com/blog/2010/09/03/patina/)
 
-[https://www.wired.com/2016/12/the-inside-story-behind-pebbles-demise/](https://www.wired.com/2016/12/the-inside-story-behind-pebbles-demise/) 
+[https://www.wired.com/2016/12/the-inside-story-behind-pebbles-demise/](https://www.wired.com/2016/12/the-inside-story-behind-pebbles-demise/)
 
 [https://www.theverge.com/2016/5/24/11753878/pebble-2-watch-fitness-tracker-heart-rate-sensor-vide](https://www.theverge.com/2016/5/24/11753878/pebble-2-watch-fitness-tracker-heart-rate-sensor-vide)

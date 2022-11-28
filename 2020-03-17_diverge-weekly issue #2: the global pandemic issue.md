@@ -4,7 +4,7 @@ title: "Diverge Weekly Issue #2: The Global Pandemic Issue"
 date: "2020-03-17"
 slug: "diverge-weekly issue #2: the global pandemic issue"
 author: "Andrew Lovett-Barron"
-thumbnail: "/assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg"
+image: "/assets/7448c66dfd8f8eef6b4550aafc0125bc5c592b2a-991x548.jpg"
 description: ""
 ---
 
@@ -29,8 +29,6 @@ Clearly, design has a role in this crisis, but how does the individual designer 
 As we collectively weather this pandemic, the thing we should recognize is that **foresight without intervention is simply speculation, and intervention without foresight is** [**naive at best**](https://news.ycombinator.com/item?id=22453746) **and** [**incredibly harmful at worst**](https://www.npr.org/sections/goatsandsoda/2020/03/12/814876173/coronavirus-trump-speech-creates-chaos-eu-says-it-wasnt-warned-of-travel-ban). As those working in or adjacent to design, we have a responsibility to look ahead: both systematically using the tools of our trade, and ambiently by absorbing information globally and from many sources.
 
 Be safe and be generous. Finally, look after yourself now, because like everyone’s favourite William Gibson quote, “The future is already here — it’s just not very evenly distributed.” [Just as China is finding itself able to respond to Italy’s needs](https://www.straitstimes.com/world/europe/coronavirus-china-sends-medical-aid-to-spain-and-italy) because of how it handled its own spike in infections, we all might be in a position to help others depending on where we are in our own infection curve.
-
-
 
 ## Security Blanket
 
