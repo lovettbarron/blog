@@ -6,6 +6,7 @@ slug: "kitbashing-experience"
 author: "Andrew Lovett-Barron"
 image: "/assets/e88741462537636338210b490378b0e24276e9b5-1243x700.png"
 description: ""
+feature: True
 categories: ["post"]
 tags: []
 ---

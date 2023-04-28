@@ -6,6 +6,7 @@ slug: "pro-warning-people"
 author: "Andrew Lovett-Barron"
 image: "/assets/19e8c5810ccae48758ba3610dfc550c5355a99b0-415x260.png"
 description: ""
+feature: True
 categories: ["post"]
 tags: []
 ---

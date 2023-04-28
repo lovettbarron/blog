@@ -6,6 +6,7 @@ slug: "avoiding-kits"
 author: "Andrew Lovett-Barron"
 image: "/assets/370682fae28fc754445455cb67c6bf58a1065948-3257x2172.png"
 description: ""
+feature: True
 categories: ["post"]
 tags: []
 ---

@@ -6,6 +6,7 @@ slug: "reconstructive-design-process"
 author: "Andrew Lovett-Barron"
 image: "/assets/44f9dfd5f1c61659602eb723cfd555795075edbd-2360x1428.png"
 description: ""
+feature: True
 categories: ["post"]
 tags: []
 ---

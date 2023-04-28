@@ -6,6 +6,7 @@ slug: "automating-research-recruiting"
 author: "Andrew Lovett-Barron"
 image: "/assets/5eea81ee1dae80b9cf6e3e1cd2867999f262980a-1280x782.png"
 description: ""
+feature: True
 categories: ["post"]
 tags: []
 ---
